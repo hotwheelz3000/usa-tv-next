@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-032fea8b-1d17-4415-aa70-41cf40e26b97",
+    "type": "tv",
+    "name": "NBC 4 New York News",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://image.xumo.com/v1/channels/channel/99993024/600x200.png?type=white_cropped",
+    "background": "https://image.xumo.com/v1/channels/channel/99993024/600x200.png?type=white_cropped",
+    "logo": "https://image.xumo.com/v1/channels/channel/99993024/600x200.png?type=white_cropped",
+    "description": "NBC 4 New York News - Entertainment"
+  }
+}
