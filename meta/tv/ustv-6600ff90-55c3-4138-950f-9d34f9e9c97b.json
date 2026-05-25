@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6600ff90-55c3-4138-950f-9d34f9e9c97b",
+    "type": "tv",
+    "name": "The Carol Burnett Show",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-carol-burnett-show.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-carol-burnett-show.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-carol-burnett-show.png",
+    "description": "The Carol Burnett Show - Entertainment"
+  }
+}
