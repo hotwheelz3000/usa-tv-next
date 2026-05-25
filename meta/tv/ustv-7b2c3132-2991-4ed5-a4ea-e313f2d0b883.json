@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7b2c3132-2991-4ed5-a4ea-e313f2d0b883",
+    "type": "tv",
+    "name": "Universal Movies",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped",
+    "background": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped",
+    "logo": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped",
+    "description": "Universal Movies - Entertainment"
+  }
+}
