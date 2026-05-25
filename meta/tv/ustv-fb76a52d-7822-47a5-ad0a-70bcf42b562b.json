@@ -6,9 +6,9 @@
     "genres": [
       "Entertainment"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lucha-libre-aaa.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lucha-libre-aaa.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lucha-libre-aaa.png",
     "description": "Lucha Libre AAA - Entertainment"
   }
 }
