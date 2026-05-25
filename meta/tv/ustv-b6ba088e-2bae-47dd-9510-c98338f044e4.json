@@ -6,9 +6,9 @@
     "genres": [
       "Music"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/vevo-90s.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/vevo-90s.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/vevo-90s.png",
     "description": "Vevo '90s - Music"
   }
 }
