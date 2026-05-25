@@ -10841,6 +10841,2553 @@
         "Kids"
       ],
       "poster": "https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png"
+    },
+    {
+      "id": "ustv-d2ce3a54-85c6-460e-a1f3-149781b9da8a",
+      "type": "tv",
+      "name": "LG Channels Action Showcase",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Action_Showcase/LG_Channels_Action_Showcase_Logo_White_400x200.png"
+    },
+    {
+      "id": "ustv-88470d5f-7fef-46a0-9376-6f23267c3d0b",
+      "type": "tv",
+      "name": "NCAA Championships: Powered by LG",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/989/lg/09cf4f/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-7b2c3132-2991-4ed5-a4ea-e313f2d0b883",
+      "type": "tv",
+      "name": "Universal Movies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-7fb3ef27-8b7e-4164-9260-a595bcd3cc03",
+      "type": "tv",
+      "name": "All Chewed Up",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Allchewedup/AllChewedUpLogo_V2.png"
+    },
+    {
+      "id": "ustv-07286bdb-6ee4-4c93-b0cd-958ec1b4f7f1",
+      "type": "tv",
+      "name": "NYPD Blue",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png"
+    },
+    {
+      "id": "ustv-564bc791-6129-400d-99dd-e1477271146b",
+      "type": "tv",
+      "name": "Historian",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-2c8aaf56-201c-4311-9130-7b4646623f72",
+      "type": "tv",
+      "name": "LOL! Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1v0zs4geog4co.cloudfront.net/400x200LGWhite_LG.png"
+    },
+    {
+      "id": "ustv-0b671fda-edc5-46bd-8bf0-03826e8e1f2c",
+      "type": "tv",
+      "name": "Matthew Berry\u2019s Fantasy Life",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d7xr8zn8daz19.cloudfront.net/FantasyLife-2024-HORIZONTAL-LOGO-Stencil-White.png"
+    },
+    {
+      "id": "ustv-3172ba8e-8f52-404a-855c-08f363112a8b",
+      "type": "tv",
+      "name": "Majordomo TV with David Chang",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1369/lg/82e65a/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-ae95a06a-a3ae-429b-a514-959e863c36f3",
+      "type": "tv",
+      "name": "NHL",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png"
+    },
+    {
+      "id": "ustv-1e741ee2-07ee-4789-9d11-5d588c260358",
+      "type": "tv",
+      "name": "Newsmax N2",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png"
+    },
+    {
+      "id": "ustv-b7273bd4-e1c0-436b-8c37-57cfe70ff174",
+      "type": "tv",
+      "name": "CNN Headlines International",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Headlines_International_LG_white_400x200px.png"
+    },
+    {
+      "id": "ustv-c346d4fb-839c-4422-930e-72e4ca6d83b5",
+      "type": "tv",
+      "name": "Reuters",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters_Logo.png"
+    },
+    {
+      "id": "ustv-df034c1c-1986-4998-b415-ec10ad5f9566",
+      "type": "tv",
+      "name": "Yahoo! Finance",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/yahoo/YFLogo_400x200.png"
+    },
+    {
+      "id": "ustv-d30d0ba6-3932-4e61-830a-ff5ea3f3488a",
+      "type": "tv",
+      "name": "The Hill",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/nexstar/channels/1178-400x200.png"
+    },
+    {
+      "id": "ustv-8120ebeb-504d-4afa-ad61-00e70ede3d44",
+      "type": "tv",
+      "name": "TYT",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tyt/TYT_White_Logo_372x160.png"
+    },
+    {
+      "id": "ustv-ebf5a65c-22b9-48db-bcc5-9a30cde35b26",
+      "type": "tv",
+      "name": "Bloomberg Originals",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/903/lg/fab89a/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-8fb24251-c11a-419e-8f2e-ba83b4197b54",
+      "type": "tv",
+      "name": "AccuWeather",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2rxe08cffrd4y.cloudfront.net/Images/S3/LG_Ch_Logo2_800x200.png"
+    },
+    {
+      "id": "ustv-be9b663f-9ec2-47f8-96df-3c1d51a75f47",
+      "type": "tv",
+      "name": "WABC ABC7 New York",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ABC7_NY/Abc7_NY_logo.png"
+    },
+    {
+      "id": "ustv-032fea8b-1d17-4415-aa70-41cf40e26b97",
+      "type": "tv",
+      "name": "NBC 4 New York News",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993024/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-8b441032-dc07-4ee1-92f8-f24bef093c4d",
+      "type": "tv",
+      "name": "FOX LOCAL Washington DC",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/foxdigital/WTTG/FL-WashingtonDC-400x200-LG-Channel_Logo.png"
+    },
+    {
+      "id": "ustv-56d41717-a1a6-4343-a326-e80c8425a738",
+      "type": "tv",
+      "name": "WJLA ABC7 Washington DC News",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sinclair/channels/logo_wjla_abc7_station_cutout_white_primary_fixed_canvas_400x200.png"
+    },
+    {
+      "id": "ustv-c48bf2f4-f865-4c63-b85a-2a03df008b5d",
+      "type": "tv",
+      "name": "WXYZ 7 Action News Detroit",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1v4dukw5h7hwm.cloudfront.net/platformimages/WXYZ/LG-Logo-800x200-WXYZ-White.png"
+    },
+    {
+      "id": "ustv-d530b792-d039-4b6e-a543-f38c21bcb405",
+      "type": "tv",
+      "name": "Local Now",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/localnow_lg_images/logo_bug_300x300/LN_logo_white_300x300.png"
+    },
+    {
+      "id": "ustv-0e8fa409-3761-4136-a399-35f9aa414e69",
+      "type": "tv",
+      "name": "ABC 20/20",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ABC2020/abc_400X200.png"
+    },
+    {
+      "id": "ustv-2b31255c-494e-40dc-b251-5220588d9d48",
+      "type": "tv",
+      "name": "MovieSphere",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png"
+    },
+    {
+      "id": "ustv-494c63c5-b99e-4d24-9043-36819375f36e",
+      "type": "tv",
+      "name": "FilmRise Free Movies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992272/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-106764f9-dcef-40be-be7d-f17c6a436628",
+      "type": "tv",
+      "name": "Free Movies Plus",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"
+    },
+    {
+      "id": "ustv-c80d357e-9237-49a5-83f6-916e5680e8be",
+      "type": "tv",
+      "name": "CINEVAULT",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-8bc8402e-39db-4b5e-a870-028cb9b27180",
+      "type": "tv",
+      "name": "80s Rewind",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5ca525b650be2571e3943c63/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-6dd3e82b-e0d4-4741-bdef-5e49e5fd5f7a",
+      "type": "tv",
+      "name": "90s Throwback",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-fedeccc3-81a2-4cb5-9317-c5a93338d2f0",
+      "type": "tv",
+      "name": "CINEVAULT: Classics",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png"
+    },
+    {
+      "id": "ustv-417faec5-4167-41fb-a5a7-8cc1140c4724",
+      "type": "tv",
+      "name": "Classic Movies Channel",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/logo_1758306320167.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-74fd77f1-1af0-40ae-8929-a34ab1cd8761",
+      "type": "tv",
+      "name": "Paramount Movie Channel",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-3ab08cec-504e-4855-a89b-7fc731323863",
+      "type": "tv",
+      "name": "Shout! Movies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png"
+    },
+    {
+      "id": "ustv-ec421442-a558-4136-a34a-d4635fecd8f2",
+      "type": "tv",
+      "name": "Pluto TV Spotlight",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-960c441a-0ac8-41fb-adab-79caec45f614",
+      "type": "tv",
+      "name": "Miramax Movies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/798-400x200.png"
+    },
+    {
+      "id": "ustv-dfaadc55-2653-4d00-b81e-5e149b123191",
+      "type": "tv",
+      "name": "Xumo Free Action Movies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992286/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-74025529-020f-4e49-91aa-bd09f53ff8bd",
+      "type": "tv",
+      "name": "Pluto TV Action",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/561d7d484dc7c8770484914a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-760843b8-b9c0-4655-bb0c-ef54fd3fd6df",
+      "type": "tv",
+      "name": "Hi-Yah!",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992284/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-23dad839-ddbd-422b-8f8c-d3ba91a5bc7a",
+      "type": "tv",
+      "name": "National Lampoon",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/758-400x200.png"
+    },
+    {
+      "id": "ustv-42705104-afc4-4946-a413-06000b07a43d",
+      "type": "tv",
+      "name": "Pluto TV Comedy",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-3fc55e4a-c3d9-496f-823b-189a9cf75514",
+      "type": "tv",
+      "name": "Hallmark Movies And More",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/crownmedia/HMMore_LG_Launch_Assets_Logo_White.png"
+    },
+    {
+      "id": "ustv-fe1adee6-9a18-4ad2-b4a2-0f8979449d5c",
+      "type": "tv",
+      "name": "Lifetime Movies Love & Drama",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LifetimeLoveDrama/LMLD_Channel_Logo_white_400x200.png"
+    },
+    {
+      "id": "ustv-3fe33014-1bd6-4e4e-8dac-d04a28401b8f",
+      "type": "tv",
+      "name": "MyTime Movie Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png"
+    },
+    {
+      "id": "ustv-7429fccc-be4d-47e9-92aa-862db1527507",
+      "type": "tv",
+      "name": "Pluto TV Romance",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-01e53e3c-6250-4cc7-a9d9-8cdee309eda7",
+      "type": "tv",
+      "name": "Xumo Free Black Cinema",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992288/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-2530c20e-af37-47cd-b6e9-f9aa31ff30b9",
+      "type": "tv",
+      "name": "Maverick Black Cinema",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/527/lg/bce7d5/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-cdb39611-77f5-4e1b-aa57-0a8e79ea68b7",
+      "type": "tv",
+      "name": "Amasian TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EU%20Channel%201/amasiantv_movies_and_more_logo_lg_channels.png"
+    },
+    {
+      "id": "ustv-675dce66-9a80-4f72-aea7-b6734c658436",
+      "type": "tv",
+      "name": "Pluto TV Thrillers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-45c661f8-700f-497a-ae1c-9468d67928cf",
+      "type": "tv",
+      "name": "Tribeca",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"
+    },
+    {
+      "id": "ustv-3e38f104-77f3-4181-b71b-8daa6b7751b3",
+      "type": "tv",
+      "name": "The Asylum",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"
+    },
+    {
+      "id": "ustv-abfafd49-bc62-4182-8455-2ef5aa8a03a6",
+      "type": "tv",
+      "name": "Horror by ALTER",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"
+    },
+    {
+      "id": "ustv-bcffab87-4fb4-4fc2-b271-adec3e2e6cd6",
+      "type": "tv",
+      "name": "Screambox TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-6eaf0eb1-d6b2-4648-a9da-9ae000ef9628",
+      "type": "tv",
+      "name": "Pluto TV Horror",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-887cb847-ed78-44a7-91ed-e81e517ecd3d",
+      "type": "tv",
+      "name": "Pluto TV Terror",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-277d6114-4449-4e0c-8eff-2424bb73d084",
+      "type": "tv",
+      "name": "Scares by Shudder",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1566-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-67f91c6e-652b-4bc1-a379-46920783565c",
+      "type": "tv",
+      "name": "Alfred Hitchcock Presents",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993023/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-4532a71d-ac7e-4085-9220-6120d9fd4b98",
+      "type": "tv",
+      "name": "The Beverly Hillbillies",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-4261179e-1e37-4b7f-8036-8a6db899b9ec",
+      "type": "tv",
+      "name": "CINEVAULT: Westerns",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-Logo-PNG-100x100_v5.png"
+    },
+    {
+      "id": "ustv-f5b6bdbd-cc6f-42d1-a237-b9bec3753d1e",
+      "type": "tv",
+      "name": "Lone Star",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-325ad494-bd0f-4c49-981d-70a8ab4c541d",
+      "type": "tv",
+      "name": "Xumo Free Westerns",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992285/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-af0e9a9c-124a-436a-9aae-36ee608b4795",
+      "type": "tv",
+      "name": "Pluto TV Westerns",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"
+    },
+    {
+      "id": "ustv-f0f29007-6d11-4b0d-816c-7f95bbe08fed",
+      "type": "tv",
+      "name": "Western Bound Wrangled by INSP",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992520/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-8ad04e1b-fec6-4ab3-aade-8efaacad0202",
+      "type": "tv",
+      "name": "Grit Xtra",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1208/lg/049016/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-017afa9a-fd95-4be4-a94d-8d895efb5000",
+      "type": "tv",
+      "name": "Electric Now",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"
+    },
+    {
+      "id": "ustv-27394bab-f61a-4412-8cd7-323120ef3703",
+      "type": "tv",
+      "name": "Baywatch",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png"
+    },
+    {
+      "id": "ustv-60f5135f-7918-4c8f-b1d6-fbaa4d5d9d32",
+      "type": "tv",
+      "name": "Hersphere",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png"
+    },
+    {
+      "id": "ustv-1df0d1a9-83c9-42b5-a661-7afb93db1dcd",
+      "type": "tv",
+      "name": "Dove Channel",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"
+    },
+    {
+      "id": "ustv-60854300-87f5-484f-ac43-a7842532b807",
+      "type": "tv",
+      "name": "Nikita",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/Nikita400X200.png"
+    },
+    {
+      "id": "ustv-53caa154-161f-422a-bafb-ef9f5a61f477",
+      "type": "tv",
+      "name": "Nip/Tuck",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_Niptuck.png"
+    },
+    {
+      "id": "ustv-fa3e108c-a5a8-4de1-ba79-f81570917f44",
+      "type": "tv",
+      "name": "Anger Management",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png"
+    },
+    {
+      "id": "ustv-d62e70b9-790d-4645-91b0-52fdd6f2fc35",
+      "type": "tv",
+      "name": "Are We There Yet",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://db6iftd8li11q.cloudfront.net/AreWeThereYet/AreWeThereYet_LGLaunch_Guide_Logo_White_800x200.png"
+    },
+    {
+      "id": "ustv-552ddf3e-0d24-4882-a357-f0e064f1e59b",
+      "type": "tv",
+      "name": "Love Thy Neighbor",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Lovethynghr/lovethyneigbor_lg_logo.png"
+    },
+    {
+      "id": "ustv-afb971fe-a4ec-4147-a914-9ebbfefa29e1",
+      "type": "tv",
+      "name": "Ebony TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png"
+    },
+    {
+      "id": "ustv-ade8ecc2-fb14-49fd-bf0b-18cf266b01c8",
+      "type": "tv",
+      "name": "How To",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/HowTo400X200.png"
+    },
+    {
+      "id": "ustv-9b7b911d-27cf-4754-b573-1d90e8bceb2e",
+      "type": "tv",
+      "name": "Modern Marvels",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1040-LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-7a54ba4e-8970-4a91-b923-ad6dc6c46590",
+      "type": "tv",
+      "name": "Modern Innovations",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ModernInnovation/Modern_Innovation_by_H_logo_400x200.png"
+    },
+    {
+      "id": "ustv-4b961b86-cb72-4856-8010-c0ee68c29933",
+      "type": "tv",
+      "name": "Mysterious Worlds",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/mystwrld400X200.png"
+    },
+    {
+      "id": "ustv-0f638d78-83c1-4637-97c6-804a20051a64",
+      "type": "tv",
+      "name": "Space & Beyond",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/SpaceandBeyond/LG_Logo_400x200_Space&Beyond.png"
+    },
+    {
+      "id": "ustv-c90755c1-ff82-4fc4-b1f8-f0fbcc6ea6ea",
+      "type": "tv",
+      "name": "Curiosity Now",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png"
+    },
+    {
+      "id": "ustv-7a105831-9924-432d-940e-55e255eac074",
+      "type": "tv",
+      "name": "Declassified",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png"
+    },
+    {
+      "id": "ustv-dcba83d5-f869-4044-a9f2-73d60051137e",
+      "type": "tv",
+      "name": "Life Below Zero",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/LifeBelowZero/LBZ_Stacked_400x200.png"
+    },
+    {
+      "id": "ustv-ba40d039-2918-439b-afb9-aa75394902cb",
+      "type": "tv",
+      "name": "Xtreme Outdoor Presented by HISTORY",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/590-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-67f71f86-b436-47b8-b276-dab34c11ca40",
+      "type": "tv",
+      "name": "Ax Men",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-ecf23610-0229-4e54-be42-261fc627bfc6",
+      "type": "tv",
+      "name": "Duck Dynasty",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Duck_Dynasty_LG_Logo_white_400x200.png"
+    },
+    {
+      "id": "ustv-40793ee1-0f13-419d-90e9-1be7e04d6231",
+      "type": "tv",
+      "name": "BBC Adventure",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/1209-400x200.png"
+    },
+    {
+      "id": "ustv-42f0c301-5d73-4448-9780-f6c9bb29fc4a",
+      "type": "tv",
+      "name": "Waypoint TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png"
+    },
+    {
+      "id": "ustv-79e87b7a-a8cb-4f2c-81a2-e8d546acb455",
+      "type": "tv",
+      "name": "BOOT",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/oneworld/channels/boot400x200.png"
+    },
+    {
+      "id": "ustv-1c014d8d-0fc6-464b-a119-0c3d9d526469",
+      "type": "tv",
+      "name": "Deal Zone",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1099-LG-Logo-PNG-100x100_v3.png"
+    },
+    {
+      "id": "ustv-1e1df883-5a2a-4252-9cdb-bfcefe3aef13",
+      "type": "tv",
+      "name": "Torque",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1052-LG-Logo-PNG-100x100_v3.png"
+    },
+    {
+      "id": "ustv-831f5826-e1a4-4356-9faa-d4d2c7c5c396",
+      "type": "tv",
+      "name": "Ice Road Truckers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/968-LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-41f7abab-8d9a-4986-9ea7-ed998dc4ac69",
+      "type": "tv",
+      "name": "Power Nation",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/powernation_logo_700x200.png"
+    },
+    {
+      "id": "ustv-3a0ab0de-5d01-4328-b143-df1d5082fa23",
+      "type": "tv",
+      "name": "BBC Top Gear",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png"
+    },
+    {
+      "id": "ustv-1302e03b-43e0-4d16-b7b0-687bf036fdcc",
+      "type": "tv",
+      "name": "Classic Car Auctions",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ClassicCarAuctions/Classic_Car_Auctions_by_H_logo_400x200.png"
+    },
+    {
+      "id": "ustv-1a102b67-84ef-42da-acbb-9d799b2b8995",
+      "type": "tv",
+      "name": "Shark Tank",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/SharkTank/SharkTankLogo_400X200.png"
+    },
+    {
+      "id": "ustv-071d9e22-dee8-4dd2-b78a-82e2e73e4cc7",
+      "type": "tv",
+      "name": "Say Yes to the Dress",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/SYTD_400X200.png"
+    },
+    {
+      "id": "ustv-eea346ae-0ddc-4894-8cc0-510ac6affd82",
+      "type": "tv",
+      "name": "Dance Moms",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Dance_Moms_Channel_Logo_Image_200x800.png"
+    },
+    {
+      "id": "ustv-89cda210-2df0-4bf7-b2a2-d5e63f659325",
+      "type": "tv",
+      "name": "Matched Married Meet",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Matched_Married_Meet_Channel_Logo_Image_200x800.png"
+    },
+    {
+      "id": "ustv-c867d79a-62df-4e06-b037-ee0093c71b6d",
+      "type": "tv",
+      "name": "E! Keeping Up",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993011/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-57900a85-1733-4c92-9ba4-f424b16355ec",
+      "type": "tv",
+      "name": "Love After Divorce",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://accio.its-newid.net/channel/newid_096/lg_channels/img/channel_logo/default/channel_logo.png"
+    },
+    {
+      "id": "ustv-bab7c261-efdf-4e2a-8d55-ac81d62d66e2",
+      "type": "tv",
+      "name": "I am SOLO",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://accio.its-newid.net/channel/newid_103/lg_channels/img/channel_logo/default/channel_logo.png"
+    },
+    {
+      "id": "ustv-c8a3abf0-3897-4a92-9b2a-0b1b4b429c10",
+      "type": "tv",
+      "name": "The Osbournes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2mxb63djushzm.cloudfront.net/images/TheOsbournes-LG_LOGO_400x200.png"
+    },
+    {
+      "id": "ustv-7cce1cb2-48f1-4a16-9e7b-b62a35afd058",
+      "type": "tv",
+      "name": "America's Got Talent",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993062/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-98501119-2d1f-4476-98bd-7d16f1e69067",
+      "type": "tv",
+      "name": "Bachelor Nation",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/bachNat400X200.png"
+    },
+    {
+      "id": "ustv-700fe276-0bec-481b-be32-046d858a957b",
+      "type": "tv",
+      "name": "Hell's Kitchen",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-228e6ed2-f0f6-4a35-92c2-0096e5d72f0a",
+      "type": "tv",
+      "name": "American Ninja Warrior",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-a3f86ce2-80f8-41ab-8954-548c3446ddaf",
+      "type": "tv",
+      "name": "Wipeout Xtra",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2yv6y0n3qsl5c.cloudfront.net/WIPOXT/WipeoutXtra_LG_Logo.png"
+    },
+    {
+      "id": "ustv-7a53f7f6-ffde-43e0-b924-19ea0faa7b30",
+      "type": "tv",
+      "name": "Fear Factor",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/NEW_Fear-Factor-Powered-by-Banijay.png"
+    },
+    {
+      "id": "ustv-b92f1d34-53a1-409a-893a-3b4fd84d0eb7",
+      "type": "tv",
+      "name": "BBC Drama",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcdrama400x200.png"
+    },
+    {
+      "id": "ustv-7a36a0e6-bb75-485c-a32b-3e4e1b79c0dc",
+      "type": "tv",
+      "name": "Las Vegas",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993015/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-615e2740-1c70-452d-b1ad-acaddd2bd46a",
+      "type": "tv",
+      "name": "Lawless",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Lawless/Lawless_lg_logo.png"
+    },
+    {
+      "id": "ustv-61365170-da9f-451b-bd09-de6f49b31069",
+      "type": "tv",
+      "name": "Crime Beat TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/shoutstudios/channels/LG_CBTV_Logo_400x200.png"
+    },
+    {
+      "id": "ustv-b465e84f-9e86-4758-915a-ee6a58d39891",
+      "type": "tv",
+      "name": "Crime ThrillHer",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-1ec34e00-6cd6-492d-8d3b-7dd1832041ab",
+      "type": "tv",
+      "name": "Murder, She Wrote",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993020/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-35ce7285-c3b8-4dc0-9092-ec6a5b7460a3",
+      "type": "tv",
+      "name": "In The Heat Of The Night",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mgm/channels/LG_ITHOTN_ChannelLogo.png"
+    },
+    {
+      "id": "ustv-6db36162-f98e-4f1a-bb10-dff7d272766f",
+      "type": "tv",
+      "name": "First 48",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1853-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-118682f0-f523-4337-83f9-fd8a0048ee16",
+      "type": "tv",
+      "name": "I (Almost) Got Away with It",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_I(Almost)GotAwayWithIt.png"
+    },
+    {
+      "id": "ustv-df5ad944-58e9-4fc4-ad9a-2d01515c0410",
+      "type": "tv",
+      "name": "A&E Alaska State Troopers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-19ab53c6-fef4-4533-9e17-ddc2f284ab59",
+      "type": "tv",
+      "name": "Cold Case Files",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png"
+    },
+    {
+      "id": "ustv-d538283a-16f1-496c-bac1-26d6fc152d38",
+      "type": "tv",
+      "name": "TruBlu",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-780d5423-1546-42bc-ac7d-4667c80b748a",
+      "type": "tv",
+      "name": "Crimes Cults Killers  by A&E",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png"
+    },
+    {
+      "id": "ustv-ee2db13d-e2eb-40e1-a4c9-76e8213bb30c",
+      "type": "tv",
+      "name": "World's Most Evil Killers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993006/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-848c65cd-e88e-4c99-b606-b150172032da",
+      "type": "tv",
+      "name": "A&E Live PD Greatest Shifts",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2183-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-acc0d41b-5607-4fca-8e76-449b3499d82a",
+      "type": "tv",
+      "name": "JAIL",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1201/lg/371c00/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-62696073-effa-437f-9be3-23d50d367894",
+      "type": "tv",
+      "name": "Law&Crime",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-5463c0cc-3636-47b4-aeaa-44830eb35c6f",
+      "type": "tv",
+      "name": "Divorce Court",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/foxfirstrun/Divorce_Court_logo_400x200.png"
+    },
+    {
+      "id": "ustv-3b8663a3-04e5-4917-865a-1199276f9cea",
+      "type": "tv",
+      "name": "Paternity Court",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mgm/channels/LG_PaternityCourt_ChannelLogo.png"
+    },
+    {
+      "id": "ustv-f28f1421-3145-490a-8dd4-a35a43dc8f56",
+      "type": "tv",
+      "name": "TMZ",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2mxb63djushzm.cloudfront.net/images/tmz/the-tmz-channel-logo-800x200.png"
+    },
+    {
+      "id": "ustv-cbe40a52-b6a3-4ada-b6aa-0e2b8316bd1a",
+      "type": "tv",
+      "name": "Fox Soul",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3rimcir91uaav.cloudfront.net/FOX-SOUL_800x200_white.png"
+    },
+    {
+      "id": "ustv-18fd81f3-411c-46f5-9a99-0b497c386b6b",
+      "type": "tv",
+      "name": "Chaos on Cam by A&E",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ChaosCam/Chaos_On_Cam_By_AE_LG-Logo-PNG-400x200.png"
+    },
+    {
+      "id": "ustv-06f57aab-42df-4b41-8670-142ad8321fca",
+      "type": "tv",
+      "name": "Reelz Famous & Infamous",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/reelz/channels/190-FamousInfamousLogo_WhiteStacked_400x200.png"
+    },
+    {
+      "id": "ustv-f62887e6-fe8b-4c93-8cd6-7528671d41c3",
+      "type": "tv",
+      "name": "Classic Doctor Who",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/904/lg/84b2ff/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-9ac8898d-ff8f-4434-8604-f9d4ad1ce278",
+      "type": "tv",
+      "name": "Xena Warrior Princess",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993064/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-f666ac2c-612b-43c4-b892-74addf8bca55",
+      "type": "tv",
+      "name": "Outersphere",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png"
+    },
+    {
+      "id": "ustv-6903fb15-e4b1-4320-becf-985f21b215cf",
+      "type": "tv",
+      "name": "Ghosts are Real",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/GSAR400X200.png"
+    },
+    {
+      "id": "ustv-7ac8f205-ebed-41cd-a769-f069b7d99688",
+      "type": "tv",
+      "name": "The Dead Files",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_TheDeadFiles.png"
+    },
+    {
+      "id": "ustv-969bd524-379c-45d4-8b26-4fb32cc95ed1",
+      "type": "tv",
+      "name": "Haunt TV US",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"
+    },
+    {
+      "id": "ustv-6ba63aea-2601-4e09-8593-a7224cb32481",
+      "type": "tv",
+      "name": "Alien Nation by DUST",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png"
+    },
+    {
+      "id": "ustv-63e43e86-4ddd-44af-a788-a2a4686f5266",
+      "type": "tv",
+      "name": "Anime 24/7",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Anime_24X7/anime_400X200.png"
+    },
+    {
+      "id": "ustv-c3d3dc36-57ab-48b0-a1cc-7be3776cf941",
+      "type": "tv",
+      "name": "Billiard TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-0fcb2a49-5f9a-46ba-a53d-409af8db8780",
+      "type": "tv",
+      "name": "FIFA+",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1854-LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-eec7d5ef-b7a5-4dcd-aaa5-5101945660f6",
+      "type": "tv",
+      "name": "T2",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/white_800X200_T2_Logo_4.png"
+    },
+    {
+      "id": "ustv-e598a7f8-75dd-401c-af8d-3d744f391856",
+      "type": "tv",
+      "name": "Pickleball TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PickleBall/Pickle_ball_800X200.png"
+    },
+    {
+      "id": "ustv-2ff37fc0-78a7-4300-a616-d66b004b89e5",
+      "type": "tv",
+      "name": "Scripps Sports Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/2198/lg/ae6736/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-cf170ebb-ffc5-4ff7-b35e-64dd44132d65",
+      "type": "tv",
+      "name": "SportsGrid",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250617/channel_600x200_363fd309-7f49-4b00-9e93-3ca3bfe22ed9.png"
+    },
+    {
+      "id": "ustv-7cfed892-a0a0-404e-8496-dcb13be1d050",
+      "type": "tv",
+      "name": "Team USA TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png"
+    },
+    {
+      "id": "ustv-71bef200-c419-4048-93de-283551495ad8",
+      "type": "tv",
+      "name": "RYZ Sports",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png"
+    },
+    {
+      "id": "ustv-cdff8c79-7eb9-4481-9b3e-f293cf48fb83",
+      "type": "tv",
+      "name": "Stadium",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-41df9ffd-2f25-420a-970d-b45fa3a7e142",
+      "type": "tv",
+      "name": "Overtime",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-efcaad0b-cb56-4971-8888-d70df9b75d1a",
+      "type": "tv",
+      "name": "K-Baseball TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/KBO_logo_372xfree.png"
+    },
+    {
+      "id": "ustv-6565f397-5e69-4cec-93a4-d14b9811efbb",
+      "type": "tv",
+      "name": "KLPGA",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3s2p39m306u7r.cloudfront.net/LGUPLUS/KLPGA/Lglogos/KLPGA_logo_400x200.png"
+    },
+    {
+      "id": "ustv-13275cfb-ec1d-45ec-9b3a-320978c5c025",
+      "type": "tv",
+      "name": "RugbyPass TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1872-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-42fcece1-0b4c-4a65-afd4-83f15fde0e8f",
+      "type": "tv",
+      "name": "Fubo Sports",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-429a346c-9f23-4c0d-8a20-e8f5bb443e34",
+      "type": "tv",
+      "name": "Bowling TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/2195/lg/c55840/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-65621b65-858a-46c9-9374-6e8f5fa0124d",
+      "type": "tv",
+      "name": "Yahoo! Sports Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/YSN_logo_400x200.png"
+    },
+    {
+      "id": "ustv-e3b93ad3-2477-465d-b7a7-1f4c80a192b6",
+      "type": "tv",
+      "name": "ESPN 8: The Ocho",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png"
+    },
+    {
+      "id": "ustv-22ea6aba-f895-45d1-b312-f85e938dbdfd",
+      "type": "tv",
+      "name": "MSG SportsZone",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1386-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-7b8d0604-f63b-48d6-af9e-e52ff905ec44",
+      "type": "tv",
+      "name": "NESN Nation",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1952/lg/d4cda0/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-32911402-062d-4c69-be7b-470e71708879",
+      "type": "tv",
+      "name": "Swerve Combat",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png"
+    },
+    {
+      "id": "ustv-84c965a1-982f-4a44-9965-2429e50286ac",
+      "type": "tv",
+      "name": "HBO Boxing",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3r7ib22akc064.cloudfront.net/HBOBoxing_LG_Logo_700x200_WHT.png"
+    },
+    {
+      "id": "ustv-f1694416-0738-425a-bce9-9172c328846d",
+      "type": "tv",
+      "name": "MotoGP TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_logo_400x200.png"
+    },
+    {
+      "id": "ustv-5e2d7128-669f-421a-adfa-afae2de4401c",
+      "type": "tv",
+      "name": "MavTV Select",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png"
+    },
+    {
+      "id": "ustv-a8a0ec95-d384-4f3b-b7cf-6fe37f9507c9",
+      "type": "tv",
+      "name": "Red Bull TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png"
+    },
+    {
+      "id": "ustv-49d13bc9-ce32-4f74-b746-45d7d85439b5",
+      "type": "tv",
+      "name": "DP World Tour",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png"
+    },
+    {
+      "id": "ustv-e3094acf-a638-47b3-aad1-607dc98852af",
+      "type": "tv",
+      "name": "Strongman Champions League",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-477d31ad-242e-4238-b4a5-6dc62dfc5e7b",
+      "type": "tv",
+      "name": "Game On",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/k20/gameon/GameON_White_Transparent_400x200.png"
+    },
+    {
+      "id": "ustv-56bc6dd7-9414-4e2a-b3dc-14390919725d",
+      "type": "tv",
+      "name": "Laff More",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-638ab87f-b027-48c8-84f5-084a3072b3b3",
+      "type": "tv",
+      "name": "GET Comedy",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-01545b00-ee2b-45dc-9a5a-12dea7d693e7",
+      "type": "tv",
+      "name": "NBC Comedy Vault",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993016/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-85aaf4c4-2cc3-4814-9927-8a76fd462156",
+      "type": "tv",
+      "name": "Saved by the Bell",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993019/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-7c84011f-dcb1-4a1a-bd48-ab13077607ce",
+      "type": "tv",
+      "name": "Slightly Off IFC",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/564-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-baedce5d-a1a4-43ad-b04c-51e94357bc59",
+      "type": "tv",
+      "name": "The Conners",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/TheConners/LG_The_Conners_800X200.png"
+    },
+    {
+      "id": "ustv-4a52e907-849d-4b9f-a7af-b4bb3a55a959",
+      "type": "tv",
+      "name": "Leave It to Beaver",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993065/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-4e83be1f-755c-4c0d-a3ce-eeaa5cb52cc2",
+      "type": "tv",
+      "name": "Johnny Carson TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png"
+    },
+    {
+      "id": "ustv-c0b431be-7719-4271-864d-b768c8f828f5",
+      "type": "tv",
+      "name": "SNL Vault",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993017/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-a5835703-c246-472f-8547-3558e7ae5bbf",
+      "type": "tv",
+      "name": "WITZ-Comedy TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1197/lg/4bbe15/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-bdc14c17-fecf-47a5-82bf-e980543edbaf",
+      "type": "tv",
+      "name": "It's Showtime at the Apollo",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-7e4421b2-e6aa-4354-9535-c8c3bde3a28b",
+      "type": "tv",
+      "name": "Comedy Plus",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png"
+    },
+    {
+      "id": "ustv-138bd19f-389b-4b09-81bc-ec204e964d7a",
+      "type": "tv",
+      "name": "Martha Stewart",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png"
+    },
+    {
+      "id": "ustv-2f894f7f-8916-4366-be51-5ccfcc0d123e",
+      "type": "tv",
+      "name": "Home Cooking",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/HomeCooking/HomeCooking_WHT_400x200.png"
+    },
+    {
+      "id": "ustv-969b2a3f-04c2-4592-9ef8-733a80c164fb",
+      "type": "tv",
+      "name": "Bizarre Foods with Andrew Zimmern",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_BizarreFoodsWithAndrewZimmern.png"
+    },
+    {
+      "id": "ustv-60af35e9-2053-4c7f-a5c6-5cf8ec3819ca",
+      "type": "tv",
+      "name": "Sweet Escapes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/sweetescape400X200.png"
+    },
+    {
+      "id": "ustv-096b6daf-b006-4fdb-9196-aaa89fe91c1e",
+      "type": "tv",
+      "name": "Cook's Country Channel",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png"
+    },
+    {
+      "id": "ustv-0ab4e24f-8c64-4139-abb3-4511231e7d4a",
+      "type": "tv",
+      "name": "Emeril Lagasse",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/EmerilLagasseChannel_800x200WhiteLogo_LGTV.png"
+    },
+    {
+      "id": "ustv-d8410137-9cb3-4b3b-823f-d413b0beddb0",
+      "type": "tv",
+      "name": "Best of Bobby Flay",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/BestofBobbyFlay/BestofBobbyFlay_WHT_400x200.png"
+    },
+    {
+      "id": "ustv-7bad1e56-e8f3-4e22-8a28-164307e002a3",
+      "type": "tv",
+      "name": "Chef vs Chef",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/ChefvsChef/ChefvsChef_WHT_400x200.png"
+    },
+    {
+      "id": "ustv-93c2a134-f9b0-4ef0-aa56-2e3905b3e998",
+      "type": "tv",
+      "name": "Hungry",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-fa74c219-41d6-4a7b-abb4-38d1414e91d2",
+      "type": "tv",
+      "name": "Chip & Jo: Feels Like Home",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/ChipJoFeelsLikeHome/LG_Logo_400x200_ChipJoFeelsLikeHome_Wht.png"
+    },
+    {
+      "id": "ustv-eb320ebe-781b-4418-9508-4c6001a3039d",
+      "type": "tv",
+      "name": "Property Brothers Channel",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineflix/channels/684-property-brothers.png"
+    },
+    {
+      "id": "ustv-90c7766f-a892-4072-be46-abbf6d803a28",
+      "type": "tv",
+      "name": "At Home with Family Handyman",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-Logo-PNG-100x100_v3.png"
+    },
+    {
+      "id": "ustv-e9e34fe5-6f10-4d1a-b8cf-c1ad65922eae",
+      "type": "tv",
+      "name": "Today's Home",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-756c3d2f-e93b-4ff8-94c4-c478162ee95d",
+      "type": "tv",
+      "name": "Welcome Home",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd_logo/welcomehome400x200.png"
+    },
+    {
+      "id": "ustv-7e776150-ed57-4eba-95dc-71011016e5de",
+      "type": "tv",
+      "name": "Property & Reno",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineflix/channels/476-property-and-reno.png"
+    },
+    {
+      "id": "ustv-c85f3b2b-a997-47ff-ab20-b7ec810713c2",
+      "type": "tv",
+      "name": "ABC Localish",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/Localish/abc_localish.png"
+    },
+    {
+      "id": "ustv-36c86bb6-c1c4-4966-823b-d4d8ff196b13",
+      "type": "tv",
+      "name": "GoTraveler",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png"
+    },
+    {
+      "id": "ustv-3cac03f3-1f4a-4343-9467-62647e3d4a85",
+      "type": "tv",
+      "name": "PBS Genealogy",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBS_Geno_logo_400x200.png"
+    },
+    {
+      "id": "ustv-22d25e22-3dde-4c5b-ba1c-e98bd1da0f35",
+      "type": "tv",
+      "name": "Antiques Roadshow",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png"
+    },
+    {
+      "id": "ustv-240aa684-44a2-4dce-a66a-32946f31df17",
+      "type": "tv",
+      "name": "Bargain Hunt",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1885/lg/ed83b9/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-fd69b4aa-2f4e-4775-9b38-6e516b439aa9",
+      "type": "tv",
+      "name": "People Are Awesome",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1161/lg/f9dc8b/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-0f55239f-4e26-4b59-9d67-b3a03df06b57",
+      "type": "tv",
+      "name": "Super Wings",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1694/lg/9c948f/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-417c8297-489d-4985-9ff8-8ebfa077de99",
+      "type": "tv",
+      "name": "Baby Einstein",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992126/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-00c97152-2cae-4fcd-8dc0-9fb472903178",
+      "type": "tv",
+      "name": "Kids TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-d621c655-9060-42fa-b9a0-9d5cd9551662",
+      "type": "tv",
+      "name": "Pokemon",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/images/pokemon/Poke%CC%81mon_Channel_Logo_Horizontal_White_400x200.png"
+    },
+    {
+      "id": "ustv-05d07cdd-f40d-470b-9262-51d79f4773a9",
+      "type": "tv",
+      "name": "Rainbow Ruby",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992510/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-e9efccfc-9e4e-4204-bcc3-355c9958a3d6",
+      "type": "tv",
+      "name": "Strawberry Shortcake",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992514/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-7a741208-86f9-4ea0-8b4f-ed3f248323b7",
+      "type": "tv",
+      "name": "Toony Planet",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/841/lg/e58fec/LG-Logo-PNG-100x100_v3.png"
+    },
+    {
+      "id": "ustv-a4611931-ae8e-4080-b721-11ed2338e285",
+      "type": "tv",
+      "name": "PBS Retro",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2mxb63djushzm.cloudfront.net/images/pbs/PBSRetro_LG_Channel_Logo_800x200.png"
+    },
+    {
+      "id": "ustv-355c3949-63db-4333-834f-a21c982d0f1d",
+      "type": "tv",
+      "name": "Barney and Friends",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1843-LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-944132a3-9a4f-4ea5-a375-60f17b0b9458",
+      "type": "tv",
+      "name": "Earth Day 365",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/EARTH-001/lg-direct/Channel_Logo_522x200.png"
+    },
+    {
+      "id": "ustv-64aa2cba-3aaf-40c9-ad30-6e27a65c72ef",
+      "type": "tv",
+      "name": "WeatherSpy",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png"
+    },
+    {
+      "id": "ustv-48cc1f7a-63f6-4833-88dd-1224d186ce54",
+      "type": "tv",
+      "name": "Terra Mater WILD",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2mxb63djushzm.cloudfront.net/Images/LG_FTM_LogoWhite_200x400px.png"
+    },
+    {
+      "id": "ustv-47f7e3d7-7d2e-426d-b54e-d08abb84c33b",
+      "type": "tv",
+      "name": "Love Pets",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/Images/LovePets_LG_ChannelAssetLogo_400x200.png"
+    },
+    {
+      "id": "ustv-df51db95-a9d1-4b7b-9e07-aeb58b3b9cdf",
+      "type": "tv",
+      "name": "PBSNature",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2g4o42k5n70cj.cloudfront.net/LG_logo_200px-high.png"
+    },
+    {
+      "id": "ustv-6d7576f0-77de-457a-948e-c3bcc45f2df6",
+      "type": "tv",
+      "name": "Stingray Naturescape",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/A003/lg-direct/Channel_Logo_449x200.png"
+    },
+    {
+      "id": "ustv-dbd09398-18a3-4b89-8f51-9f728f28ff71",
+      "type": "tv",
+      "name": "NatureVision",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99992106/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-22fa5821-00e3-49d4-bca4-df7b0a80363e",
+      "type": "tv",
+      "name": "Telemundo Al D\u00eda",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993040/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-70954ab2-eb10-4765-8b64-88b026e4784a",
+      "type": "tv",
+      "name": "N+ Univision 24/7",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/NU247_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-36adfbda-99d0-49a7-bd34-efeef9698fed",
+      "type": "tv",
+      "name": "Telemundo Noticias Florida",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993037/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-79f2c0d0-84a7-4a51-be25-185602547143",
+      "type": "tv",
+      "name": "FIFA+ en Espa\u00f1ol",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1780-LG-Logo-PNG-100x100_v4.png"
+    },
+    {
+      "id": "ustv-5561e0e3-85d1-4d27-b21a-809b48bae899",
+      "type": "tv",
+      "name": "ITV Deportes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d2mxb63djushzm.cloudfront.net/images/ITV_Deportes_400x200.png"
+    },
+    {
+      "id": "ustv-3826c968-9c4a-4d9f-b960-eb84d5dc9213",
+      "type": "tv",
+      "name": "Zona TUDN",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/ZonaTUDN_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-63dc50d2-0505-40d8-944d-f197bf281e34",
+      "type": "tv",
+      "name": "Canela.TV Deportes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-deportes-800x200.png"
+    },
+    {
+      "id": "ustv-a8591b6f-fb01-42e2-bde3-6f181e752325",
+      "type": "tv",
+      "name": "Lucha Plus",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Lucha_plus/Lucha_plus_logo.png"
+    },
+    {
+      "id": "ustv-2c359b7c-cc74-470a-bcec-5efebcf5ba87",
+      "type": "tv",
+      "name": "TuDiscovery",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Tu_Discovery_Logo_Channel_Banner.png"
+    },
+    {
+      "id": "ustv-68a50479-e23e-4edc-a3e9-c1ff152fcacb",
+      "type": "tv",
+      "name": "Bodas +",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Bodas_Logo_Channel_Banner.png"
+    },
+    {
+      "id": "ustv-351bfe69-6f5c-40e2-8380-bfebfaf876d1",
+      "type": "tv",
+      "name": "Aventura",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Aventura_Logo_Channel_Banner.png"
+    },
+    {
+      "id": "ustv-5aa13bb9-7166-49c6-8453-3c41864e328d",
+      "type": "tv",
+      "name": "Novelas y Dramas",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Novelas_y_Drama-400x200.png"
+    },
+    {
+      "id": "ustv-374eb57b-c26a-446e-ae54-1b721fdc6eb3",
+      "type": "tv",
+      "name": "Grandes Parejas",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/GrandesParejas_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-e60d1781-f825-449f-9b76-d4439e4d363e",
+      "type": "tv",
+      "name": "Galanes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/Galanes_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-09121241-0e95-436c-bd48-2817b1c0309b",
+      "type": "tv",
+      "name": "Rebelde",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/Rebelde_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-37799b4a-a542-4cbc-bc8e-199561f7c20c",
+      "type": "tv",
+      "name": "Dramon | Sony One",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/1184-400x200.png"
+    },
+    {
+      "id": "ustv-df5f2d04-a43a-413d-9116-bde4fda0b353",
+      "type": "tv",
+      "name": "Canela.TV Narco-Drama",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Narco+drama-800x200.png"
+    },
+    {
+      "id": "ustv-b94d61d7-2a30-4687-807d-053e77c93cce",
+      "type": "tv",
+      "name": "Telemundo Acci\u00f3n",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993039/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-77fed720-1241-4907-a198-e725734bfd64",
+      "type": "tv",
+      "name": "Caso Cerrado",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993041/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-31ff7723-e363-48ee-9460-1f7db155b4ed",
+      "type": "tv",
+      "name": "Cine Estrella",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png"
+    },
+    {
+      "id": "ustv-da2b501b-eaf5-41e3-bf13-721a321b85cc",
+      "type": "tv",
+      "name": "Estrella Games",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3st1dzbcmlcd.cloudfront.net/EstrellaGames/Images/estrellagames_logo.png"
+    },
+    {
+      "id": "ustv-876d1028-b133-4ead-acc4-4e36c409a725",
+      "type": "tv",
+      "name": "Jajaja",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/JAJAJA_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-6621a464-4604-47ec-ba9a-9984b4ada2e2",
+      "type": "tv",
+      "name": "Canela.TV Hollywood y Mas",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-hollywood-y-mas-800x200.png"
+    },
+    {
+      "id": "ustv-9d5bf9d4-9f2c-4fb5-8443-8b9fe105b2c4",
+      "type": "tv",
+      "name": "FreeTV Sure\u00f1o",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvsureno_400x200_lg.png"
+    },
+    {
+      "id": "ustv-74f75caf-b09d-48ad-9a12-0be869e5af88",
+      "type": "tv",
+      "name": "Cine Retro",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/CineRetro_LG%20CHANNEL%20LOGO_400x200_ViX.png"
+    },
+    {
+      "id": "ustv-f7dc3b45-94e6-4f61-a91e-0da0eb34f04d",
+      "type": "tv",
+      "name": "Canela.TV Clasicos",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png"
+    },
+    {
+      "id": "ustv-a39c5cce-58a1-4c64-b6a2-9467aa82976f",
+      "type": "tv",
+      "name": "FreeTV Cl\u00e1sico",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvclasico_400x200_lg_0.png"
+    },
+    {
+      "id": "ustv-8f3a0dbb-0ef5-4a80-99f0-9b932fe60d99",
+      "type": "tv",
+      "name": "Stingray Today's Latin Pop",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png"
+    },
+    {
+      "id": "ustv-f454a69b-2c5f-4b04-9eb5-75d19c4ce6ba",
+      "type": "tv",
+      "name": "Escape Perfecto | Sony One",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/1183-400x200.png"
+    },
+    {
+      "id": "ustv-2910efe5-df34-4957-9192-1c3d4ac08bdd",
+      "type": "tv",
+      "name": "Shark Tank Latino",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/1185-400x200.png"
+    },
+    {
+      "id": "ustv-eb035e54-8a13-4ff0-a237-6413d8252313",
+      "type": "tv",
+      "name": "Love Nature En Espanol",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d190bhqtoid3b.cloudfront.net/Images/S3/LNRSPA/LoveNatureenEspanol_AllWhite_Logo_800x200.png"
+    },
+    {
+      "id": "ustv-9b3791b7-559a-4630-bddd-b800b9e1af2b",
+      "type": "tv",
+      "name": "AMC en Espa\u00f1ol",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1228/lg/4d8396/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-55be261b-cd47-4cb8-9feb-38710e949330",
+      "type": "tv",
+      "name": "YTN News",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3s2p39m306u7r.cloudfront.net/YTN/Logo-400x200.png"
+    },
+    {
+      "id": "ustv-d3196da8-2e3c-46b9-acb2-1052a827c6c9",
+      "type": "tv",
+      "name": "Arirang",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/Arirang-images/Arirang_logo_400x200_wh.png"
+    },
+    {
+      "id": "ustv-73597487-ecfa-4198-9937-38d1cbd7b3eb",
+      "type": "tv",
+      "name": "NEW KMOVIES",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/2191/lg/44ba30/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-4bfcad3d-d95c-4568-9b6e-a04d7b670dd4",
+      "type": "tv",
+      "name": "Rakuten Viki",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1027/lg/4262f2/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-6ad4552a-bdd3-4c4d-9593-3c4fa16457a9",
+      "type": "tv",
+      "name": "ROMCOM K-Drama",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1756/lg/a2064b/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-53bc8770-4630-4853-892a-b33598c8e6d8",
+      "type": "tv",
+      "name": "NEW KPOP",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://accio.its-newid.net/channel/newid_001/lg_channels/img/channel_logo/default/channel_logo.png"
+    },
+    {
+      "id": "ustv-e3b41b26-9454-49e6-b544-012eb3b9cb91",
+      "type": "tv",
+      "name": "NEW KFOOD",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1100/lg/3f54f7/LG-Logo-PNG-100x100_v5.png"
+    },
+    {
+      "id": "ustv-a619e8a9-ad2f-44bc-9179-9a60ab53d109",
+      "type": "tv",
+      "name": "Sony KAL",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "http://img.platform.wurl.dev/channel/1007/lg/202ba7/LG-Logo-PNG-100x100_v1.png"
+    },
+    {
+      "id": "ustv-33364b52-c580-41a0-a326-084705146e2d",
+      "type": "tv",
+      "name": "The Country Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/cinedigm_images/tcn/tcn_logo_330x200.png"
+    },
+    {
+      "id": "ustv-bea6e8b9-43b1-40b9-b9c6-c368823285ee",
+      "type": "tv",
+      "name": "Stingray Greatest Hits",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-64bbb880-98ea-468f-947a-629d69fe4f0d",
+      "type": "tv",
+      "name": "TikTok Radio By Stingray",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/TT000/lg-direct/Channel_Logo_551x200.png"
+    },
+    {
+      "id": "ustv-60829a5b-2cd7-4cde-92f5-701fcabf49f0",
+      "type": "tv",
+      "name": "Stingray Country Greats",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/109ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-7a530922-655b-42d6-9d22-a538814444cc",
+      "type": "tv",
+      "name": "Stingray Hot Country",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/108ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-7337c832-c98f-48c5-88be-bb396347dbb3",
+      "type": "tv",
+      "name": "Stingray Classic Rock",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/101ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-57f5f759-ebb4-4edb-9c8a-23833e1ffa8f",
+      "type": "tv",
+      "name": "Stingray Flashback 70's",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/115ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-357bca10-510d-46af-be5f-16f4f7f53166",
+      "type": "tv",
+      "name": "Stingray Remember the 80's",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/128ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-8f98dcfb-c100-48ad-85c0-c749758871b3",
+      "type": "tv",
+      "name": "Stingray Pop Adult",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/104ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-0ae56489-5589-400e-bcf8-660eb0229ec4",
+      "type": "tv",
+      "name": "Stingray Hip Hop",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/133ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-7389b9da-86cb-4e05-8210-481016fd4338",
+      "type": "tv",
+      "name": "Stingray Soul Storm",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/134ADS/lg-direct/Channel_Logo_296x200.png"
+    },
+    {
+      "id": "ustv-63e09efe-c756-4faf-aff5-4321696ba676",
+      "type": "tv",
+      "name": "Stingray Smooth Jazz",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/140ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-8a9d0351-6e80-4d8d-add3-3aabc01c2608",
+      "type": "tv",
+      "name": "Stingray Easy Listening",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/137ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-c4cbdd8c-f34e-45bd-98a0-0140011cc8a6",
+      "type": "tv",
+      "name": "Stingray Nothing but the 90's",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/142ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-b2cf1cd8-146c-47b2-8c7e-f560a3ee14d9",
+      "type": "tv",
+      "name": "Stingray 2000s",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Channel_Logo_296x200.png"
+    },
+    {
+      "id": "ustv-b60207aa-5405-4667-8417-91d7a7e4b99b",
+      "type": "tv",
+      "name": "Stingray Today's K-Pop",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png"
+    },
+    {
+      "id": "ustv-a8bf1770-5a85-4ad1-ba26-5b9c5fc334ef",
+      "type": "tv",
+      "name": "Fireplace TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/WhiteLogo.png"
+    },
+    {
+      "id": "ustv-be03a2e5-a87f-4733-9ea3-92e99975da15",
+      "type": "tv",
+      "name": "Loupe Art + Music",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/LOUPE-001/lg-direct/Channel_Logo_506x200.png"
+    },
+    {
+      "id": "ustv-13eaae29-6071-4a70-b4d6-d5b17de3095a",
+      "type": "tv",
+      "name": "Movie Music By Stingray",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/CME-004/lg-direct/Channel_Logo_306x200.png"
+    },
+    {
+      "id": "ustv-c09c7197-bddf-4960-942a-7b68ae8edf26",
+      "type": "tv",
+      "name": "Stingray SPA",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/122ADS/lg-direct/Channel_Logo_272x200.png"
+    },
+    {
+      "id": "ustv-d2e243a2-2f2a-4dd1-9e9a-81017c886893",
+      "type": "tv",
+      "name": "Stingray Cozy Caf\u00e9",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/CAFE-001/lg-direct/Channel_Logo_412x200.png"
+    },
+    {
+      "id": "ustv-bcf374eb-f388-4f1b-b405-e67c25e018e1",
+      "type": "tv",
+      "name": "Stingray Cityscapes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/CITY-001/lg-direct/Channel_Logo_462x200.png"
+    },
+    {
+      "id": "ustv-138e62a9-7c8d-4263-b1f3-e776d3eadc32",
+      "type": "tv",
+      "name": "Stingray Holidayscapes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/HOL-001/lg-direct/Channel_Logo_315x200.png"
+    },
+    {
+      "id": "ustv-5c23eb22-33fb-43bc-b451-b8dbfd0e48f8",
+      "type": "tv",
+      "name": "Qello Concerts by Stingray",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://epg.sam.stingray.com/IMAGE/QELLO001/lg-direct/Channel_Logo_372x157.png"
+    },
+    {
+      "id": "ustv-ef7b7f3f-05d8-4beb-9f03-ec3e74054ff7",
+      "type": "tv",
+      "name": "LGC Trivia",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://image.xumo.com/v1/channels/channel/99993066/600x200.png?type=white_cropped"
+    },
+    {
+      "id": "ustv-40cbe3be-5e50-470e-bb36-2376784c2228",
+      "type": "tv",
+      "name": "LG Channels Romance Showcase",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d7xr8zn8daz19.cloudfront.net/LG-Romance-Showcase-Logo-400x200_v2.png"
+    },
+    {
+      "id": "ustv-0da4cf85-40fb-48e3-8165-4cf7414f8ef6",
+      "type": "tv",
+      "name": "LG Channels Showcase",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/lgus/LG-Channels-Showcase-Logo-400x200.png"
     }
   ]
 }
