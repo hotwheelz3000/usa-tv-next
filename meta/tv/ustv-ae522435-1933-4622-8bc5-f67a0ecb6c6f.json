@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-ae522435-1933-4622-8bc5-f67a0ecb6c6f",
+    "type": "tv",
+    "name": "Estrella Games",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/estrella-games.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/estrella-games.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/estrella-games.png",
+    "description": "Estrella Games - Entertainment"
+  }
+}
