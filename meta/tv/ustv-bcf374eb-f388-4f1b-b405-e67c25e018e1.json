@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bcf374eb-f388-4f1b-b405-e67c25e018e1",
+    "type": "tv",
+    "name": "Stingray Cityscapes",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://epg.sam.stingray.com/IMAGE/CITY-001/lg-direct/Channel_Logo_462x200.png",
+    "background": "https://epg.sam.stingray.com/IMAGE/CITY-001/lg-direct/Channel_Logo_462x200.png",
+    "logo": "https://epg.sam.stingray.com/IMAGE/CITY-001/lg-direct/Channel_Logo_462x200.png",
+    "description": "Stingray Cityscapes - Entertainment"
+  }
+}
