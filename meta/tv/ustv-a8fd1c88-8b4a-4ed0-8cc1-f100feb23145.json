@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a8fd1c88-8b4a-4ed0-8cc1-f100feb23145",
+    "type": "tv",
+    "name": "Dr. G: Medical Examiner",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dr-g-medical-examiner.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dr-g-medical-examiner.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dr-g-medical-examiner.png",
+    "description": "Dr. G: Medical Examiner - Documentaries"
+  }
+}
