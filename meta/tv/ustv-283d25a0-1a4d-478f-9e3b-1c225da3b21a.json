@@ -6,9 +6,9 @@
     "genres": [
       "Lifestyle"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/no-reservations.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/no-reservations.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/no-reservations.png",
     "description": "No Reservations - Lifestyle"
   }
 }
