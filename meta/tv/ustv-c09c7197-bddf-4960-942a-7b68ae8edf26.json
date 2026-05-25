@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-c09c7197-bddf-4960-942a-7b68ae8edf26",
+    "type": "tv",
+    "name": "Stingray SPA",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://epg.sam.stingray.com/IMAGE/122ADS/lg-direct/Channel_Logo_272x200.png",
+    "background": "https://epg.sam.stingray.com/IMAGE/122ADS/lg-direct/Channel_Logo_272x200.png",
+    "logo": "https://epg.sam.stingray.com/IMAGE/122ADS/lg-direct/Channel_Logo_272x200.png",
+    "description": "Stingray SPA - Entertainment"
+  }
+}
