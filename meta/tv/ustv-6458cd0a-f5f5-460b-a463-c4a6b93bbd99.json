@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6458cd0a-f5f5-460b-a463-c4a6b93bbd99",
+    "type": "tv",
+    "name": "Family Unscripted",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/family-unscripted.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/family-unscripted.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/family-unscripted.png",
+    "description": "Family Unscripted - Entertainment"
+  }
+}
