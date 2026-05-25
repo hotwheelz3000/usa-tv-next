@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-5906220a-178c-4ce4-a7c7-78c1621048bd",
+    "type": "tv",
+    "name": "Deal Zone",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-zone.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-zone.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-zone.png",
+    "description": "Deal Zone - Entertainment"
+  }
+}
