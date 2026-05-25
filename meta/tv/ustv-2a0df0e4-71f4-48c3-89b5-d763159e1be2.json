@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2a0df0e4-71f4-48c3-89b5-d763159e1be2",
+    "type": "tv",
+    "name": "In the Garage",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/in-the-garage.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/in-the-garage.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/in-the-garage.png",
+    "description": "In the Garage - Lifestyle"
+  }
+}
