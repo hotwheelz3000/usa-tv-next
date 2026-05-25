@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-e8505491-7f94-4279-97c3-e98697934ea3",
+    "type": "tv",
+    "name": "Dance Moms",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dance-moms.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dance-moms.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dance-moms.png",
+    "description": "Dance Moms - Entertainment"
+  }
+}
