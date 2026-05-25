@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2a0a5811-e8d5-4779-8574-297ef1442c73",
+    "type": "tv",
+    "name": "Deal or No Deal USA",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-or-no-deal-usa.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-or-no-deal-usa.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-or-no-deal-usa.png",
+    "description": "Deal or No Deal USA - Entertainment"
+  }
+}
