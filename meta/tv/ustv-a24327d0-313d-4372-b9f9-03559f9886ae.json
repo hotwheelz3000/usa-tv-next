@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a24327d0-313d-4372-b9f9-03559f9886ae",
+    "type": "tv",
+    "name": "Def Jam",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/def-jam.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/def-jam.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/def-jam.png",
+    "description": "Def Jam - Entertainment"
+  }
+}
