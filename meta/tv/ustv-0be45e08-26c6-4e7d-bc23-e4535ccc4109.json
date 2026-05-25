@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-0be45e08-26c6-4e7d-bc23-e4535ccc4109",
+    "type": "tv",
+    "name": "NHRA TV",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nhra-tv.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nhra-tv.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nhra-tv.png",
+    "description": "NHRA TV - Sports"
+  }
+}
