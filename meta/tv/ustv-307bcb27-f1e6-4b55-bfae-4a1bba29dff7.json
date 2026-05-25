@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-307bcb27-f1e6-4b55-bfae-4a1bba29dff7",
+    "type": "tv",
+    "name": "Travel + Adventure",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/travel-adventure.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/travel-adventure.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/travel-adventure.png",
+    "description": "Travel + Adventure - Lifestyle"
+  }
+}
