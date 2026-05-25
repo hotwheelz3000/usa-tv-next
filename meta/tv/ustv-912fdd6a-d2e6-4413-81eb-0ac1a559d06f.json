@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-912fdd6a-d2e6-4413-81eb-0ac1a559d06f",
+    "type": "tv",
+    "name": "KGTV San Diego ABC10",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgtv-san-diego-abc10.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgtv-san-diego-abc10.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgtv-san-diego-abc10.png",
+    "description": "KGTV San Diego ABC10 - News"
+  }
+}
