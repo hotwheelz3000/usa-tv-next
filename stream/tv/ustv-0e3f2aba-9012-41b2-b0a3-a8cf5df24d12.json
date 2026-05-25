@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://jmp2.uk/rok-77946e082d8958f599087890aebf1623.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Roku",
+      "description": "Roku"
+    }
+  ]
+}
