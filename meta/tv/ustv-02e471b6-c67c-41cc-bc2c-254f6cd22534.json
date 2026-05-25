@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-02e471b6-c67c-41cc-bc2c-254f6cd22534",
+    "type": "tv",
+    "name": "Sonic The Hedgehog",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png",
+    "description": "Sonic The Hedgehog - Entertainment"
+  }
+}
