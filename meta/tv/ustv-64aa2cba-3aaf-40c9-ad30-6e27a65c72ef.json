@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-64aa2cba-3aaf-40c9-ad30-6e27a65c72ef",
+    "type": "tv",
+    "name": "WeatherSpy",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png",
+    "background": "http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png",
+    "logo": "http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png",
+    "description": "WeatherSpy - Entertainment"
+  }
+}
