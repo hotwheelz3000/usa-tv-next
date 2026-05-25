@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-c3d3dc36-57ab-48b0-a1cc-7be3776cf941",
+    "type": "tv",
+    "name": "Billiard TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png",
+    "background": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png",
+    "logo": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png",
+    "description": "Billiard TV - Entertainment"
+  }
+}
