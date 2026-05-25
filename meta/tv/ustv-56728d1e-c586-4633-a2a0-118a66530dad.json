@@ -6,9 +6,9 @@
     "genres": [
       "Lifestyle"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/this-old-house.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/this-old-house.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/this-old-house.png",
     "description": "This Old House - Lifestyle"
   }
 }
