@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-aba0463b-2eda-4ba3-a43a-f87eaea2f780",
+    "type": "tv",
+    "name": "NBC News NOW",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png",
+    "description": "NBC News NOW - News"
+  }
+}
