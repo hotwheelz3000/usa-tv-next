@@ -6,9 +6,9 @@
     "genres": [
       "Kids"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/go-go-gadget.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/go-go-gadget.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/go-go-gadget.png",
     "description": "Go Go Gadget! - Kids"
   }
 }
