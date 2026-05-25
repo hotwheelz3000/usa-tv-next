@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2cde4891-4ddd-43cf-b5bc-b56a36eef6c2",
+    "type": "tv",
+    "name": "TODAY All Day",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png",
+    "description": "TODAY All Day - News"
+  }
+}
