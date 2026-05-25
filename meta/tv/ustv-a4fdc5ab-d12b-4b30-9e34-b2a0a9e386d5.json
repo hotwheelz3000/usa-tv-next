@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a4fdc5ab-d12b-4b30-9e34-b2a0a9e386d5",
+    "type": "tv",
+    "name": "Duck Dynasty",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/duck-dynasty.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/duck-dynasty.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/duck-dynasty.png",
+    "description": "Duck Dynasty - Entertainment"
+  }
+}
