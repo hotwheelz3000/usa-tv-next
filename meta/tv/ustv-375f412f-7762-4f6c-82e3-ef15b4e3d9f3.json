@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-375f412f-7762-4f6c-82e3-ef15b4e3d9f3",
+    "type": "tv",
+    "name": "TV One Stars & Stories",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tv-one-stars-stories.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tv-one-stars-stories.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tv-one-stars-stories.png",
+    "description": "TV One Stars & Stories - Entertainment"
+  }
+}
