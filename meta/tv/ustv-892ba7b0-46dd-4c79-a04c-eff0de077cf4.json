@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-892ba7b0-46dd-4c79-a04c-eff0de077cf4",
+    "type": "tv",
+    "name": "Law&Crime",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/law-crime.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/law-crime.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/law-crime.png",
+    "description": "Law&Crime - Entertainment"
+  }
+}
