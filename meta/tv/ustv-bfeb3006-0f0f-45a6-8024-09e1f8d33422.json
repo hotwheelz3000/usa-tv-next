@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bfeb3006-0f0f-45a6-8024-09e1f8d33422",
+    "type": "tv",
+    "name": "PGA TOUR",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",
+    "description": "PGA TOUR - Sports"
+  }
+}
