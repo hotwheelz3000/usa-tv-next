@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-e2d3c1cf-3c36-4566-bc49-6f132ade0d6a",
+    "type": "tv",
+    "name": "Scripps Sports Network",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/scripps-sports-network.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/scripps-sports-network.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/scripps-sports-network.png",
+    "description": "Scripps Sports Network - Sports"
+  }
+}
