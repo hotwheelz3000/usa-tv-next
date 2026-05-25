@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-1e741ee2-07ee-4789-9d11-5d588c260358",
+    "type": "tv",
+    "name": "Newsmax N2",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png",
+    "description": "Newsmax N2 - Entertainment"
+  }
+}
