@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a8bf1770-5a85-4ad1-ba26-5b9c5fc334ef",
+    "type": "tv",
+    "name": "Fireplace TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/WhiteLogo.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/WhiteLogo.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/WhiteLogo.png",
+    "description": "Fireplace TV - Entertainment"
+  }
+}
