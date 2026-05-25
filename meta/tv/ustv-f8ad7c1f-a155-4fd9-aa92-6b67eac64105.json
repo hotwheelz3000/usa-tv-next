@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f8ad7c1f-a155-4fd9-aa92-6b67eac64105",
+    "type": "tv",
+    "name": "CBS News New York",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png",
+    "description": "CBS News New York - News"
+  }
+}
