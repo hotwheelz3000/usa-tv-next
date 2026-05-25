@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6f24b3e1-2edd-424d-b46f-8b272b35d378",
+    "type": "tv",
+    "name": "FilmRise Food",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png",
+    "description": "FilmRise Food - Lifestyle"
+  }
+}
