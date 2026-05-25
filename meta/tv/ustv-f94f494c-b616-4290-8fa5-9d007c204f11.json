@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f94f494c-b616-4290-8fa5-9d007c204f11",
+    "type": "tv",
+    "name": "Ice Road Truckers",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ice-road-truckers.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ice-road-truckers.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ice-road-truckers.png",
+    "description": "Ice Road Truckers - Entertainment"
+  }
+}
