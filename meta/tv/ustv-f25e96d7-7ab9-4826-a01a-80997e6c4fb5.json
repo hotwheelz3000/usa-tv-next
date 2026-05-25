@@ -6,9 +6,9 @@
     "genres": [
       "Entertainment"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bet-pluto-tv.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bet-pluto-tv.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bet-pluto-tv.png",
     "description": "BET Pluto TV - Entertainment"
   }
 }
