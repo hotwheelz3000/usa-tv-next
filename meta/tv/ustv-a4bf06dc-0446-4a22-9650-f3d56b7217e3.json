@@ -6,9 +6,9 @@
     "genres": [
       "News"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbs-news-bay-area.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbs-news-bay-area.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbs-news-bay-area.png",
     "description": "CBS News Bay Area - News"
   }
 }
