@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-07286bdb-6ee4-4c93-b0cd-958ec1b4f7f1",
+    "type": "tv",
+    "name": "NYPD Blue",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png",
+    "description": "NYPD Blue - Entertainment"
+  }
+}
