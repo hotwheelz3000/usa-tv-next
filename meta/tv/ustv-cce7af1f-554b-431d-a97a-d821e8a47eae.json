@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cce7af1f-554b-431d-a97a-d821e8a47eae",
+    "type": "tv",
+    "name": "DAZN Ringside",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png",
+    "description": "DAZN Ringside - Sports"
+  }
+}
