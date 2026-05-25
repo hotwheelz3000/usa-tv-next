@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-36adfbda-99d0-49a7-bd34-efeef9698fed",
+    "type": "tv",
+    "name": "Telemundo Noticias Florida",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://image.xumo.com/v1/channels/channel/99993037/600x200.png?type=white_cropped",
+    "background": "https://image.xumo.com/v1/channels/channel/99993037/600x200.png?type=white_cropped",
+    "logo": "https://image.xumo.com/v1/channels/channel/99993037/600x200.png?type=white_cropped",
+    "description": "Telemundo Noticias Florida - Entertainment"
+  }
+}
