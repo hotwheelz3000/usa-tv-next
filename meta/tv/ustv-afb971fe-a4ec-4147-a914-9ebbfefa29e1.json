@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-afb971fe-a4ec-4147-a914-9ebbfefa29e1",
+    "type": "tv",
+    "name": "Ebony TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png",
+    "description": "Ebony TV - Entertainment"
+  }
+}
