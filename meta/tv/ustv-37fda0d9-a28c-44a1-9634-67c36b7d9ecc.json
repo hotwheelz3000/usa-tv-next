@@ -6,9 +6,9 @@
     "genres": [
       "News"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/weathernation-los-angeles.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/weathernation-los-angeles.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/weathernation-los-angeles.png",
     "description": "WeatherNation Los Angeles - News"
   }
 }
