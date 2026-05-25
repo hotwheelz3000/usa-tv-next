@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6dd3e82b-e0d4-4741-bdef-5e49e5fd5f7a",
+    "type": "tv",
+    "name": "90s Throwback",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "90s Throwback - Entertainment"
+  }
+}
