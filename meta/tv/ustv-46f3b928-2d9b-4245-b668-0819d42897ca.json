@@ -6,9 +6,9 @@
     "genres": [
       "Lifestyle"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-made-nation.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-made-nation.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-made-nation.png",
     "description": "Home.Made.Nation - Lifestyle"
   }
 }
