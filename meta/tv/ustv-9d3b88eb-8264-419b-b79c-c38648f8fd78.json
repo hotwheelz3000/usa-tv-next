@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-9d3b88eb-8264-419b-b79c-c38648f8fd78",
+    "type": "tv",
+    "name": "Midsomer Murders",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png",
+    "description": "Midsomer Murders - Entertainment"
+  }
+}
