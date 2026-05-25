@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-74f75caf-b09d-48ad-9a12-0be869e5af88",
+    "type": "tv",
+    "name": "Cine Retro",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/CineRetro_LG%20CHANNEL%20LOGO_400x200_ViX.png",
+    "background": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/CineRetro_LG%20CHANNEL%20LOGO_400x200_ViX.png",
+    "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/vix/channels/CineRetro_LG%20CHANNEL%20LOGO_400x200_ViX.png",
+    "description": "Cine Retro - Entertainment"
+  }
+}
