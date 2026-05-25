@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a20932b8-7039-493c-a587-5b3783ed5ccb",
+    "type": "tv",
+    "name": "TMZ",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tmz.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tmz.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tmz.png",
+    "description": "TMZ - Entertainment"
+  }
+}
