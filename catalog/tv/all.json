@@ -10841,6 +10841,969 @@
         "Kids"
       ],
       "poster": "https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png"
+    },
+    {
+      "id": "ustv-6110eddf-32cf-44af-b395-63284ffcd874",
+      "type": "tv",
+      "name": "ACCDN",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/accdn.png"
+    },
+    {
+      "id": "ustv-5031139b-7a8b-4158-8012-22caff3e5082",
+      "type": "tv",
+      "name": "Alien Nation by DUST",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/alien-nation-by-dust.png"
+    },
+    {
+      "id": "ustv-8b61f544-ab18-42a2-9506-f94142aa3bb7",
+      "type": "tv",
+      "name": "Anger Management",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/anger-management.png"
+    },
+    {
+      "id": "ustv-d019d5f7-4a23-4043-ac2c-c485faa933c2",
+      "type": "tv",
+      "name": "Are We There Yet",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/are-we-there-yet.png"
+    },
+    {
+      "id": "ustv-1eaae9ba-8c65-4f34-a32a-57529fbde0b7",
+      "type": "tv",
+      "name": "Ax Men",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ax-men.png"
+    },
+    {
+      "id": "ustv-e9744b1b-5fa9-4a71-b56c-51e231b03cd0",
+      "type": "tv",
+      "name": "Baywatch",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/baywatch.png"
+    },
+    {
+      "id": "ustv-0884665e-d45d-4f85-91d1-6a59714dcd16",
+      "type": "tv",
+      "name": "beIN Sports XTRA En Espa\u00f1ol",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bein-sports-xtra-en-espa-ol.png"
+    },
+    {
+      "id": "ustv-f23ec5b1-5784-44ef-8a17-bb998258822f",
+      "type": "tv",
+      "name": "Big 12 Studios",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/big-12-studios.png"
+    },
+    {
+      "id": "ustv-cd551b74-e04a-4d5a-a36f-0b0153a48639",
+      "type": "tv",
+      "name": "Bloomberg Originals",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bloomberg-originals.png"
+    },
+    {
+      "id": "ustv-7179315e-163a-409f-9794-40f73f2eb8a7",
+      "type": "tv",
+      "name": "CBC News",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbc-news.png"
+    },
+    {
+      "id": "ustv-eda72528-0315-4c79-a2ec-c7b7387d8c58",
+      "type": "tv",
+      "name": "Chasing Criminals",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/chasing-criminals.png"
+    },
+    {
+      "id": "ustv-87e4b474-cbff-4826-8f29-2fda02d104bb",
+      "type": "tv",
+      "name": "Cheddar",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cheddar.png"
+    },
+    {
+      "id": "ustv-2e02ee35-f39a-4aa7-b5ca-9741d3b38d68",
+      "type": "tv",
+      "name": "Cine EstrellaTV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cine-estrellatv.png"
+    },
+    {
+      "id": "ustv-ce765bb5-1a5e-4693-802b-0f9ff3ce233d",
+      "type": "tv",
+      "name": "Classic Doctor Who",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/classic-doctor-who.png"
+    },
+    {
+      "id": "ustv-3bb0db74-1876-467c-9313-b77cf897ea16",
+      "type": "tv",
+      "name": "Cold Case Files",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cold-case-files.png"
+    },
+    {
+      "id": "ustv-c7f78a02-9ced-4186-b621-ed586c925ba9",
+      "type": "tv",
+      "name": "Cowboy+ Sports",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cowboy-sports.png"
+    },
+    {
+      "id": "ustv-7e9598b0-532e-4f34-99e6-08b3a68133d1",
+      "type": "tv",
+      "name": "Crime Cults Killers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-cults-killers.png"
+    },
+    {
+      "id": "ustv-38a34e7f-3f9a-44f0-86ed-5a03c9fd0521",
+      "type": "tv",
+      "name": "Crime Scenes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-scenes.png"
+    },
+    {
+      "id": "ustv-6730b7fb-eb35-44a5-ae32-de159256f207",
+      "type": "tv",
+      "name": "Crime ThrillHer",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-thrillher.png"
+    },
+    {
+      "id": "ustv-e8505491-7f94-4279-97c3-e98697934ea3",
+      "type": "tv",
+      "name": "Dance Moms",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dance-moms.png"
+    },
+    {
+      "id": "ustv-2a0a5811-e8d5-4779-8574-297ef1442c73",
+      "type": "tv",
+      "name": "Deal or No Deal USA",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-or-no-deal-usa.png"
+    },
+    {
+      "id": "ustv-5906220a-178c-4ce4-a7c7-78c1621048bd",
+      "type": "tv",
+      "name": "Deal Zone",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/deal-zone.png"
+    },
+    {
+      "id": "ustv-a24327d0-313d-4372-b9f9-03559f9886ae",
+      "type": "tv",
+      "name": "Def Jam",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/def-jam.png"
+    },
+    {
+      "id": "ustv-a8fd1c88-8b4a-4ed0-8cc1-f100feb23145",
+      "type": "tv",
+      "name": "Dr. G: Medical Examiner",
+      "genres": [
+        "Documentaries"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/dr-g-medical-examiner.png"
+    },
+    {
+      "id": "ustv-a4fdc5ab-d12b-4b30-9e34-b2a0a9e386d5",
+      "type": "tv",
+      "name": "Duck Dynasty",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/duck-dynasty.png"
+    },
+    {
+      "id": "ustv-c779eee8-6b8f-497a-956a-fa2082f4609b",
+      "type": "tv",
+      "name": "Ebony TV by Lionsgate",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ebony-tv-by-lionsgate.png"
+    },
+    {
+      "id": "ustv-ae522435-1933-4622-8bc5-f67a0ecb6c6f",
+      "type": "tv",
+      "name": "Estrella Games",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/estrella-games.png"
+    },
+    {
+      "id": "ustv-3d42b260-6fcd-4859-8c46-bd14e568091e",
+      "type": "tv",
+      "name": "Euronews",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/euronews.png"
+    },
+    {
+      "id": "ustv-6458cd0a-f5f5-460b-a463-c4a6b93bbd99",
+      "type": "tv",
+      "name": "Family Unscripted",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/family-unscripted.png"
+    },
+    {
+      "id": "ustv-f7588b9a-2e26-4e46-ad84-3a154ba06529",
+      "type": "tv",
+      "name": "Fear Factor USA",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fear-factor-usa.png"
+    },
+    {
+      "id": "ustv-b347d5c8-ae98-4172-ab79-6226c06fa2cc",
+      "type": "tv",
+      "name": "FilmRise Black TV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-black-tv.png"
+    },
+    {
+      "id": "ustv-defbd9fa-8615-43a5-991c-9438f370d09e",
+      "type": "tv",
+      "name": "FilmRise Horror",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-horror.png"
+    },
+    {
+      "id": "ustv-4aa32309-38f7-4a40-ab97-75662ffad792",
+      "type": "tv",
+      "name": "FilmRise True Crime",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-true-crime.png"
+    },
+    {
+      "id": "ustv-7c50c5ce-800e-4c80-a822-69906b4a1a70",
+      "type": "tv",
+      "name": "FOX LOCAL New York",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-new-york.png"
+    },
+    {
+      "id": "ustv-16ebb03a-1008-4259-a492-9b69b91ce9df",
+      "type": "tv",
+      "name": "FOX LOCAL Phoenix",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-phoenix.png"
+    },
+    {
+      "id": "ustv-f2b854dc-677c-40c1-809a-cc8b820f0eb3",
+      "type": "tv",
+      "name": "FOX LOCAL Seattle",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-seattle.png"
+    },
+    {
+      "id": "ustv-9a4bf9a3-a71e-4a10-aed2-35a254fc6468",
+      "type": "tv",
+      "name": "FOX LOCAL Washington DC",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-washington-dc.png"
+    },
+    {
+      "id": "ustv-9e7528ba-61d4-44dd-8d30-f3ad80e5734f",
+      "type": "tv",
+      "name": "FOX SOUL",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-soul.png"
+    },
+    {
+      "id": "ustv-dd42cf57-81f5-4840-b570-ed1130810419",
+      "type": "tv",
+      "name": "Fox Sports En Espa\u00f1ol",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-sports-en-espa-ol.png"
+    },
+    {
+      "id": "ustv-4d191f2a-fec8-4c01-9d68-c27ea693a6b5",
+      "type": "tv",
+      "name": "FOX Sports on Tubi",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-sports-on-tubi.png"
+    },
+    {
+      "id": "ustv-79eb6b6c-2556-432f-a57b-8fdeb611d604",
+      "type": "tv",
+      "name": "Futcrunch",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/futcrunch.png"
+    },
+    {
+      "id": "ustv-3f690029-23c3-4219-abc3-9a789bf4132f",
+      "type": "tv",
+      "name": "Garden with Monty Don",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/garden-with-monty-don.png"
+    },
+    {
+      "id": "ustv-024626f1-a718-45ef-b276-9127ad3280ef",
+      "type": "tv",
+      "name": "Generation Drama",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/generation-drama.png"
+    },
+    {
+      "id": "ustv-04e12f39-dff6-4757-8551-1c28b70ae582",
+      "type": "tv",
+      "name": "Ghosts are Real",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ghosts-are-real.png"
+    },
+    {
+      "id": "ustv-cfb84398-a9ba-4c9d-97cb-cba1771f016b",
+      "type": "tv",
+      "name": "Gordon Ramsay",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/gordon-ramsay.png"
+    },
+    {
+      "id": "ustv-2e75ab72-9c83-4d51-9e2c-3708f39821f9",
+      "type": "tv",
+      "name": "Grit Xtra",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/grit-xtra.png"
+    },
+    {
+      "id": "ustv-703f9ddd-b3ae-4570-8a3c-63a44625c1ea",
+      "type": "tv",
+      "name": "Hagerty",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hagerty.png"
+    },
+    {
+      "id": "ustv-d168a518-6e58-462f-8158-257860ee7684",
+      "type": "tv",
+      "name": "HauntTV",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/haunttv.png"
+    },
+    {
+      "id": "ustv-b8895fa5-69a6-4412-b28e-3614a8d3e7d6",
+      "type": "tv",
+      "name": "HBO Boxing",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hbo-boxing.png"
+    },
+    {
+      "id": "ustv-c8ffb81c-3975-4836-a7ef-1f55aa8815e1",
+      "type": "tv",
+      "name": "Hersphere",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hersphere.png"
+    },
+    {
+      "id": "ustv-bbc7ec0f-7d53-45b9-9fc9-83f33492bf09",
+      "type": "tv",
+      "name": "Horror by ALTER",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/horror-by-alter.png"
+    },
+    {
+      "id": "ustv-8deff3ce-9db5-4d44-8155-9db0964b4fb0",
+      "type": "tv",
+      "name": "How To",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/how-to.png"
+    },
+    {
+      "id": "ustv-f94f494c-b616-4290-8fa5-9d007c204f11",
+      "type": "tv",
+      "name": "Ice Road Truckers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ice-road-truckers.png"
+    },
+    {
+      "id": "ustv-2a0df0e4-71f4-48c3-89b5-d763159e1be2",
+      "type": "tv",
+      "name": "In the Garage",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/in-the-garage.png"
+    },
+    {
+      "id": "ustv-912fdd6a-d2e6-4413-81eb-0ac1a559d06f",
+      "type": "tv",
+      "name": "KGTV San Diego ABC10",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgtv-san-diego-abc10.png"
+    },
+    {
+      "id": "ustv-177eb5c8-1cd5-4774-b22e-ba48fee15016",
+      "type": "tv",
+      "name": "KGUN 9 Tucson News",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgun-9-tucson-news.png"
+    },
+    {
+      "id": "ustv-5423f8b3-1417-4c90-9100-0d4f1a561533",
+      "type": "tv",
+      "name": "KING Seattle 5",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/king-seattle-5.png"
+    },
+    {
+      "id": "ustv-5c50b1d0-eeef-4e06-9a01-c57d129c64bd",
+      "type": "tv",
+      "name": "KNXV Arizona ABC15",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/knxv-arizona-abc15.png"
+    },
+    {
+      "id": "ustv-a52c16fb-655c-4879-9381-694b86c4a148",
+      "type": "tv",
+      "name": "KOAT Very New Mexico 7",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/koat-very-new-mexico-7.png"
+    },
+    {
+      "id": "ustv-1dc9d2b2-a8a1-4557-9911-7b11bb53fc0a",
+      "type": "tv",
+      "name": "KPNX Phoenix 12 News",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kpnx-phoenix-12-news.png"
+    },
+    {
+      "id": "ustv-892ba7b0-46dd-4c79-a04c-eff0de077cf4",
+      "type": "tv",
+      "name": "Law&Crime",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/law-crime.png"
+    },
+    {
+      "id": "ustv-b075b5fe-33bb-4be6-a21a-7be026c0e341",
+      "type": "tv",
+      "name": "Localish",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/localish.png"
+    },
+    {
+      "id": "ustv-13a5ffdc-32b9-41d3-adf7-23f973926529",
+      "type": "tv",
+      "name": "LOL! Network",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lol-network.png"
+    },
+    {
+      "id": "ustv-2230eeba-b485-4e5d-bc57-73a689fb77d3",
+      "type": "tv",
+      "name": "Love & Marriage",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/love-marriage.png"
+    },
+    {
+      "id": "ustv-ce42bde0-d797-4567-8822-6f13f2138480",
+      "type": "tv",
+      "name": "Maverick Black Cinema",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/maverick-black-cinema.png"
+    },
+    {
+      "id": "ustv-af0f629a-9b96-46ca-977d-452c9440def4",
+      "type": "tv",
+      "name": "MrBeast",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mrbeast.png"
+    },
+    {
+      "id": "ustv-0e7b3e1f-7caf-4bc6-9985-def7dd4565f8",
+      "type": "tv",
+      "name": "Mysterious Worlds",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mysterious-worlds.png"
+    },
+    {
+      "id": "ustv-64e680b8-8052-40c2-86c0-bbb298ae3745",
+      "type": "tv",
+      "name": "Mystery Science Theater 3000",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mystery-science-theater-3000.png"
+    },
+    {
+      "id": "ustv-669de488-a084-410a-bb85-c2ec2ad80979",
+      "type": "tv",
+      "name": "NHL",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nhl.png"
+    },
+    {
+      "id": "ustv-0be45e08-26c6-4e7d-bc23-e4535ccc4109",
+      "type": "tv",
+      "name": "NHRA TV",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nhra-tv.png"
+    },
+    {
+      "id": "ustv-b6394e9d-0a1b-4a06-90b7-7f29e065f98a",
+      "type": "tv",
+      "name": "Nikita",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nikita.png"
+    },
+    {
+      "id": "ustv-122a01b5-31f1-4974-9a1c-db3b0802f58e",
+      "type": "tv",
+      "name": "OuterSphere",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/outersphere.png"
+    },
+    {
+      "id": "ustv-5a0a9c04-6870-4622-8006-11061118f545",
+      "type": "tv",
+      "name": "Paternity Court by MGM",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/paternity-court-by-mgm.png"
+    },
+    {
+      "id": "ustv-77e8d690-464d-4937-90bd-939fd2916b8c",
+      "type": "tv",
+      "name": "Paws & Claws",
+      "genres": [
+        "Documentaries"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/paws-claws.png"
+    },
+    {
+      "id": "ustv-991bf914-6cd4-4f87-9162-673cac940909",
+      "type": "tv",
+      "name": "PLL Network",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pll-network.png"
+    },
+    {
+      "id": "ustv-f448e3d9-d842-4a9d-af4e-747741aa64e2",
+      "type": "tv",
+      "name": "Real Madrid",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-madrid.png"
+    },
+    {
+      "id": "ustv-0b57658d-5b0d-4c7f-8c6d-ef1608f4e598",
+      "type": "tv",
+      "name": "REELZ Famous & Infamous",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/reelz-famous-infamous.png"
+    },
+    {
+      "id": "ustv-e2d3c1cf-3c36-4566-bc49-6f132ade0d6a",
+      "type": "tv",
+      "name": "Scripps Sports Network",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/scripps-sports-network.png"
+    },
+    {
+      "id": "ustv-8ae5a8c1-ef07-4b82-9f2d-a00dd1990fff",
+      "type": "tv",
+      "name": "Silent Witness and New Tricks",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/silent-witness-and-new-tricks.png"
+    },
+    {
+      "id": "ustv-94d53adc-6692-4c7b-b399-f5a0e3fe6629",
+      "type": "tv",
+      "name": "Stadium",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/stadium.png"
+    },
+    {
+      "id": "ustv-df144033-21b9-4a9f-8dff-8f62e6b9878d",
+      "type": "tv",
+      "name": "Sweet Escapes",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/sweet-escapes.png"
+    },
+    {
+      "id": "ustv-66a6ee5a-88e7-4388-8052-a33b9dd1339b",
+      "type": "tv",
+      "name": "The Biggest Loser",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-biggest-loser.png"
+    },
+    {
+      "id": "ustv-28373ea3-0cf9-42ca-b1a5-3ce20fcb670f",
+      "type": "tv",
+      "name": "The Breakfast Club on iHeartRadio",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-breakfast-club-on-iheartradio.png"
+    },
+    {
+      "id": "ustv-6600ff90-55c3-4138-950f-9d34f9e9c97b",
+      "type": "tv",
+      "name": "The Carol Burnett Show",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-carol-burnett-show.png"
+    },
+    {
+      "id": "ustv-c6c42884-c8f4-45d2-b22a-588b41071f08",
+      "type": "tv",
+      "name": "The Conners",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-conners.png"
+    },
+    {
+      "id": "ustv-b29dbabe-8f22-4e46-8e10-1d0831d39efb",
+      "type": "tv",
+      "name": "The FBI",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi.png"
+    },
+    {
+      "id": "ustv-56f5f7ab-b60c-42ef-9687-775b8956e26a",
+      "type": "tv",
+      "name": "The FBI Files",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi-files.png"
+    },
+    {
+      "id": "ustv-89c4517e-819c-409c-be12-d0cbca88dce4",
+      "type": "tv",
+      "name": "The Johnny Carson Show",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-johnny-carson-show.png"
+    },
+    {
+      "id": "ustv-7088d2eb-2662-4e09-a2cf-f737ffa6be6d",
+      "type": "tv",
+      "name": "The Masked Singer",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-masked-singer.png"
+    },
+    {
+      "id": "ustv-08f92d13-ade8-4323-9c95-2322c8ef9e7b",
+      "type": "tv",
+      "name": "theGrio",
+      "genres": [
+        "News"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/thegrio.png"
+    },
+    {
+      "id": "ustv-a20932b8-7039-493c-a587-5b3783ed5ccb",
+      "type": "tv",
+      "name": "TMZ",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tmz.png"
+    },
+    {
+      "id": "ustv-8956c2e9-c68c-4abf-a3bd-7e34311afaf1",
+      "type": "tv",
+      "name": "Todo Cine",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/todo-cine.png"
+    },
+    {
+      "id": "ustv-31efa0cf-bcae-455f-bfb7-4c849adbc395",
+      "type": "tv",
+      "name": "Todo Novelas m\u00e1s Pasiones",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/todo-novelas-m-s-pasiones.png"
+    },
+    {
+      "id": "ustv-9c9271e7-72fa-48e2-94c2-2831bbf90577",
+      "type": "tv",
+      "name": "Torque",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/torque.png"
+    },
+    {
+      "id": "ustv-66664761-21dc-43b6-a814-2dd94e509b98",
+      "type": "tv",
+      "name": "Total Crime",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/total-crime.png"
+    },
+    {
+      "id": "ustv-307bcb27-f1e6-4b55-bfae-4a1bba29dff7",
+      "type": "tv",
+      "name": "Travel + Adventure",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/travel-adventure.png"
+    },
+    {
+      "id": "ustv-c1e3b016-72f5-4035-be3b-a88222274afd",
+      "type": "tv",
+      "name": "TV One Crime & Justice",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tv-one-crime-justice.png"
+    },
+    {
+      "id": "ustv-375f412f-7762-4f6c-82e3-ef15b4e3d9f3",
+      "type": "tv",
+      "name": "TV One Stars & Stories",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tv-one-stars-stories.png"
+    },
+    {
+      "id": "ustv-4168ac81-44f9-4be7-a977-8eec8aad7f4c",
+      "type": "tv",
+      "name": "Unique Lives",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/unique-lives.png"
+    },
+    {
+      "id": "ustv-ffbf0f7e-68aa-40d1-a4d1-f059c96af404",
+      "type": "tv",
+      "name": "Untold Stories of the E.R.",
+      "genres": [
+        "Documentaries"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/untold-stories-of-the-e-r.png"
+    },
+    {
+      "id": "ustv-8770f413-8966-4a23-a89b-dcafc8b00b8c",
+      "type": "tv",
+      "name": "Vice",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/vice.png"
+    },
+    {
+      "id": "ustv-e7f4ea7a-375c-4f90-895e-a9be1baaa2d1",
+      "type": "tv",
+      "name": "Wanted: Dead or Alive",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/wanted-dead-or-alive.png"
+    },
+    {
+      "id": "ustv-a8ec756c-a0d6-4f83-9ae8-fcb0c373c1d2",
+      "type": "tv",
+      "name": "Waypoint TV",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/waypoint-tv.png"
+    },
+    {
+      "id": "ustv-669cd6c9-1059-47e4-9963-003a8745781e",
+      "type": "tv",
+      "name": "Welcome Home",
+      "genres": [
+        "Lifestyle"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/welcome-home.png"
+    },
+    {
+      "id": "ustv-a28de60c-327e-4a1c-a7b0-b0f25e51b979",
+      "type": "tv",
+      "name": "Wipeout Xtra",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/wipeout-xtra.png"
+    },
+    {
+      "id": "ustv-f08f1d4c-c911-4261-8162-483c09b782fe",
+      "type": "tv",
+      "name": "World's Most Evil Killers",
+      "genres": [
+        "Entertainment"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/world-s-most-evil-killers.png"
+    },
+    {
+      "id": "ustv-00c3abe0-309e-42bf-b7fc-62176ebfad48",
+      "type": "tv",
+      "name": "Xplore",
+      "genres": [
+        "Documentaries"
+      ],
+      "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/xplore.png"
     }
   ]
 }
