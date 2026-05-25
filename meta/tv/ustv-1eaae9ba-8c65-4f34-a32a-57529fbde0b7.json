@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-1eaae9ba-8c65-4f34-a32a-57529fbde0b7",
+    "type": "tv",
+    "name": "Ax Men",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ax-men.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ax-men.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ax-men.png",
+    "description": "Ax Men - Entertainment"
+  }
+}
