@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d168a518-6e58-462f-8158-257860ee7684",
+    "type": "tv",
+    "name": "HauntTV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/haunttv.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/haunttv.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/haunttv.png",
+    "description": "HauntTV - Entertainment"
+  }
+}
