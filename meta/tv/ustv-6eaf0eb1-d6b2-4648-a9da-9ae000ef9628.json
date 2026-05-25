@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6eaf0eb1-d6b2-4648-a9da-9ae000ef9628",
+    "type": "tv",
+    "name": "Pluto TV Horror",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "Pluto TV Horror - Entertainment"
+  }
+}
