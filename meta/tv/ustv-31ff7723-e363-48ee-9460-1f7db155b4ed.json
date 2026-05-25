@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-31ff7723-e363-48ee-9460-1f7db155b4ed",
+    "type": "tv",
+    "name": "Cine Estrella",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png",
+    "background": "https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png",
+    "logo": "https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png",
+    "description": "Cine Estrella - Entertainment"
+  }
+}
