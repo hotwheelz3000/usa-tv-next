@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-af0e9a9c-124a-436a-9aae-36ee608b4795",
+    "type": "tv",
+    "name": "Pluto TV Westerns",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "Pluto TV Westerns - Entertainment"
+  }
+}
