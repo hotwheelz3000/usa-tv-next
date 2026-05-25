@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-e598a7f8-75dd-401c-af8d-3d744f391856",
+    "type": "tv",
+    "name": "Pickleball TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PickleBall/Pickle_ball_800X200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PickleBall/Pickle_ball_800X200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PickleBall/Pickle_ball_800X200.png",
+    "description": "Pickleball TV - Entertainment"
+  }
+}
