@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-79eb6b6c-2556-432f-a57b-8fdeb611d604",
+    "type": "tv",
+    "name": "Futcrunch",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/futcrunch.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/futcrunch.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/futcrunch.png",
+    "description": "Futcrunch - Sports"
+  }
+}
