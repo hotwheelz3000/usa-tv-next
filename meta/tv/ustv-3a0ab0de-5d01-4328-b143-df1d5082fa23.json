@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3a0ab0de-5d01-4328-b143-df1d5082fa23",
+    "type": "tv",
+    "name": "BBC Top Gear",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png",
+    "background": "https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png",
+    "logo": "https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png",
+    "description": "BBC Top Gear - Entertainment"
+  }
+}
