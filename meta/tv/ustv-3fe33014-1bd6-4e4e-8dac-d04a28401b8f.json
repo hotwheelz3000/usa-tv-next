@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3fe33014-1bd6-4e4e-8dac-d04a28401b8f",
+    "type": "tv",
+    "name": "MyTime Movie Network",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png",
+    "background": "https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png",
+    "logo": "https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png",
+    "description": "MyTime Movie Network - Entertainment"
+  }
+}
