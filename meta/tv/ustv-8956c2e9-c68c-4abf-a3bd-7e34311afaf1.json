@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-8956c2e9-c68c-4abf-a3bd-7e34311afaf1",
+    "type": "tv",
+    "name": "Todo Cine",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/todo-cine.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/todo-cine.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/todo-cine.png",
+    "description": "Todo Cine - Entertainment"
+  }
+}
