@@ -6,9 +6,9 @@
     "genres": [
       "Documentaries"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/colorLogoPNG_1770231337178.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/zenlife-by-stingray.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/zenlife-by-stingray.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/zenlife-by-stingray.png",
     "description": "ZenLIFE by Stingray - Documentaries"
   }
 }
