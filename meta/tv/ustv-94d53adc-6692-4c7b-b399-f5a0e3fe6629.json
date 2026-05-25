@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-94d53adc-6692-4c7b-b399-f5a0e3fe6629",
+    "type": "tv",
+    "name": "Stadium",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/stadium.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/stadium.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/stadium.png",
+    "description": "Stadium - Sports"
+  }
+}
