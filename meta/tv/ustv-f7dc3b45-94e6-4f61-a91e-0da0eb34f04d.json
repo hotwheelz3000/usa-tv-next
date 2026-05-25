@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f7dc3b45-94e6-4f61-a91e-0da0eb34f04d",
+    "type": "tv",
+    "name": "Canela.TV Clasicos",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png",
+    "description": "Canela.TV Clasicos - Entertainment"
+  }
+}
