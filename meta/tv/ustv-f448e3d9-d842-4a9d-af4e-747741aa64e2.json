@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f448e3d9-d842-4a9d-af4e-747741aa64e2",
+    "type": "tv",
+    "name": "Real Madrid",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-madrid.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-madrid.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-madrid.png",
+    "description": "Real Madrid - Sports"
+  }
+}
