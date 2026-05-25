@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-c779eee8-6b8f-497a-956a-fa2082f4609b",
+    "type": "tv",
+    "name": "Ebony TV by Lionsgate",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ebony-tv-by-lionsgate.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ebony-tv-by-lionsgate.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/ebony-tv-by-lionsgate.png",
+    "description": "Ebony TV by Lionsgate - Entertainment"
+  }
+}
