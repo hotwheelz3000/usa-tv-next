@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-0e8fa409-3761-4136-a399-35f9aa414e69",
+    "type": "tv",
+    "name": "ABC 20/20",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ABC2020/abc_400X200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ABC2020/abc_400X200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ABC2020/abc_400X200.png",
+    "description": "ABC 20/20 - Entertainment"
+  }
+}
