@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-56d41717-a1a6-4343-a326-e80c8425a738",
+    "type": "tv",
+    "name": "WJLA ABC7 Washington DC News",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sinclair/channels/logo_wjla_abc7_station_cutout_white_primary_fixed_canvas_400x200.png",
+    "background": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sinclair/channels/logo_wjla_abc7_station_cutout_white_primary_fixed_canvas_400x200.png",
+    "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sinclair/channels/logo_wjla_abc7_station_cutout_white_primary_fixed_canvas_400x200.png",
+    "description": "WJLA ABC7 Washington DC News - Entertainment"
+  }
+}
