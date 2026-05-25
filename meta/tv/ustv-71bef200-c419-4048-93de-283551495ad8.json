@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-71bef200-c419-4048-93de-283551495ad8",
+    "type": "tv",
+    "name": "RYZ Sports",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png",
+    "description": "RYZ Sports - Entertainment"
+  }
+}
