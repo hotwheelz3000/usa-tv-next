@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://db16f775e9b2498f90b864f2847cae9e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1183-SONYONEESCAPEPERFECTOUSH-MEX-LG_US/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "LG",
+      "description": "LG"
+    }
+  ]
+}
