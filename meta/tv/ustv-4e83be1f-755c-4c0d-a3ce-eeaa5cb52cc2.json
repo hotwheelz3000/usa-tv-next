@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-4e83be1f-755c-4c0d-a3ce-eeaa5cb52cc2",
+    "type": "tv",
+    "name": "Johnny Carson TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png",
+    "description": "Johnny Carson TV - Entertainment"
+  }
+}
