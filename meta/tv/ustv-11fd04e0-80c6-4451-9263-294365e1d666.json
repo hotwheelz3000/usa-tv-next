@@ -6,9 +6,9 @@
     "genres": [
       "Sports"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG_1766432879705.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/golfpass.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/golfpass.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/golfpass.png",
     "description": "GolfPass - Sports"
   }
 }
