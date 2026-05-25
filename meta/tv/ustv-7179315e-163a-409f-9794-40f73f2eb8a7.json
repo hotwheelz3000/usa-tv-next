@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7179315e-163a-409f-9794-40f73f2eb8a7",
+    "type": "tv",
+    "name": "CBC News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbc-news.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbc-news.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cbc-news.png",
+    "description": "CBC News - News"
+  }
+}
