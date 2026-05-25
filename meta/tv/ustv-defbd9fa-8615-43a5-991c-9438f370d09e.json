@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-defbd9fa-8615-43a5-991c-9438f370d09e",
+    "type": "tv",
+    "name": "FilmRise Horror",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-horror.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-horror.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-horror.png",
+    "description": "FilmRise Horror - Entertainment"
+  }
+}
