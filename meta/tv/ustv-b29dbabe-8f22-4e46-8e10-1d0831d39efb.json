@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-b29dbabe-8f22-4e46-8e10-1d0831d39efb",
+    "type": "tv",
+    "name": "The FBI",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi.png",
+    "description": "The FBI - Entertainment"
+  }
+}
