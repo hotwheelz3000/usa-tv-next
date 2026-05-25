@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f28f1421-3145-490a-8dd4-a35a43dc8f56",
+    "type": "tv",
+    "name": "TMZ",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d2mxb63djushzm.cloudfront.net/images/tmz/the-tmz-channel-logo-800x200.png",
+    "background": "https://d2mxb63djushzm.cloudfront.net/images/tmz/the-tmz-channel-logo-800x200.png",
+    "logo": "https://d2mxb63djushzm.cloudfront.net/images/tmz/the-tmz-channel-logo-800x200.png",
+    "description": "TMZ - Entertainment"
+  }
+}
