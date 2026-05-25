@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3d42b260-6fcd-4859-8c46-bd14e568091e",
+    "type": "tv",
+    "name": "Euronews",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/euronews.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/euronews.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/euronews.png",
+    "description": "Euronews - News"
+  }
+}
