@@ -6,9 +6,9 @@
     "genres": [
       "Entertainment"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/6675c742ca74680008566b88/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nash-bridges.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nash-bridges.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nash-bridges.png",
     "description": "Nash Bridges - Entertainment"
   }
 }
