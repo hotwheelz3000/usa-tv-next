@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3f690029-23c3-4219-abc3-9a789bf4132f",
+    "type": "tv",
+    "name": "Garden with Monty Don",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/garden-with-monty-don.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/garden-with-monty-don.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/garden-with-monty-don.png",
+    "description": "Garden with Monty Don - Lifestyle"
+  }
+}
