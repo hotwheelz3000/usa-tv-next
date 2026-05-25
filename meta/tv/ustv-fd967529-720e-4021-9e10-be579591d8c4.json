@@ -6,9 +6,9 @@
     "genres": [
       "Kids"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pok-mon.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pok-mon.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pok-mon.png",
     "description": "Pok\u00e9mon - Kids"
   }
 }
