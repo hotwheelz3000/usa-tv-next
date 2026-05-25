@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-0da4cf85-40fb-48e3-8165-4cf7414f8ef6",
+    "type": "tv",
+    "name": "LG Channels Showcase",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/lgus/LG-Channels-Showcase-Logo-400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/lgus/LG-Channels-Showcase-Logo-400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/lgus/LG-Channels-Showcase-Logo-400x200.png",
+    "description": "LG Channels Showcase - Entertainment"
+  }
+}
