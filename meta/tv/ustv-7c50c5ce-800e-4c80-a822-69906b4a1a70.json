@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7c50c5ce-800e-4c80-a822-69906b4a1a70",
+    "type": "tv",
+    "name": "FOX LOCAL New York",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-new-york.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-new-york.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-new-york.png",
+    "description": "FOX LOCAL New York - News"
+  }
+}
