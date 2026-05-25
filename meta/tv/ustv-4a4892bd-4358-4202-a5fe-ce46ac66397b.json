@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-4a4892bd-4358-4202-a5fe-ce46ac66397b",
+    "type": "tv",
+    "name": "Dinos 24/7",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8152fae2aebf5c228eee6470242174ec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png",
+    "description": "Dinos 24/7 - Entertainment"
+  }
+}
