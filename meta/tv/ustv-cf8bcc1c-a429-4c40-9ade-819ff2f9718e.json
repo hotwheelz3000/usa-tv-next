@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cf8bcc1c-a429-4c40-9ade-819ff2f9718e",
+    "type": "tv",
+    "name": "The Prof G Channel",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1aa26e3e6316eedf422da44cd0999b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775605818359_STV_TPGC-HUD-260x147-W.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1aa26e3e6316eedf422da44cd0999b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775605818359_STV_TPGC-HUD-260x147-W.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1aa26e3e6316eedf422da44cd0999b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775605818359_STV_TPGC-HUD-260x147-W.png",
+    "description": "The Prof G Channel - Entertainment"
+  }
+}
