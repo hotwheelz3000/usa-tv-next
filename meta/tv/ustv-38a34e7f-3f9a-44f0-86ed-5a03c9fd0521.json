@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-38a34e7f-3f9a-44f0-86ed-5a03c9fd0521",
+    "type": "tv",
+    "name": "Crime Scenes",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-scenes.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-scenes.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/crime-scenes.png",
+    "description": "Crime Scenes - Entertainment"
+  }
+}
