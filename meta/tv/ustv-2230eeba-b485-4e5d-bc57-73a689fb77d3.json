@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2230eeba-b485-4e5d-bc57-73a689fb77d3",
+    "type": "tv",
+    "name": "Love & Marriage",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/love-marriage.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/love-marriage.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/love-marriage.png",
+    "description": "Love & Marriage - Entertainment"
+  }
+}
