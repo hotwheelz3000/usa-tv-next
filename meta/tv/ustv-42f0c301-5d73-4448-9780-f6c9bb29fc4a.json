@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-42f0c301-5d73-4448-9780-f6c9bb29fc4a",
+    "type": "tv",
+    "name": "Waypoint TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png",
+    "background": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png",
+    "logo": "https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png",
+    "description": "Waypoint TV - Entertainment"
+  }
+}
