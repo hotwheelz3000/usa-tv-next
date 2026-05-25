@@ -6,9 +6,9 @@
     "genres": [
       "Entertainment"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/csi.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/csi.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/csi.png",
     "description": "CSI - Entertainment"
   }
 }
