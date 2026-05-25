@@ -6,9 +6,9 @@
     "genres": [
       "Sports"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/f1-channel.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/f1-channel.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/f1-channel.png",
     "description": "F1 Channel - Sports"
   }
 }
