@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6db36162-f98e-4f1a-bb10-dff7d272766f",
+    "type": "tv",
+    "name": "First 48",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1853-LG-Logo-PNG-100x100_v1.png",
+    "background": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1853-LG-Logo-PNG-100x100_v1.png",
+    "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1853-LG-Logo-PNG-100x100_v1.png",
+    "description": "First 48 - Entertainment"
+  }
+}
