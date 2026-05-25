@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-16ebb03a-1008-4259-a492-9b69b91ce9df",
+    "type": "tv",
+    "name": "FOX LOCAL Phoenix",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-phoenix.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-phoenix.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-phoenix.png",
+    "description": "FOX LOCAL Phoenix - News"
+  }
+}
