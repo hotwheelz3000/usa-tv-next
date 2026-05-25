@@ -6,9 +6,9 @@
     "genres": [
       "Lifestyle"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/beach-day.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/beach-day.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/beach-day.png",
     "description": "Beach Day - Lifestyle"
   }
 }
