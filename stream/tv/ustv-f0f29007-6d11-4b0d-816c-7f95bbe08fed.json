@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/cw.m3u8?ads.xumo_channelId=99992520&ads.xumo_streamId=99992520&ads.channelId=99992520&ads.ad_tag_id=45116&ads.csid=lgchannels_us_cowboyway_ssai&ads.channelName=cowboyway_us&ads.xumo_contentName=cowboyway&ads.xumo_contentId=3790&ads.xumo_providerName=cowboyway&ads.xumo_providerId=3790&ads.content_category=IAB1-7&ads.content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "LG",
+      "description": "LG"
+    }
+  ]
+}
