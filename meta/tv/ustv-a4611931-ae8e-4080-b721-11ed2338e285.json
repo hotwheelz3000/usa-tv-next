@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a4611931-ae8e-4080-b721-11ed2338e285",
+    "type": "tv",
+    "name": "PBS Retro",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d2mxb63djushzm.cloudfront.net/images/pbs/PBSRetro_LG_Channel_Logo_800x200.png",
+    "background": "https://d2mxb63djushzm.cloudfront.net/images/pbs/PBSRetro_LG_Channel_Logo_800x200.png",
+    "logo": "https://d2mxb63djushzm.cloudfront.net/images/pbs/PBSRetro_LG_Channel_Logo_800x200.png",
+    "description": "PBS Retro - Entertainment"
+  }
+}
