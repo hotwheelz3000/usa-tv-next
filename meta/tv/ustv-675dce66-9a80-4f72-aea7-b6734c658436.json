@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-675dce66-9a80-4f72-aea7-b6734c658436",
+    "type": "tv",
+    "name": "Pluto TV Thrillers",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "Pluto TV Thrillers - Entertainment"
+  }
+}
