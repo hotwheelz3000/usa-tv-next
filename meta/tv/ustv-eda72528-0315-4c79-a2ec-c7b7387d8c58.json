@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-eda72528-0315-4c79-a2ec-c7b7387d8c58",
+    "type": "tv",
+    "name": "Chasing Criminals",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/chasing-criminals.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/chasing-criminals.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/chasing-criminals.png",
+    "description": "Chasing Criminals - Entertainment"
+  }
+}
