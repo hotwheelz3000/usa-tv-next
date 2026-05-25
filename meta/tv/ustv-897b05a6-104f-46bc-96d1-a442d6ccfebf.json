@@ -6,9 +6,9 @@
     "genres": [
       "Documentaries"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-history.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-history.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-history.png",
     "description": "Pluto TV History - Documentaries"
   }
 }
