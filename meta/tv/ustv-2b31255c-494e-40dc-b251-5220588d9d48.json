@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2b31255c-494e-40dc-b251-5220588d9d48",
+    "type": "tv",
+    "name": "MovieSphere",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png",
+    "background": "https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png",
+    "logo": "https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png",
+    "description": "MovieSphere - Entertainment"
+  }
+}
