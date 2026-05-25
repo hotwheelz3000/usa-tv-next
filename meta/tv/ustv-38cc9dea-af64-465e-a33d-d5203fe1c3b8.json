@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-38cc9dea-af64-465e-a33d-d5203fe1c3b8",
+    "type": "tv",
+    "name": "CBS News Philadelphia",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png",
+    "description": "CBS News Philadelphia - News"
+  }
+}
