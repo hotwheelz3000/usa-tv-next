@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-08f92d13-ade8-4323-9c95-2322c8ef9e7b",
+    "type": "tv",
+    "name": "theGrio",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/thegrio.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/thegrio.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/thegrio.png",
+    "description": "theGrio - News"
+  }
+}
