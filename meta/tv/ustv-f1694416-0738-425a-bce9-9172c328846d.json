@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f1694416-0738-425a-bce9-9172c328846d",
+    "type": "tv",
+    "name": "MotoGP TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_logo_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_logo_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_logo_400x200.png",
+    "description": "MotoGP TV - Entertainment"
+  }
+}
