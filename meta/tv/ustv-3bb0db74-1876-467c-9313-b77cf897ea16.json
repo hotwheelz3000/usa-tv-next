@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3bb0db74-1876-467c-9313-b77cf897ea16",
+    "type": "tv",
+    "name": "Cold Case Files",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cold-case-files.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cold-case-files.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cold-case-files.png",
+    "description": "Cold Case Files - Entertainment"
+  }
+}
