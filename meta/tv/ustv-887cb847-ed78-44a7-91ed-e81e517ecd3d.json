@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-887cb847-ed78-44a7-91ed-e81e517ecd3d",
+    "type": "tv",
+    "name": "Pluto TV Terror",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "Pluto TV Terror - Entertainment"
+  }
+}
