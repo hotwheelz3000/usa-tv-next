@@ -6,9 +6,9 @@
     "genres": [
       "News"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cnn-headlines.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cnn-headlines.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cnn-headlines.png",
     "description": "CNN HEADLINES - News"
   }
 }
