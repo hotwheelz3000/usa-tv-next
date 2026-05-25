@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bdc14c17-fecf-47a5-82bf-e980543edbaf",
+    "type": "tv",
+    "name": "It's Showtime at the Apollo",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped",
+    "background": "https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped",
+    "logo": "https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped",
+    "description": "It's Showtime at the Apollo - Entertainment"
+  }
+}
