@@ -6,9 +6,9 @@
     "genres": [
       "Sports"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/triton-poker.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/triton-poker.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/triton-poker.png",
     "description": "Triton Poker - Sports"
   }
 }
