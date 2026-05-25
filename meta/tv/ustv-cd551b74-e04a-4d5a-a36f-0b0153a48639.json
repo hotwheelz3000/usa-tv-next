@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cd551b74-e04a-4d5a-a36f-0b0153a48639",
+    "type": "tv",
+    "name": "Bloomberg Originals",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bloomberg-originals.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bloomberg-originals.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/bloomberg-originals.png",
+    "description": "Bloomberg Originals - News"
+  }
+}
