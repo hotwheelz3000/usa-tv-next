@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bea6e8b9-43b1-40b9-b9c6-c368823285ee",
+    "type": "tv",
+    "name": "Stingray Greatest Hits",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png",
+    "background": "https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png",
+    "logo": "https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/155ADS/lg-direct/Channel_Logo_272x200.png",
+    "description": "Stingray Greatest Hits - Entertainment"
+  }
+}
