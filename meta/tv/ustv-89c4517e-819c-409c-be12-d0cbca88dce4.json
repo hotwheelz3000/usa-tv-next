@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-89c4517e-819c-409c-be12-d0cbca88dce4",
+    "type": "tv",
+    "name": "The Johnny Carson Show",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-johnny-carson-show.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-johnny-carson-show.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-johnny-carson-show.png",
+    "description": "The Johnny Carson Show - Entertainment"
+  }
+}
