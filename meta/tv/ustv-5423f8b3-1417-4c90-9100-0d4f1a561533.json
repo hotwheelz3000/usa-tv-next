@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-5423f8b3-1417-4c90-9100-0d4f1a561533",
+    "type": "tv",
+    "name": "KING Seattle 5",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/king-seattle-5.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/king-seattle-5.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/king-seattle-5.png",
+    "description": "KING Seattle 5 - News"
+  }
+}
