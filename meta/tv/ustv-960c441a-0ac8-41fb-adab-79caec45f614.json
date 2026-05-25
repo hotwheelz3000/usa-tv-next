@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-960c441a-0ac8-41fb-adab-79caec45f614",
+    "type": "tv",
+    "name": "Miramax Movies",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/798-400x200.png",
+    "background": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/798-400x200.png",
+    "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mcs/channels/798-400x200.png",
+    "description": "Miramax Movies - Entertainment"
+  }
+}
