@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d019d5f7-4a23-4043-ac2c-c485faa933c2",
+    "type": "tv",
+    "name": "Are We There Yet",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/are-we-there-yet.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/are-we-there-yet.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/are-we-there-yet.png",
+    "description": "Are We There Yet - Entertainment"
+  }
+}
