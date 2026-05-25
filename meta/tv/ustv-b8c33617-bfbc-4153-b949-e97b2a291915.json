@@ -6,9 +6,9 @@
     "genres": [
       "Sports"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fanduel-tv-extra.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fanduel-tv-extra.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fanduel-tv-extra.png",
     "description": "FanDuel TV Extra - Sports"
   }
 }
