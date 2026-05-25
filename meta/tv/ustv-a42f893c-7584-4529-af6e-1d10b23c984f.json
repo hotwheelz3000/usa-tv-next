@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a42f893c-7584-4529-af6e-1d10b23c984f",
+    "type": "tv",
+    "name": "Discovery Turbo TV",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png",
+    "background": "https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png",
+    "logo": "https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png",
+    "description": "Discovery Turbo TV - Sports"
+  }
+}
