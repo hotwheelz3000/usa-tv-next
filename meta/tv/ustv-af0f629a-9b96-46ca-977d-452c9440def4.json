@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-af0f629a-9b96-46ca-977d-452c9440def4",
+    "type": "tv",
+    "name": "MrBeast",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mrbeast.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mrbeast.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mrbeast.png",
+    "description": "MrBeast - Entertainment"
+  }
+}
