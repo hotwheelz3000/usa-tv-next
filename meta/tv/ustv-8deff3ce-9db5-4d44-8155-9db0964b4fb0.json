@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-8deff3ce-9db5-4d44-8155-9db0964b4fb0",
+    "type": "tv",
+    "name": "How To",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/how-to.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/how-to.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/how-to.png",
+    "description": "How To - Lifestyle"
+  }
+}
