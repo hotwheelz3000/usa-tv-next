@@ -6,9 +6,9 @@
     "genres": [
       "Lifestyle"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/68bb16916523408b14bac7f8/colorLogoPNG_1757969887631.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-cooking-by-food-network.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-cooking-by-food-network.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/home-cooking-by-food-network.png",
     "description": "Home Cooking by Food Network - Lifestyle"
   }
 }
