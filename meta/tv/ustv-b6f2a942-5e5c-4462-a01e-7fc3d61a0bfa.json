@@ -6,9 +6,9 @@
     "genres": [
       "Documentaries"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mythbusters.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mythbusters.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mythbusters.png",
     "description": "MythBusters - Documentaries"
   }
 }
