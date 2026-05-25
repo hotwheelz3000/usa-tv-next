@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-c8ffb81c-3975-4836-a7ef-1f55aa8815e1",
+    "type": "tv",
+    "name": "Hersphere",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hersphere.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hersphere.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hersphere.png",
+    "description": "Hersphere - Entertainment"
+  }
+}
