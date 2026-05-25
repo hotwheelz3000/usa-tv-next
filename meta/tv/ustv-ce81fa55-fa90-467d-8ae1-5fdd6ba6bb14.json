@@ -6,9 +6,9 @@
     "genres": [
       "Music"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/69445a9a78c0c45b6c9aa8b9/colorLogoPNG_1771261855448.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tiktok-radio.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tiktok-radio.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/tiktok-radio.png",
     "description": "TikTok Radio - Music"
   }
 }
