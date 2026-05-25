@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-177eb5c8-1cd5-4774-b22e-ba48fee15016",
+    "type": "tv",
+    "name": "KGUN 9 Tucson News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgun-9-tucson-news.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgun-9-tucson-news.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kgun-9-tucson-news.png",
+    "description": "KGUN 9 Tucson News - News"
+  }
+}
