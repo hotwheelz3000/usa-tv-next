@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-95c6e7de-c5b9-40d8-a7ae-cfe574beaca7",
+    "type": "tv",
+    "name": "UFC",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png",
+    "description": "UFC - Entertainment"
+  }
+}
