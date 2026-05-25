@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-22d25e22-3dde-4c5b-ba1c-e98bd1da0f35",
+    "type": "tv",
+    "name": "Antiques Roadshow",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png",
+    "description": "Antiques Roadshow - Entertainment"
+  }
+}
