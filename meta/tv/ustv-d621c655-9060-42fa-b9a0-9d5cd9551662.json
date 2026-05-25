@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d621c655-9060-42fa-b9a0-9d5cd9551662",
+    "type": "tv",
+    "name": "Pokemon",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/images/pokemon/Poke%CC%81mon_Channel_Logo_Horizontal_White_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/images/pokemon/Poke%CC%81mon_Channel_Logo_Horizontal_White_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/images/pokemon/Poke%CC%81mon_Channel_Logo_Horizontal_White_400x200.png",
+    "description": "Pokemon - Entertainment"
+  }
+}
