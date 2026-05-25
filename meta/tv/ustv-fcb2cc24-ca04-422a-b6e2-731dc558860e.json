@@ -6,9 +6,9 @@
     "genres": [
       "Music"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/xite-gospel.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/xite-gospel.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/xite-gospel.png",
     "description": "XITE Gospel - Music"
   }
 }
