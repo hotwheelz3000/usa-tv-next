@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-9e7528ba-61d4-44dd-8d30-f3ad80e5734f",
+    "type": "tv",
+    "name": "FOX SOUL",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-soul.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-soul.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-soul.png",
+    "description": "FOX SOUL - Entertainment"
+  }
+}
