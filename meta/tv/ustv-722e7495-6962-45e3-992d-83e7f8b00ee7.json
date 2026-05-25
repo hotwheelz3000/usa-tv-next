@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-722e7495-6962-45e3-992d-83e7f8b00ee7",
+    "type": "tv",
+    "name": "ABC News Live",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png",
+    "description": "ABC News Live - News"
+  }
+}
