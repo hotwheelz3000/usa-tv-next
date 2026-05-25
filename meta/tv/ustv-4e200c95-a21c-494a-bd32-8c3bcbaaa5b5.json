@@ -6,9 +6,9 @@
     "genres": [
       "Kids"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/little-stars-universe.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/little-stars-universe.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/little-stars-universe.png",
     "description": "Little Stars Universe - Kids"
   }
 }
