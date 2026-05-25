@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2e02ee35-f39a-4aa7-b5ca-9741d3b38d68",
+    "type": "tv",
+    "name": "Cine EstrellaTV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cine-estrellatv.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cine-estrellatv.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/cine-estrellatv.png",
+    "description": "Cine EstrellaTV - Entertainment"
+  }
+}
