@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-494c63c5-b99e-4d24-9043-36819375f36e",
+    "type": "tv",
+    "name": "FilmRise Free Movies",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://image.xumo.com/v1/channels/channel/99992272/600x200.png?type=white_cropped",
+    "background": "https://image.xumo.com/v1/channels/channel/99992272/600x200.png?type=white_cropped",
+    "logo": "https://image.xumo.com/v1/channels/channel/99992272/600x200.png?type=white_cropped",
+    "description": "FilmRise Free Movies - Entertainment"
+  }
+}
