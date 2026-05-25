@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-56f5f7ab-b60c-42ef-9687-775b8956e26a",
+    "type": "tv",
+    "name": "The FBI Files",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi-files.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi-files.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-fbi-files.png",
+    "description": "The FBI Files - Entertainment"
+  }
+}
