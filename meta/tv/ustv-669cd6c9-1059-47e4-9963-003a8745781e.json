@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-669cd6c9-1059-47e4-9963-003a8745781e",
+    "type": "tv",
+    "name": "Welcome Home",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/welcome-home.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/welcome-home.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/welcome-home.png",
+    "description": "Welcome Home - Lifestyle"
+  }
+}
