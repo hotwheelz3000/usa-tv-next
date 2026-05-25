@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-9c9271e7-72fa-48e2-94c2-2831bbf90577",
+    "type": "tv",
+    "name": "Torque",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/torque.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/torque.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/torque.png",
+    "description": "Torque - Entertainment"
+  }
+}
