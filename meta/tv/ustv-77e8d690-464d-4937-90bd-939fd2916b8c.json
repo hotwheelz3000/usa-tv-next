@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-77e8d690-464d-4937-90bd-939fd2916b8c",
+    "type": "tv",
+    "name": "Paws & Claws",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/paws-claws.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/paws-claws.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/paws-claws.png",
+    "description": "Paws & Claws - Documentaries"
+  }
+}
