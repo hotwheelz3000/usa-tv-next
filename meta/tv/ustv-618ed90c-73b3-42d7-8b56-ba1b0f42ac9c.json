@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-618ed90c-73b3-42d7-8b56-ba1b0f42ac9c",
+    "type": "tv",
+    "name": "News 12 New York",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png",
+    "description": "News 12 New York - News"
+  }
+}
