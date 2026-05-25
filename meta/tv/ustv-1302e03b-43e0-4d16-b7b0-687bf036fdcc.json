@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-1302e03b-43e0-4d16-b7b0-687bf036fdcc",
+    "type": "tv",
+    "name": "Classic Car Auctions",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ClassicCarAuctions/Classic_Car_Auctions_by_H_logo_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ClassicCarAuctions/Classic_Car_Auctions_by_H_logo_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/ClassicCarAuctions/Classic_Car_Auctions_by_H_logo_400x200.png",
+    "description": "Classic Car Auctions - Entertainment"
+  }
+}
