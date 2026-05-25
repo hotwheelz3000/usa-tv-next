@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3fc55e4a-c3d9-496f-823b-189a9cf75514",
+    "type": "tv",
+    "name": "Hallmark Movies And More",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/crownmedia/HMMore_LG_Launch_Assets_Logo_White.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/crownmedia/HMMore_LG_Launch_Assets_Logo_White.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/crownmedia/HMMore_LG_Launch_Assets_Logo_White.png",
+    "description": "Hallmark Movies And More - Entertainment"
+  }
+}
