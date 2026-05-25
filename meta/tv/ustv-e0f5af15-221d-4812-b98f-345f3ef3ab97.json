@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-e0f5af15-221d-4812-b98f-345f3ef3ab97",
+    "type": "tv",
+    "name": "America's Funniest Home Videos",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/20a6aa8be0f3aff9d50f3daf3dfe6ba8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1769180377871_AFHV_Roku_Info_HUD_Logo_260x147_EFEFEF.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/20a6aa8be0f3aff9d50f3daf3dfe6ba8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1769180377871_AFHV_Roku_Info_HUD_Logo_260x147_EFEFEF.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/20a6aa8be0f3aff9d50f3daf3dfe6ba8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1769180377871_AFHV_Roku_Info_HUD_Logo_260x147_EFEFEF.png",
+    "description": "America's Funniest Home Videos - Entertainment"
+  }
+}
