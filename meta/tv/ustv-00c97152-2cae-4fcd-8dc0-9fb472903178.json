@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-00c97152-2cae-4fcd-8dc0-9fb472903178",
+    "type": "tv",
+    "name": "Kids TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png",
+    "background": "http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png",
+    "logo": "http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png",
+    "description": "Kids TV - Entertainment"
+  }
+}
