@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-5c23eb22-33fb-43bc-b451-b8dbfd0e48f8",
+    "type": "tv",
+    "name": "Qello Concerts by Stingray",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://epg.sam.stingray.com/IMAGE/QELLO001/lg-direct/Channel_Logo_372x157.png",
+    "background": "https://epg.sam.stingray.com/IMAGE/QELLO001/lg-direct/Channel_Logo_372x157.png",
+    "logo": "https://epg.sam.stingray.com/IMAGE/QELLO001/lg-direct/Channel_Logo_372x157.png",
+    "description": "Qello Concerts by Stingray - Entertainment"
+  }
+}
