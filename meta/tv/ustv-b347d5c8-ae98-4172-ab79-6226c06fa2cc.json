@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-b347d5c8-ae98-4172-ab79-6226c06fa2cc",
+    "type": "tv",
+    "name": "FilmRise Black TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-black-tv.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-black-tv.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/filmrise-black-tv.png",
+    "description": "FilmRise Black TV - Entertainment"
+  }
+}
