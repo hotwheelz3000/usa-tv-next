@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7088d2eb-2662-4e09-a2cf-f737ffa6be6d",
+    "type": "tv",
+    "name": "The Masked Singer",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-masked-singer.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-masked-singer.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/the-masked-singer.png",
+    "description": "The Masked Singer - Entertainment"
+  }
+}
