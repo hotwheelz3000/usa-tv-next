@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-1dc9d2b2-a8a1-4557-9911-7b11bb53fc0a",
+    "type": "tv",
+    "name": "KPNX Phoenix 12 News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kpnx-phoenix-12-news.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kpnx-phoenix-12-news.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/kpnx-phoenix-12-news.png",
+    "description": "KPNX Phoenix 12 News - News"
+  }
+}
