@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-0e7b3e1f-7caf-4bc6-9985-def7dd4565f8",
+    "type": "tv",
+    "name": "Mysterious Worlds",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mysterious-worlds.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mysterious-worlds.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mysterious-worlds.png",
+    "description": "Mysterious Worlds - Entertainment"
+  }
+}
