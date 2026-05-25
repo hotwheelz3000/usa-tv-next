@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-5e2d7128-669f-421a-adfa-afae2de4401c",
+    "type": "tv",
+    "name": "MavTV Select",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png",
+    "description": "MavTV Select - Entertainment"
+  }
+}
