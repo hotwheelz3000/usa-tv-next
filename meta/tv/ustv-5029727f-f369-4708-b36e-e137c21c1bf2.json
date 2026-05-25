@@ -6,9 +6,9 @@
     "genres": [
       "Kids"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mister-rogers-neighborhood.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mister-rogers-neighborhood.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/mister-rogers-neighborhood.png",
     "description": "Mister Rogers' Neighborhood - Kids"
   }
 }
