@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d530b792-d039-4b6e-a543-f38c21bcb405",
+    "type": "tv",
+    "name": "Local Now",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/localnow_lg_images/logo_bug_300x300/LN_logo_white_300x300.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/localnow_lg_images/logo_bug_300x300/LN_logo_white_300x300.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/localnow_lg_images/logo_bug_300x300/LN_logo_white_300x300.png",
+    "description": "Local Now - Entertainment"
+  }
+}
