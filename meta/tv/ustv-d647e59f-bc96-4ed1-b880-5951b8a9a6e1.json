@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d647e59f-bc96-4ed1-b880-5951b8a9a6e1",
+    "type": "tv",
+    "name": "BBC Earth",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png",
+    "description": "BBC Earth - Documentaries"
+  }
+}
