@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bbc7ec0f-7d53-45b9-9fc9-83f33492bf09",
+    "type": "tv",
+    "name": "Horror by ALTER",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/horror-by-alter.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/horror-by-alter.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/horror-by-alter.png",
+    "description": "Horror by ALTER - Entertainment"
+  }
+}
