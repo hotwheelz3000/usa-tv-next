@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-df034c1c-1986-4998-b415-ec10ad5f9566",
+    "type": "tv",
+    "name": "Yahoo! Finance",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/yahoo/YFLogo_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/yahoo/YFLogo_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/yahoo/YFLogo_400x200.png",
+    "description": "Yahoo! Finance - Entertainment"
+  }
+}
