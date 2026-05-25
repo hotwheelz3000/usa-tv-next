@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a52c16fb-655c-4879-9381-694b86c4a148",
+    "type": "tv",
+    "name": "KOAT Very New Mexico 7",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/koat-very-new-mexico-7.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/koat-very-new-mexico-7.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/koat-very-new-mexico-7.png",
+    "description": "KOAT Very New Mexico 7 - News"
+  }
+}
