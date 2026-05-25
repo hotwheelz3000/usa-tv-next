@@ -6,9 +6,9 @@
     "genres": [
       "Entertainment"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/star-trek.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/star-trek.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/star-trek.png",
     "description": "Star Trek - Entertainment"
   }
 }
