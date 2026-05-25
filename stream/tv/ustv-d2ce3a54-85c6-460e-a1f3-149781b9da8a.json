@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://amg00497-amg00497c30-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c30-amgplt0023/playlist.m3u8?ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.ua=[UA]&ads.devicemodel=[DEVICE_MODEL]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.lat=[LMT]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicemake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "LG",
+      "description": "LG"
+    }
+  ]
+}
