@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-138bd19f-389b-4b09-81bc-ec204e964d7a",
+    "type": "tv",
+    "name": "Martha Stewart",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png",
+    "description": "Martha Stewart - Entertainment"
+  }
+}
