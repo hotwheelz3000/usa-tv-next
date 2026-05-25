@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f2b854dc-677c-40c1-809a-cc8b820f0eb3",
+    "type": "tv",
+    "name": "FOX LOCAL Seattle",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-seattle.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-seattle.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-local-seattle.png",
+    "description": "FOX LOCAL Seattle - News"
+  }
+}
