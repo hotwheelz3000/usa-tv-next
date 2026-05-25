@@ -6,9 +6,9 @@
     "genres": [
       "Documentaries"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-disaster-channel.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-disaster-channel.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/real-disaster-channel.png",
     "description": "Real Disaster Channel - Documentaries"
   }
 }
