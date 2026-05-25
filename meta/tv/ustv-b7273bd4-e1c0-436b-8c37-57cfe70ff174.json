@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-b7273bd4-e1c0-436b-8c37-57cfe70ff174",
+    "type": "tv",
+    "name": "CNN Headlines International",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Headlines_International_LG_white_400x200px.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Headlines_International_LG_white_400x200px.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNN_Headlines_International_LG_white_400x200px.png",
+    "description": "CNN Headlines International - Entertainment"
+  }
+}
