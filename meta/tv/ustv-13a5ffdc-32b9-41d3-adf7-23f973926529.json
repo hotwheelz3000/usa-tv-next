@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-13a5ffdc-32b9-41d3-adf7-23f973926529",
+    "type": "tv",
+    "name": "LOL! Network",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lol-network.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lol-network.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/lol-network.png",
+    "description": "LOL! Network - Entertainment"
+  }
+}
