@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-703f9ddd-b3ae-4570-8a3c-63a44625c1ea",
+    "type": "tv",
+    "name": "Hagerty",
+    "genres": [
+      "Lifestyle"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hagerty.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hagerty.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hagerty.png",
+    "description": "Hagerty - Lifestyle"
+  }
+}
