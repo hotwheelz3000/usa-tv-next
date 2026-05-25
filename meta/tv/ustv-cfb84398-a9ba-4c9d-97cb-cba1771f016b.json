@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cfb84398-a9ba-4c9d-97cb-cba1771f016b",
+    "type": "tv",
+    "name": "Gordon Ramsay",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/gordon-ramsay.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/gordon-ramsay.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/gordon-ramsay.png",
+    "description": "Gordon Ramsay - Entertainment"
+  }
+}
