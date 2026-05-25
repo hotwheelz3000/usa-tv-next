@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-be03a2e5-a87f-4733-9ea3-92e99975da15",
+    "type": "tv",
+    "name": "Loupe Art + Music",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://epg.sam.stingray.com/IMAGE/LOUPE-001/lg-direct/Channel_Logo_506x200.png",
+    "background": "https://epg.sam.stingray.com/IMAGE/LOUPE-001/lg-direct/Channel_Logo_506x200.png",
+    "logo": "https://epg.sam.stingray.com/IMAGE/LOUPE-001/lg-direct/Channel_Logo_506x200.png",
+    "description": "Loupe Art + Music - Entertainment"
+  }
+}
