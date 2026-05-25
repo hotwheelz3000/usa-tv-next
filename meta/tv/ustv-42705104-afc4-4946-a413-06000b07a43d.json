@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-42705104-afc4-4946-a413-06000b07a43d",
+    "type": "tv",
+    "name": "Pluto TV Comedy",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "background": "https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "logo": "https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+    "description": "Pluto TV Comedy - Entertainment"
+  }
+}
