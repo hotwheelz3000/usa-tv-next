@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6d6444a2-7e11-4ac4-aa34-89caa304fe31",
+    "type": "tv",
+    "name": "The Jack Hanna Channel",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b50362a8bbc5a12a203aa48e6ea9fe1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144220271_hud-center_260x147.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b50362a8bbc5a12a203aa48e6ea9fe1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144220271_hud-center_260x147.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b50362a8bbc5a12a203aa48e6ea9fe1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144220271_hud-center_260x147.png",
+    "description": "The Jack Hanna Channel - Entertainment"
+  }
+}
