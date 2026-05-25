@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-13eaae29-6071-4a70-b4d6-d5b17de3095a",
+    "type": "tv",
+    "name": "Movie Music By Stingray",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://epg.sam.stingray.com/IMAGE/CME-004/lg-direct/Channel_Logo_306x200.png",
+    "background": "https://epg.sam.stingray.com/IMAGE/CME-004/lg-direct/Channel_Logo_306x200.png",
+    "logo": "https://epg.sam.stingray.com/IMAGE/CME-004/lg-direct/Channel_Logo_306x200.png",
+    "description": "Movie Music By Stingray - Entertainment"
+  }
+}
