@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f23ec5b1-5784-44ef-8a17-bb998258822f",
+    "type": "tv",
+    "name": "Big 12 Studios",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/big-12-studios.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/big-12-studios.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/big-12-studios.png",
+    "description": "Big 12 Studios - Sports"
+  }
+}
