@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-b8895fa5-69a6-4412-b28e-3614a8d3e7d6",
+    "type": "tv",
+    "name": "HBO Boxing",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hbo-boxing.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hbo-boxing.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/hbo-boxing.png",
+    "description": "HBO Boxing - Sports"
+  }
+}
