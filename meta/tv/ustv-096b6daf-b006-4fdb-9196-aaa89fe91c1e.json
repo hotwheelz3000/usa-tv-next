@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-096b6daf-b006-4fdb-9196-aaa89fe91c1e",
+    "type": "tv",
+    "name": "Cook's Country Channel",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png",
+    "description": "Cook's Country Channel - Entertainment"
+  }
+}
