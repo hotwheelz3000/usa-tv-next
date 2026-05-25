@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-c80d357e-9237-49a5-83f6-916e5680e8be",
+    "type": "tv",
+    "name": "CINEVAULT",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png",
+    "background": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png",
+    "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png",
+    "description": "CINEVAULT - Entertainment"
+  }
+}
