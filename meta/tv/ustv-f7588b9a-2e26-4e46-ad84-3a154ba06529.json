@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f7588b9a-2e26-4e46-ad84-3a154ba06529",
+    "type": "tv",
+    "name": "Fear Factor USA",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fear-factor-usa.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fear-factor-usa.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fear-factor-usa.png",
+    "description": "Fear Factor USA - Entertainment"
+  }
+}
