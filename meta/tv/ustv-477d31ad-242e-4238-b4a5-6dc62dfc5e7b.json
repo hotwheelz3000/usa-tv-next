@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-477d31ad-242e-4238-b4a5-6dc62dfc5e7b",
+    "type": "tv",
+    "name": "Game On",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/k20/gameon/GameON_White_Transparent_400x200.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/k20/gameon/GameON_White_Transparent_400x200.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/k20/gameon/GameON_White_Transparent_400x200.png",
+    "description": "Game On - Entertainment"
+  }
+}
