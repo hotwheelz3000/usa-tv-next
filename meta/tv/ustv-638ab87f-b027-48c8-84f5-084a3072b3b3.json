@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-638ab87f-b027-48c8-84f5-084a3072b3b3",
+    "type": "tv",
+    "name": "GET Comedy",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png",
+    "background": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png",
+    "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png",
+    "description": "GET Comedy - Entertainment"
+  }
+}
