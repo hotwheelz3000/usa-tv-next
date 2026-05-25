@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cdb39611-77f5-4e1b-aa57-0a8e79ea68b7",
+    "type": "tv",
+    "name": "Amasian TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EU%20Channel%201/amasiantv_movies_and_more_logo_lg_channels.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EU%20Channel%201/amasiantv_movies_and_more_logo_lg_channels.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EU%20Channel%201/amasiantv_movies_and_more_logo_lg_channels.png",
+    "description": "Amasian TV - Entertainment"
+  }
+}
