@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-b6394e9d-0a1b-4a06-90b7-7f29e065f98a",
+    "type": "tv",
+    "name": "Nikita",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nikita.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nikita.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nikita.png",
+    "description": "Nikita - Entertainment"
+  }
+}
