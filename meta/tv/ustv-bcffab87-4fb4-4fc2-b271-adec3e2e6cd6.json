@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bcffab87-4fb4-4fc2-b271-adec3e2e6cd6",
+    "type": "tv",
+    "name": "Screambox TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png",
+    "background": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png",
+    "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png",
+    "description": "Screambox TV - Entertainment"
+  }
+}
