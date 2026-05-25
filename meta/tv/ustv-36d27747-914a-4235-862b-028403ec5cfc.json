@@ -6,9 +6,9 @@
     "genres": [
       "Kids"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nickelodeon-en-espa-ol.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nickelodeon-en-espa-ol.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/nickelodeon-en-espa-ol.png",
     "description": "Nickelodeon en espa\u00f1ol - Kids"
   }
 }
