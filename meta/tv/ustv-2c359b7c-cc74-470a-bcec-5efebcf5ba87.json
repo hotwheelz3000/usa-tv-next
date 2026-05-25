@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2c359b7c-cc74-470a-bcec-5efebcf5ba87",
+    "type": "tv",
+    "name": "TuDiscovery",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Tu_Discovery_Logo_Channel_Banner.png",
+    "background": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Tu_Discovery_Logo_Channel_Banner.png",
+    "logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/Tu_Discovery_Logo_Channel_Banner.png",
+    "description": "TuDiscovery - Entertainment"
+  }
+}
