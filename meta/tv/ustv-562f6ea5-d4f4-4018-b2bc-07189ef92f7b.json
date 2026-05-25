@@ -6,9 +6,9 @@
     "genres": [
       "Documentaries"
     ],
-    "poster": "",
-    "background": "",
-    "logo": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png",
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-military.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-military.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/pluto-tv-military.png",
     "description": "Pluto TV Military - Documentaries"
   }
 }
