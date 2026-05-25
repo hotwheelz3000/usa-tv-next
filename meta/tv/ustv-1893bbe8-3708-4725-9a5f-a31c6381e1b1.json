@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-1893bbe8-3708-4725-9a5f-a31c6381e1b1",
+    "type": "tv",
+    "name": "Crunchyroll",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",
+    "background": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",
+    "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",
+    "description": "Crunchyroll - Entertainment"
+  }
+}
