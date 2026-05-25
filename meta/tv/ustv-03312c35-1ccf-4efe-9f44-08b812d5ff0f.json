@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-03312c35-1ccf-4efe-9f44-08b812d5ff0f",
+    "type": "tv",
+    "name": "Scripps News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png",
+    "description": "Scripps News - News"
+  }
+}
