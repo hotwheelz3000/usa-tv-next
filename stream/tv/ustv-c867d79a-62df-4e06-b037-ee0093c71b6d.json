@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993011/hls/master.m3u8?ads.xumo_channelId=99993011&ads.xumo_streamId=99993011&ads.channelId=99993011&ads.asnw=535279&ads.afid=440667936&ads.sfid=23858577&ads.csid=lgchannels_us_versantekeepingup_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=TV-14&ads.xumo_contentId=4299&ads.xumo_contentName=VersantEKeepingUp&ads.xumo_providerId=4299&ads.xumo_providerName=VersantEKeepingUp&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "LG",
+      "description": "LG"
+    }
+  ]
+}
