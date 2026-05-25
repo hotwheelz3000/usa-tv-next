@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-dd42cf57-81f5-4840-b570-ed1130810419",
+    "type": "tv",
+    "name": "Fox Sports En Espa\u00f1ol",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-sports-en-espa-ol.png",
+    "background": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-sports-en-espa-ol.png",
+    "logo": "https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/logos/usa/fox-sports-en-espa-ol.png",
+    "description": "Fox Sports En Espa\u00f1ol - Entertainment"
+  }
+}
