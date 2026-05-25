@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99993064/hls/master.m3u8?ads.xumo_channelId=99993064&ads.xumo_streamId=99993064&ads.channelId=99993064&ads.asnw=169843&ads.afid=438810158&ads.sfid=23712979&ads.csid=lgchannels_us_nbcuxenawarriorprincess_ssai_cro&ads.caid=xenawarriorprincess_linear&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=4226&ads.xumo_contentName=NBCUXenaWarriorPrincess&ads.xumo_providerId=4226&ads.xumo_providerName=NBCUXenaWarriorPrincess&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "LG",
+      "description": "LG"
+    }
+  ]
+}
