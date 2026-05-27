@@ -15,14 +15,6 @@
       },
       "name": "HD",
       "description": "WB"
-    },
-    {
-      "url": "http://tunein.streamguys1.com/cnn-new",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:TUNEIN"
     }
   ]
 }
