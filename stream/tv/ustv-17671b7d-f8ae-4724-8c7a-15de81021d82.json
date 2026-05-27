@@ -7,14 +7,6 @@
       },
       "name": "SD",
       "description": "TP"
-    },
-    {
-      "url": "https://amchls.wns.live/hls/stream.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:AMCHLS"
     }
   ]
 }
