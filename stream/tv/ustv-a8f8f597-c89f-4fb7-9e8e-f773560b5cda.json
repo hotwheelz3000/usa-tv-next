@@ -7,14 +7,6 @@
       },
       "name": "SD",
       "description": "TP"
-    },
-    {
-      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:CDN-APSE1-PR"
     }
   ]
 }
