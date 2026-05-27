@@ -17,8 +17,8 @@ Install via [Stremio Web](https://web.stremio.com/#/?addon=https://raw.githubuse
 | Source | Channels |
 |---|---|
 | Major US Networks | ABC, CBS, CW, Fox, NBC, PBS + more |
-| Pluto TV | 356 channels |
-| Tubi | 107 channels |
+| Pluto TV | 372 channels |
+| Tubi | 115 channels |
 
 ## Genres
 
