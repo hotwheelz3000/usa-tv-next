@@ -1,20 +1,20 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/CNN/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
-    },
-    {
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "HD",
       "description": "WB"
+    },
+    {
+      "url": "https://tvpass.org/live/CNN/sd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "TP"
     }
   ]
 }
