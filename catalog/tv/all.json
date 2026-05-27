@@ -1,64 +1,6 @@
 {
   "metas": [
     {
-      "id": "ustv-acba8f14-043f-48b2-a179-85c501e7d6a1",
-      "tvgId": null,
-      "name": "5StarMax",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Premium",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cinemax-5-starmax-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-5-starmax-us.png",
-      "genres": [
-        "Premium"
-      ],
-      "streams": [
-        {
-          "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "MJE"
-        }
-      ]
-    },
-    {
-      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
-      "tvgId": "",
-      "name": "A&E",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://fl1.moveonjoy.com/ANE/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "MJ"
-        },
-        {
-          "url": "https://tvpass.org/live/AEEast/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        }
-      ]
-    },
-    {
       "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343",
       "tvgId": "",
       "name": "ABC",
@@ -115,6 +57,381 @@
         },
         {
           "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758",
+      "tvgId": "",
+      "name": "CBS",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Local",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cbs-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-us.png",
+      "genres": [
+        "Local"
+      ],
+      "streams": [
+        {
+          "url": "https://a1xs.vip/300010",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "AX"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://fl1.moveonjoy.com/CBS/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "MJ"
+        },
+        {
+          "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        },
+        {
+          "url": "https://tvpass.org/live/WCBSDT1/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-a931a508-de1f-4c1e-81eb-f1abffd5e147",
+      "tvgId": "",
+      "name": "CW ",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Local",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cw-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cw-us.png",
+      "genres": [
+        "Local"
+      ],
+      "streams": [
+        {
+          "url": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        },
+        {
+          "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        },
+        {
+          "url": "https://tvpass.org/live/WPIX/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-3902457a-7818-4fbe-8209-9d43a903c784",
+      "tvgId": "",
+      "name": "Fox",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Local",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-us.png",
+      "genres": [
+        "Local"
+      ],
+      "streams": [
+        {
+          "url": "https://a1xs.vip/300014",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "AX"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        },
+        {
+          "url": "https://tvpass.org/live/WNYWDT1/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa",
+      "tvgId": "",
+      "name": "NBC",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Local",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-us.png",
+      "genres": [
+        "Local"
+      ],
+      "streams": [
+        {
+          "url": "https://a1xs.vip/300015",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "AX"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "CV"
+        },
+        {
+          "url": "https://fl1.moveonjoy.com/NBC/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "MJ"
+        },
+        {
+          "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        },
+        {
+          "url": "https://tvpass.org/live/WNBCDT1/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df",
+      "tvgId": null,
+      "name": "PBS",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Local",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/pbs-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-us.png",
+      "genres": [
+        "Local"
+      ],
+      "streams": [
+        {
+          "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "ST"
+        },
+        {
+          "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "ST"
+        },
+        {
+          "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "ST"
+        },
+        {
+          "url": "https://tvpass.org/live/WNET/sd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "TP"
+        }
+      ]
+    },
+    {
+      "id": "ustv-acba8f14-043f-48b2-a179-85c501e7d6a1",
+      "tvgId": null,
+      "name": "5StarMax",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Premium",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cinemax-5-starmax-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-5-starmax-us.png",
+      "genres": [
+        "Premium"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "MJE"
+        }
+      ]
+    },
+    {
+      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
+      "tvgId": "",
+      "name": "A&E",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://fl1.moveonjoy.com/ANE/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "[DEAD] HD",
+          "description": "MJ"
+        },
+        {
+          "url": "https://tvpass.org/live/AEEast/sd",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -983,79 +1300,6 @@
       ]
     },
     {
-      "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758",
-      "tvgId": "",
-      "name": "CBS",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Local",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cbs-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-us.png",
-      "genres": [
-        "Local"
-      ],
-      "streams": [
-        {
-          "url": "https://a1xs.vip/300010",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "AX"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://fl1.moveonjoy.com/CBS/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "MJ"
-        },
-        {
-          "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        },
-        {
-          "url": "https://tvpass.org/live/WCBSDT1/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        }
-      ]
-    },
-    {
       "id": "ustv-7ba81bf7-3bb4-43c1-946f-bfff70198dd9",
       "tvgId": null,
       "name": "CBS Sports Golazo Network",
@@ -1538,63 +1782,6 @@
         },
         {
           "url": "https://tvpass.org/live/CrimePlusInvestigation/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        }
-      ]
-    },
-    {
-      "id": "ustv-a931a508-de1f-4c1e-81eb-f1abffd5e147",
-      "tvgId": "",
-      "name": "CW ",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Local",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cw-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cw-us.png",
-      "genres": [
-        "Local"
-      ],
-      "streams": [
-        {
-          "url": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        },
-        {
-          "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        },
-        {
-          "url": "https://tvpass.org/live/WPIX/sd",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -2557,71 +2744,6 @@
         },
         {
           "url": "https://tvpass.org/live/FoodNetworkEast/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        }
-      ]
-    },
-    {
-      "id": "ustv-3902457a-7818-4fbe-8209-9d43a903c784",
-      "tvgId": "",
-      "name": "Fox",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Local",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-us.png",
-      "genres": [
-        "Local"
-      ],
-      "streams": [
-        {
-          "url": "https://a1xs.vip/300014",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "AX"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        },
-        {
-          "url": "https://tvpass.org/live/WNYWDT1/sd",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -4631,79 +4753,6 @@
       ]
     },
     {
-      "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa",
-      "tvgId": "",
-      "name": "NBC",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Local",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-us.png",
-      "genres": [
-        "Local"
-      ],
-      "streams": [
-        {
-          "url": "https://a1xs.vip/300015",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "AX"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "CV"
-        },
-        {
-          "url": "https://fl1.moveonjoy.com/NBC/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "MJ"
-        },
-        {
-          "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        },
-        {
-          "url": "https://tvpass.org/live/WNBCDT1/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
-        }
-      ]
-    },
-    {
       "id": "ustv-05bb54a8-395c-4c03-ab4e-30fef9e0a532",
       "tvgId": "",
       "name": "NBC Sports Bay Area",
@@ -5421,55 +5470,6 @@
           },
           "name": "[DEAD] HD",
           "description": "STMR"
-        }
-      ]
-    },
-    {
-      "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df",
-      "tvgId": null,
-      "name": "PBS",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Local",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/pbs-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-us.png",
-      "genres": [
-        "Local"
-      ],
-      "streams": [
-        {
-          "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "ST"
-        },
-        {
-          "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "ST"
-        },
-        {
-          "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "ST"
-        },
-        {
-          "url": "https://tvpass.org/live/WNET/sd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "TP"
         }
       ]
     },
@@ -7006,7 +7006,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png"
     },
     {
       "id": "ustv-ba7a87b4-f522-4d03-92c2-7320462f71a7",
@@ -7015,7 +7015,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png"
     },
     {
       "id": "ustv-412c8f8e-c27e-49c9-ab61-164a7b0e7561",
@@ -7024,7 +7024,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png"
     },
     {
       "id": "ustv-7c28cdce-8757-443d-bbc0-ae4c6d696f21",
@@ -7033,7 +7033,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png"
     },
     {
       "id": "ustv-04c69b52-70ff-4418-b007-984a283d2632",
@@ -7042,7 +7042,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png"
     },
     {
       "id": "ustv-892707c2-a144-4031-b723-c3301e600e2f",
@@ -7051,7 +7051,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/PkGioxw_qoRs4Q==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-722e7495-6962-45e3-992d-83e7f8b00ee7",
@@ -7060,7 +7060,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-5dd2c3bc-062e-4e1f-b861-976bf6ff0dcf",
@@ -7069,7 +7069,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png"
     },
     {
       "id": "ustv-49a6c905-6a92-4078-9331-570b315c2629",
@@ -7078,7 +7078,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png"
     },
     {
       "id": "ustv-fb23f2e5-2199-44b2-b606-6b67ebec2bb4",
@@ -7087,7 +7087,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png"
     },
     {
       "id": "ustv-c2bab062-5253-4e24-acf0-a8e37d21614f",
@@ -7096,7 +7096,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/5dQ1izCyXmvqBg==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-e5b76b83-5c93-4916-970e-1d769265b58b",
@@ -7105,7 +7105,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68757c45759366af05b3b199/colorLogoPNG-1756852664017.png"
     },
     {
       "id": "ustv-e8e0120f-2f40-44e7-82ea-01daa2090bb4",
@@ -7114,7 +7114,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png"
     },
     {
       "id": "ustv-9d34c204-4264-4029-ad0b-5d84ccac968d",
@@ -7123,7 +7123,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png"
     },
     {
       "id": "ustv-badceb24-b05f-4509-a163-eba342e06b06",
@@ -7132,7 +7132,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png"
     },
     {
       "id": "ustv-eceacd52-ef8b-47d5-b5d8-5f19b2276b23",
@@ -7141,7 +7141,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG_1772843691075.png"
     },
     {
       "id": "ustv-5e704e5e-00ea-4556-9032-f2f454fcbd97",
@@ -7150,7 +7150,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/bgTisYfKI1IuqQ==/3ef7a392-9280-41c8-a8ca-a2a47f83c1d2/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a0a61c43-bfd4-4f23-bcfb-8ebf32ef0e8a",
@@ -7159,7 +7159,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png"
     },
     {
       "id": "ustv-4da410b0-25e3-40c7-b918-1c5ed0578faf",
@@ -7168,7 +7168,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png"
     },
     {
       "id": "ustv-d647e59f-bc96-4ed1-b880-5951b8a9a6e1",
@@ -7177,7 +7177,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/KV6JQ9jiJwD74g==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-7beb2f58-1755-42eb-8101-005e42cae9ee",
@@ -7186,7 +7186,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png"
     },
     {
       "id": "ustv-f25e96d7-7ab9-4826-a01a-80997e6c4fb5",
@@ -7195,7 +7195,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png"
     },
     {
       "id": "ustv-a2657987-70f2-4e03-8e5f-2e1992f323c5",
@@ -7204,7 +7204,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png"
     },
     {
       "id": "ustv-00d26c18-91e5-4548-a0ce-689dd1d8f161",
@@ -7213,7 +7213,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png"
     },
     {
       "id": "ustv-260f0ecd-6261-438c-8241-1055d66a0b31",
@@ -7222,7 +7222,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png"
     },
     {
       "id": "ustv-b8a31580-0ce9-48cc-802d-a5f12d3edc30",
@@ -7231,7 +7231,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png"
     },
     {
       "id": "ustv-0489e67f-f3a9-4c01-bb3f-24751650c0ec",
@@ -7240,7 +7240,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/654932fa4d6d8f00084c4723/colorLogoPNG.png"
     },
     {
       "id": "ustv-938d56f3-3bbf-4687-ac37-c669f6b32a6e",
@@ -7249,7 +7249,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png"
     },
     {
       "id": "ustv-4bd4600c-19b4-4db2-bb52-f41acc22a163",
@@ -7258,7 +7258,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png"
     },
     {
       "id": "ustv-61c48b1a-87e4-47dd-b95f-c7f5399ebb65",
@@ -7267,7 +7267,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png"
     },
     {
       "id": "ustv-870310e3-1d4b-4c13-95d0-53d6a83e693a",
@@ -7276,7 +7276,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png"
     },
     {
       "id": "ustv-f1da1e8f-bf33-43c0-9670-572175935232",
@@ -7285,7 +7285,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb167e00a2f063fdf7ee8f/colorLogoPNG_1757722144825.png"
     },
     {
       "id": "ustv-8c842599-6ad1-45ff-9320-a98827e89999",
@@ -7294,7 +7294,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG.png"
     },
     {
       "id": "ustv-2173e1f6-5700-42ed-9ca2-73b75d461885",
@@ -7303,7 +7303,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png"
     },
     {
       "id": "ustv-06262113-092f-47a7-8e0d-0348df3b08e4",
@@ -7312,7 +7312,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png"
     },
     {
       "id": "ustv-6de23e42-3205-422b-895a-5b6b607e9e68",
@@ -7321,7 +7321,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png"
     },
     {
       "id": "ustv-0f7fa602-14bc-413d-af10-fac32f6b22fa",
@@ -7330,7 +7330,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png"
     },
     {
       "id": "ustv-3cb8d0f3-a3c6-40c6-8d50-43861d01465e",
@@ -7339,7 +7339,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png"
     },
     {
       "id": "ustv-feb23c38-1117-425d-bc20-d2fe75f8c475",
@@ -7348,7 +7348,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG_1731835399139.png"
     },
     {
       "id": "ustv-c52d4c2a-da50-4f03-bed0-3d7f8f3ce231",
@@ -7357,7 +7357,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png"
     },
     {
       "id": "ustv-1e6e70ce-f404-48d3-aafb-5c60f5aaf605",
@@ -7366,7 +7366,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/0L_dgCSAw6LQLg==/fde25048-c7d2-4bfb-b744-06755f42d915/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-4206f04b-a501-4090-a1a3-5e1865d5a75a",
@@ -7375,7 +7375,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png"
     },
     {
       "id": "ustv-8ad8effd-a60c-48c0-8142-850c10b3c792",
@@ -7384,7 +7384,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png"
     },
     {
       "id": "ustv-d6655928-49bc-43ed-954c-aa136f77111b",
@@ -7393,7 +7393,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/696997049889f8db34c936c2/colorLogoPNG_1771029425876.png"
     },
     {
       "id": "ustv-af381d99-580c-4cc9-9958-442a4d58d424",
@@ -7402,7 +7402,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dpt9OiMYmCyhzw==/c5316804-bd82-46f4-81a4-289a8333cd71/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a71776fd-9abb-4294-a8b4-9c9f377cb738",
@@ -7411,7 +7411,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png"
     },
     {
       "id": "ustv-8715e99d-4b4c-494a-ac8b-b7a454680539",
@@ -7420,7 +7420,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dn78f9-BM_rpCQ==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3307a7d2-9bb5-4ed1-b74d-dee6040817ea",
@@ -7429,7 +7429,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png"
     },
     {
       "id": "ustv-a0b92dc8-e88a-4175-8c15-300bb5731eea",
@@ -7438,7 +7438,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png"
     },
     {
       "id": "ustv-a4bf06dc-0446-4a22-9650-f3d56b7217e3",
@@ -7447,7 +7447,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png"
     },
     {
       "id": "ustv-02e00777-81be-40ec-a82c-d55a7d2ae4b1",
@@ -7456,7 +7456,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png"
     },
     {
       "id": "ustv-0b6a1864-823e-4dc1-941f-a926d2b15f0a",
@@ -7465,7 +7465,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png"
     },
     {
       "id": "ustv-d4ceed8e-0a56-4b08-856b-6e454145986c",
@@ -7474,7 +7474,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png"
     },
     {
       "id": "ustv-60757456-e45a-401a-8221-ba4c2c64bdac",
@@ -7483,7 +7483,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png"
     },
     {
       "id": "ustv-96f3c572-55c6-43ff-99d0-8d6fe38c92e4",
@@ -7492,7 +7492,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png"
     },
     {
       "id": "ustv-73175539-8473-4c0f-bfdc-c2490fc7e0fc",
@@ -7501,7 +7501,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png"
     },
     {
       "id": "ustv-74b13602-d18f-4252-b81b-25ea58cdfd31",
@@ -7510,7 +7510,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png"
     },
     {
       "id": "ustv-f8ad7c1f-a155-4fd9-aa92-6b67eac64105",
@@ -7519,7 +7519,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png"
     },
     {
       "id": "ustv-38cc9dea-af64-465e-a33d-d5203fe1c3b8",
@@ -7528,7 +7528,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png"
     },
     {
       "id": "ustv-c6dbaf2a-1b62-4cdb-9056-38c48012b7af",
@@ -7537,7 +7537,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png"
     },
     {
       "id": "ustv-c6bb200d-fc76-45dd-a7d4-acacb5c2e8f5",
@@ -7546,7 +7546,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png"
     },
     {
       "id": "ustv-28e0f788-6a5c-4328-95fc-5a7fa69bb7ab",
@@ -7555,7 +7555,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png"
     },
     {
       "id": "ustv-45fa85e6-70b2-4d63-bc0a-004f37d23286",
@@ -7564,7 +7564,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png"
     },
     {
       "id": "ustv-19c50217-0a06-4646-b155-6f8cefa7c643",
@@ -7573,7 +7573,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png"
     },
     {
       "id": "ustv-9a705d21-99f6-4c1c-b8a8-7f2cb0f94894",
@@ -7582,7 +7582,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png"
     },
     {
       "id": "ustv-eb36b21f-2c0d-4167-a83a-529f7aa11981",
@@ -7591,7 +7591,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png"
     },
     {
       "id": "ustv-ed554f94-a376-49d9-8baf-3444ce19af07",
@@ -7600,7 +7600,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1777908720377.png"
     },
     {
       "id": "ustv-e4c4e75c-101d-4f40-8629-7a8cbe631ba2",
@@ -7609,7 +7609,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png"
     },
     {
       "id": "ustv-8076d91b-e61d-4ea6-947e-665f1f8ecf44",
@@ -7618,7 +7618,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png"
     },
     {
       "id": "ustv-2075f8f7-87f0-4387-8a4f-70a560d2709d",
@@ -7627,7 +7627,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png"
     },
     {
       "id": "ustv-06ae9b8e-48ee-44a3-95da-747dc55eaf9f",
@@ -7636,7 +7636,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png"
     },
     {
       "id": "ustv-00f7dd4c-6432-4fa2-8ce8-d5174a711823",
@@ -7645,7 +7645,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png"
     },
     {
       "id": "ustv-3e549ea7-995d-4931-be09-4b9d287a640b",
@@ -7654,7 +7654,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png"
     },
     {
       "id": "ustv-cf7fd022-938b-4539-b368-cfb6095c1956",
@@ -7663,7 +7663,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG_1731837277521.png"
     },
     {
       "id": "ustv-83f05e26-3253-4deb-a7ff-015d2d24a153",
@@ -7672,7 +7672,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png"
     },
     {
       "id": "ustv-30e44092-15f8-4217-843a-11cd9c289ee8",
@@ -7681,7 +7681,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png"
     },
     {
       "id": "ustv-47973b2f-d938-4279-8eb5-8a674d65e6cd",
@@ -7690,7 +7690,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png"
     },
     {
       "id": "ustv-8f07a5c8-75de-4d59-ad81-5b2fba599a23",
@@ -7699,7 +7699,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/td59qtLvlg-NcA==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3338213a-33ab-4fdb-9ea4-e857878f316c",
@@ -7708,7 +7708,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png"
     },
     {
       "id": "ustv-5c33f0a2-c614-4652-9ff3-4cb3a2629501",
@@ -7717,7 +7717,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb16a500a2f063fdf89f8c/colorLogoPNG_1757718859405.png"
     },
     {
       "id": "ustv-fc73aff9-2917-491a-822d-5792b1ed9e8e",
@@ -7726,7 +7726,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb16e7f89c82a68bcc4397/colorLogoPNG_1758697632132.png"
     },
     {
       "id": "ustv-81b0720e-5bc4-48f9-b38b-40b0290d1e6d",
@@ -7735,7 +7735,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png"
     },
     {
       "id": "ustv-38656eaa-3c68-4cf2-a8da-f77449318c67",
@@ -7744,7 +7744,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png"
     },
     {
       "id": "ustv-12425769-5446-4d89-9e99-3635921e70e7",
@@ -7753,7 +7753,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png"
     },
     {
       "id": "ustv-44874d23-ff48-497f-8fe0-e88feb939f73",
@@ -7762,7 +7762,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png"
     },
     {
       "id": "ustv-902dd36d-95b8-452f-a0b3-f0eafe5cf96a",
@@ -7771,7 +7771,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png"
     },
     {
       "id": "ustv-09beae54-ffe1-4512-91b0-2d3f4483e684",
@@ -7780,7 +7780,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png"
     },
     {
       "id": "ustv-f56ad932-ded4-44f4-80ed-24d4370134a5",
@@ -7789,7 +7789,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png"
     },
     {
       "id": "ustv-55f25f35-0d21-4fb7-bbfa-22ccb08e3caa",
@@ -7798,7 +7798,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"
     },
     {
       "id": "ustv-bef1cd1a-9cd2-4983-ab2a-6760d49cfbde",
@@ -7807,7 +7807,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png"
     },
     {
       "id": "ustv-ec9d3b8e-9cf5-407f-938a-a42a66fde177",
@@ -7816,7 +7816,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png"
     },
     {
       "id": "ustv-3e9f3dbd-5a03-475f-a50e-94d34db15f7b",
@@ -7825,7 +7825,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png"
     },
     {
       "id": "ustv-61f6b2b8-9ee2-4b47-abe6-6818a02d199b",
@@ -7834,7 +7834,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"
     },
     {
       "id": "ustv-d71816a0-b297-4e91-8411-4cc937d9c422",
@@ -7843,7 +7843,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png"
     },
     {
       "id": "ustv-f5d1c5f0-3445-45ca-b5bb-2dda37147a41",
@@ -7852,7 +7852,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png"
     },
     {
       "id": "ustv-f25629d6-16d0-4ff9-a608-6a86b78b1d96",
@@ -7861,7 +7861,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png"
     },
     {
       "id": "ustv-e51841f2-2aca-4aae-a0df-c04f50c36744",
@@ -7870,7 +7870,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png"
     },
     {
       "id": "ustv-bd49f47f-7aa2-47ba-a213-775f66703b68",
@@ -7879,7 +7879,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png"
     },
     {
       "id": "ustv-658dee71-53c5-4fd6-b0a2-976b0cebff22",
@@ -7888,7 +7888,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png"
     },
     {
       "id": "ustv-6bc533fc-5597-4a7f-94fc-c175221318d7",
@@ -7897,7 +7897,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/634ee8f95aa9870007248333/colorLogoPNG.png"
     },
     {
       "id": "ustv-8ed11e70-dd68-444a-a720-790fb8f6d8b8",
@@ -7906,7 +7906,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png"
     },
     {
       "id": "ustv-00501c56-3709-4fd9-9c0b-9602a171c41d",
@@ -7915,7 +7915,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png"
     },
     {
       "id": "ustv-8cdf6cbc-17d2-4f40-9999-6a75c9e04491",
@@ -7924,7 +7924,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png"
     },
     {
       "id": "ustv-36c64fec-42ca-4387-9f69-ef9a7ae64051",
@@ -7933,7 +7933,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png"
     },
     {
       "id": "ustv-cce7af1f-554b-431d-a97a-d821e8a47eae",
@@ -7942,7 +7942,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/P5khntngIx0W_w==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-68da6800-12b8-434d-83c0-ad0c54b0ec25",
@@ -7951,7 +7951,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png"
     },
     {
       "id": "ustv-f19f2fc1-4428-44cd-ae54-06a8d69724d0",
@@ -7960,7 +7960,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/acReNIzwC2WiuA==/32d8bd46-4cc6-4f9b-8db3-694be23ed0e3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ede4726e-05b3-408a-a13f-8a9894adb922",
@@ -7969,7 +7969,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png"
     },
     {
       "id": "ustv-c659cf32-2941-4414-92c2-d17337f6de43",
@@ -7978,7 +7978,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png"
     },
     {
       "id": "ustv-931ebf1e-37f8-47cf-b1ef-5977ffa00c92",
@@ -7987,7 +7987,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb16ba3efb41cd971f3ce6/colorLogoPNG_1757719016994.png"
     },
     {
       "id": "ustv-a42f893c-7584-4529-af6e-1d10b23c984f",
@@ -7996,7 +7996,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/TA-WoDn6tYKtCQ==/e1fddeac-4117-45e8-a880-d46000b4fcda/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-50241abc-d914-4286-b50b-c71348ce21c7",
@@ -8005,7 +8005,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png"
     },
     {
       "id": "ustv-420f892d-634f-45c4-9b54-901e5f0141b5",
@@ -8014,7 +8014,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Er-hEK6ElFu0BA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-74c00159-074d-4e0a-b9d4-603a96cd2723",
@@ -8023,7 +8023,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png"
     },
     {
       "id": "ustv-dd748e7a-6451-4a93-83e5-dc0438a03414",
@@ -8032,7 +8032,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png"
     },
     {
       "id": "ustv-85c5d29c-0a7e-4f71-9b16-17df24891fcb",
@@ -8041,7 +8041,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png"
     },
     {
       "id": "ustv-b56dfec6-3e03-46da-a79a-0ac962e76662",
@@ -8050,7 +8050,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png"
     },
     {
       "id": "ustv-9a4d2ec4-ec9d-4ba4-98c8-15d14da5af69",
@@ -8059,7 +8059,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/691d1200c2185a44642f5e7c/colorLogoPNG_1764783865457.png"
     },
     {
       "id": "ustv-26596d4f-0f52-4ebb-b349-db814bcd3fb4",
@@ -8068,7 +8068,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/7P1PhF9IBvHjcw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-22352f8f-b96a-485a-8a42-58278cf8b811",
@@ -8077,7 +8077,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png"
     },
     {
       "id": "ustv-e0a1a1d5-25ed-46eb-a400-cf2c9da556d2",
@@ -8086,7 +8086,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/oC-hI5oCZJUiBA==/0e73f3ca-3e7a-4fa9-82e2-cefdfb798fef/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fefbe069-a35b-4227-9758-3902120971e0",
@@ -8095,7 +8095,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dTQldekProaESw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ff0dd407-2edf-4311-8387-a2ac6d4dab49",
@@ -8104,7 +8104,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png"
     },
     {
       "id": "ustv-5af7d490-d87e-492b-97d8-6d6ab599318c",
@@ -8113,7 +8113,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png"
     },
     {
       "id": "ustv-b8c33617-bfbc-4153-b949-e97b2a291915",
@@ -8122,7 +8122,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/8oKNxG1sMyljIw==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8f9844c9-0ded-4d47-a763-1bf851513abb",
@@ -8131,7 +8131,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png"
     },
     {
       "id": "ustv-05ada103-a0a1-45b5-b659-220c337dd024",
@@ -8140,7 +8140,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/zLoOXSCJ53buRQ==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-98de582a-8784-42df-b22a-07bb51ed48ac",
@@ -8149,7 +8149,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png"
     },
     {
       "id": "ustv-3a75226f-8ab8-43e1-8cfc-86e94c140e59",
@@ -8158,7 +8158,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png"
     },
     {
       "id": "ustv-53d6043e-ead8-44d8-b829-d01b3b087d1f",
@@ -8167,7 +8167,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/ZiXULUiKSeFNHQ==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-009df9c8-3417-4bf3-bb5e-245f6fe7f516",
@@ -8176,7 +8176,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png"
     },
     {
       "id": "ustv-22fb8b73-9ae8-49e7-ad3d-4953a658ae65",
@@ -8185,7 +8185,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png"
     },
     {
       "id": "ustv-e578e179-e767-4122-bb44-20a49545b209",
@@ -8194,7 +8194,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png"
     },
     {
       "id": "ustv-648db417-010d-4cf5-bb5c-e64267cf7fb9",
@@ -8203,7 +8203,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png"
     },
     {
       "id": "ustv-11fd04e0-80c6-4451-9263-294365e1d666",
@@ -8212,7 +8212,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG_1766432879705.png"
     },
     {
       "id": "ustv-6f26a0a8-f727-494e-a7e0-e9251f3c85e3",
@@ -8221,7 +8221,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png"
     },
     {
       "id": "ustv-90937572-db44-416f-a676-bfcdf412fcaf",
@@ -8230,7 +8230,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69699ae5d301d54fb3dc1499/colorLogoPNG_1772167334184.png"
     },
     {
       "id": "ustv-76218f74-ee5d-4b95-a43b-1c3b0f6a82d8",
@@ -8239,7 +8239,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png"
     },
     {
       "id": "ustv-b084f977-3756-472d-ac66-5e14f2b84dad",
@@ -8248,7 +8248,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG_1779087603120.png"
     },
     {
       "id": "ustv-4bd18bec-537e-4468-992e-1f779e2d159d",
@@ -8257,7 +8257,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG_1767639054863.png"
     },
     {
       "id": "ustv-3c4a96a6-a49e-4e6a-af6a-6e43162186a7",
@@ -8266,7 +8266,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png"
     },
     {
       "id": "ustv-934da06a-ad43-46f2-9d80-6f7b8051508c",
@@ -8275,7 +8275,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61f07513227feb00073ee6bc/colorLogoPNG.png"
     },
     {
       "id": "ustv-5cb83e6f-2b82-43f1-a952-bd0a28afa3c7",
@@ -8284,7 +8284,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png"
     },
     {
       "id": "ustv-dfc489c2-9362-4415-9eb3-162583e56462",
@@ -8293,7 +8293,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png"
     },
     {
       "id": "ustv-f7620c2c-b9a2-4e93-a548-9bbf14224012",
@@ -8302,7 +8302,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68bb16916523408b14bac7f8/colorLogoPNG_1757969887631.png"
     },
     {
       "id": "ustv-46f3b928-2d9b-4245-b668-0819d42897ca",
@@ -8311,7 +8311,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png"
     },
     {
       "id": "ustv-ef24cd01-7140-4a4b-b963-33eb7b7592cf",
@@ -8320,7 +8320,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Mk_URWBFrOnFUw==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2488de25-c535-4e85-8fe9-ac6a2b42687b",
@@ -8329,7 +8329,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png"
     },
     {
       "id": "ustv-e9252f5d-cf68-483a-a670-337ce64ecf4a",
@@ -8338,7 +8338,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png"
     },
     {
       "id": "ustv-f087f0a4-ae8c-4315-bd23-9d0096db0262",
@@ -8347,7 +8347,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG_1731836032181.png"
     },
     {
       "id": "ustv-2956fb0e-1224-4f9d-b067-3fc215ebdd76",
@@ -8356,7 +8356,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67c63b90a20c0399a381b816/colorLogoPNG_1745441127472.png"
     },
     {
       "id": "ustv-9c12c47e-8c3c-4c23-ae78-15fea0b1f99e",
@@ -8365,7 +8365,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png"
     },
     {
       "id": "ustv-8f5735ac-cb39-4cc7-90fd-7af80d5c29e1",
@@ -8374,7 +8374,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png"
     },
     {
       "id": "ustv-0fb1de31-8671-44dc-ba8e-a49898d7907b",
@@ -8383,7 +8383,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png"
     },
     {
       "id": "ustv-cb626ff6-6adb-4b9d-949d-f0d607c14ee4",
@@ -8392,7 +8392,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png"
     },
     {
       "id": "ustv-dd52c4ef-50ac-49d2-8f31-6b1583375602",
@@ -8401,7 +8401,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/_oaMTbqkvgy0VA==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fbd2b7c5-eace-47c5-9143-cda4976fd60c",
@@ -8410,7 +8410,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png"
     },
     {
       "id": "ustv-669cb067-b9b7-44b2-8cb7-666912bbab27",
@@ -8419,7 +8419,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png"
     },
     {
       "id": "ustv-3b3ac386-a790-4ccf-b9d9-05f71061e122",
@@ -8428,7 +8428,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png"
     },
     {
       "id": "ustv-80876b3b-1286-4da4-88e0-cf069458dd0c",
@@ -8437,7 +8437,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6267352efcf21c0007c76642/colorLogoPNG.png"
     },
     {
       "id": "ustv-19c8a26d-a50e-4efb-bbc6-3c88943d7891",
@@ -8446,7 +8446,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1767722325837.png"
     },
     {
       "id": "ustv-8ad882e5-6518-4aac-936c-c980565dcb5f",
@@ -8455,7 +8455,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png"
     },
     {
       "id": "ustv-7a17dece-a62c-4072-9124-5979243c6a8e",
@@ -8464,7 +8464,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png"
     },
     {
       "id": "ustv-0b32ea0a-edf1-4544-ad25-3af373da4f64",
@@ -8473,7 +8473,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png"
     },
     {
       "id": "ustv-4e200c95-a21c-494a-bd32-8c3bcbaaa5b5",
@@ -8482,7 +8482,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png"
     },
     {
       "id": "ustv-bec924fd-420e-4115-8152-72b60d394fea",
@@ -8491,7 +8491,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png"
     },
     {
       "id": "ustv-452ebbfc-4acc-4705-ac21-49f9b191ccaf",
@@ -8500,7 +8500,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png"
     },
     {
       "id": "ustv-de45c0ef-31eb-4170-a7b2-cfe985b13833",
@@ -8509,7 +8509,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/T8yaEtMuJkd6MA==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fc4eee0b-905d-4219-bc6a-dcff1e5bd25d",
@@ -8518,7 +8518,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/edxSmlIDu3pWYA==/e4f84ab2-4935-4063-ad29-cc852b91e3b7/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b405172d-5563-4830-9ca8-ab100f917f84",
@@ -8527,7 +8527,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png"
     },
     {
       "id": "ustv-8a380a16-f79c-4a7a-8f87-e544ed8e8ea8",
@@ -8536,7 +8536,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png"
     },
     {
       "id": "ustv-0a189050-f1e8-47ed-b435-cfe8872b5378",
@@ -8545,7 +8545,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/0iGeAKWjBWGBjg==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fb76a52d-7822-47a5-ad0a-70bcf42b562b",
@@ -8554,7 +8554,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png"
     },
     {
       "id": "ustv-672f9911-ca11-43cc-8a97-261f3a4c86e2",
@@ -8563,7 +8563,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/6tImLu773-5D_g==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3e1a1f43-f8a5-4f69-9aea-b6f43b5e11d1",
@@ -8572,7 +8572,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png"
     },
     {
       "id": "ustv-6d80c94e-c908-4f12-8de2-dd0c909b1d89",
@@ -8581,7 +8581,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png"
     },
     {
       "id": "ustv-f9ee1e1e-1ece-446a-a6a9-856df68c5ffc",
@@ -8590,7 +8590,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png"
     },
     {
       "id": "ustv-427a73a4-ff28-49f8-9f4b-fab6c24976f5",
@@ -8599,7 +8599,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png"
     },
     {
       "id": "ustv-0cb3a885-3be3-48af-98fa-4bba1d40edfd",
@@ -8608,7 +8608,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png"
     },
     {
       "id": "ustv-ec387445-545e-4321-8e24-bbb12f17f534",
@@ -8617,7 +8617,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6887a86be3703b7d42b3eca3/colorLogoPNG_1757524386570.png"
     },
     {
       "id": "ustv-af8ecc83-8c8c-453a-b3dc-d7d0461024fa",
@@ -8626,7 +8626,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png"
     },
     {
       "id": "ustv-9d3b88eb-8264-419b-b79c-c38648f8fd78",
@@ -8635,7 +8635,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/o7f7K74UmcLArw==/34fa2e5d-6c68-4012-8c19-cc4afe6ad726/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f25531fd-88bc-4ecd-9492-345c465a6bea",
@@ -8644,7 +8644,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png"
     },
     {
       "id": "ustv-400a47f0-9a2e-4e0f-83ce-07b13d642780",
@@ -8653,7 +8653,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png"
     },
     {
       "id": "ustv-5029727f-f369-4708-b36e-e137c21c1bf2",
@@ -8662,7 +8662,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png"
     },
     {
       "id": "ustv-7b03f67f-62ed-4926-9e9b-2b226df57f96",
@@ -8671,7 +8671,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png"
     },
     {
       "id": "ustv-6e0a9176-dce6-464e-a0b6-c490def8a609",
@@ -8680,7 +8680,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png"
     },
     {
       "id": "ustv-fb3dcfe9-fddf-4b1e-b035-1e16085a90b8",
@@ -8689,7 +8689,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png"
     },
     {
       "id": "ustv-0f98699d-7158-4957-8062-bdd619268a43",
@@ -8698,7 +8698,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png"
     },
     {
       "id": "ustv-b949a2d3-4c62-4a32-af1b-355f3c4e7668",
@@ -8707,7 +8707,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png"
     },
     {
       "id": "ustv-b128506c-a0a4-44ab-86ac-dbb29cbb134e",
@@ -8716,7 +8716,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-b6f2a942-5e5c-4462-a01e-7fc3d61a0bfa",
@@ -8725,7 +8725,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png"
     },
     {
       "id": "ustv-2c809e6f-3903-4171-9205-cc48c7d10d86",
@@ -8734,7 +8734,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png"
     },
     {
       "id": "ustv-b6803eb2-f900-424a-8971-908f35d5c286",
@@ -8743,7 +8743,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png"
     },
     {
       "id": "ustv-aba0463b-2eda-4ba3-a43a-f87eaea2f780",
@@ -8752,7 +8752,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/1MnyiPLY889fxg==/dd770066-df10-4187-b8d5-c31d0b9c0a1f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-57f88325-7360-40b0-b34e-341bae66a666",
@@ -8761,7 +8761,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png"
     },
     {
       "id": "ustv-85cebf28-bb1c-43f0-b031-20ee584eae29",
@@ -8770,7 +8770,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/MWTjzbz0C0Irrw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-547d553f-8b05-4f0f-a18f-0e7512aed8fc",
@@ -8779,7 +8779,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png"
     },
     {
       "id": "ustv-3c74945d-3923-42a8-a1d1-fd084cf64de4",
@@ -8788,7 +8788,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/WNnMH6qKRZWqEw==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-d393d50b-59bf-4847-ae66-25dd980dbc71",
@@ -8797,7 +8797,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png"
     },
     {
       "id": "ustv-618ed90c-73b3-42d7-8b56-ba1b0f42ac9c",
@@ -8806,7 +8806,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/M-fGOgFir4-mLQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c7110b63-4fd2-40b3-b055-3d73729e1370",
@@ -8815,7 +8815,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png"
     },
     {
       "id": "ustv-2df8602b-447c-433c-9495-4668c2dbddcf",
@@ -8824,7 +8824,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png"
     },
     {
       "id": "ustv-fc8af1ec-c87d-4793-84a9-2d60b30ccb63",
@@ -8833,7 +8833,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png"
     },
     {
       "id": "ustv-36d27747-914a-4235-862b-028403ec5cfc",
@@ -8842,7 +8842,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"
     },
     {
       "id": "ustv-283d25a0-1a4d-478f-9e3b-1c225da3b21a",
@@ -8851,7 +8851,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png"
     },
     {
       "id": "ustv-d615d21a-1921-4ed2-aedc-fb77b6ac29d9",
@@ -8860,7 +8860,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dGh54TTvBjR7DQ==/22eaf49e-a2ad-4da4-afbd-66aedb72c78f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a1e91de9-fc11-4533-9120-93ad06b7efed",
@@ -8869,7 +8869,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png"
     },
     {
       "id": "ustv-42faebbc-ef31-46af-9032-134bdbc6928f",
@@ -8878,7 +8878,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png"
     },
     {
       "id": "ustv-3b922b9d-bce6-4dba-a96f-3895a2f5cb59",
@@ -8887,7 +8887,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png"
     },
     {
       "id": "ustv-8277cdab-ee57-4a8b-9252-747d09ef80c8",
@@ -8896,7 +8896,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png"
     },
     {
       "id": "ustv-b4c10af0-2c7f-40b4-83e5-433ea63c3fee",
@@ -8905,7 +8905,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png"
     },
     {
       "id": "ustv-a1106dd4-5fb8-4687-a0ef-559662a4d7d0",
@@ -8914,7 +8914,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png"
     },
     {
       "id": "ustv-bfeb3006-0f0f-45a6-8024-09e1f8d33422",
@@ -8923,7 +8923,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/-1nseJGZfQ7nOQ==/168854e2-e698-4fee-8e2a-5e21c7b278c4/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-81e31468-fc7c-49db-8dea-4258d6e94ab8",
@@ -8932,7 +8932,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png"
     },
     {
       "id": "ustv-1c653cf3-eba2-4c18-8621-db22f225d97b",
@@ -8941,7 +8941,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png"
     },
     {
       "id": "ustv-17f59e9c-e66c-4e71-9c78-bb8bcd6c9fd9",
@@ -8950,7 +8950,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG_1731835750293.png"
     },
     {
       "id": "ustv-8d12eeca-5253-4bf6-98ea-cc7ce62e149a",
@@ -8959,7 +8959,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png"
     },
     {
       "id": "ustv-19e8fba5-937f-4090-8d78-007a65920bc6",
@@ -8968,7 +8968,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69d7ebb726eeec84158e28cb/colorLogoPNG_1777587473079.png"
     },
     {
       "id": "ustv-80faccaa-434d-4878-9df4-26f42c34e59a",
@@ -8977,7 +8977,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png"
     },
     {
       "id": "ustv-2414a871-1120-44df-973b-3be2b5f4a9f2",
@@ -8986,7 +8986,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png"
     },
     {
       "id": "ustv-5c5b4b1d-7273-4247-a1c8-22d2e0d11968",
@@ -8995,7 +8995,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png"
     },
     {
       "id": "ustv-49df9c90-2d4a-41e2-9849-06322648225c",
@@ -9004,7 +9004,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png"
     },
     {
       "id": "ustv-d50f7390-0654-43b6-bc14-dcf27a9a63f1",
@@ -9013,7 +9013,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png"
     },
     {
       "id": "ustv-69657a6d-3130-44e1-8a42-0e7190320558",
@@ -9022,7 +9022,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png"
     },
     {
       "id": "ustv-a7b7d1c2-a1cb-40d6-ab2d-f08903771028",
@@ -9031,7 +9031,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png"
     },
     {
       "id": "ustv-897b05a6-104f-46bc-96d1-a442d6ccfebf",
@@ -9040,7 +9040,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png"
     },
     {
       "id": "ustv-317b24df-c8e0-4721-8eac-4f05df220d42",
@@ -9049,7 +9049,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png"
     },
     {
       "id": "ustv-aeec9d2c-4883-4db4-ba70-e4e1636c3cdd",
@@ -9058,7 +9058,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png"
     },
     {
       "id": "ustv-562f6ea5-d4f4-4018-b2bc-07189ef92f7b",
@@ -9067,7 +9067,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png"
     },
     {
       "id": "ustv-a2579862-640e-4545-b8db-03c1499d3867",
@@ -9076,7 +9076,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png"
     },
     {
       "id": "ustv-5de49a89-582d-4b2e-bdc8-ea86aef7006d",
@@ -9085,7 +9085,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png"
     },
     {
       "id": "ustv-f727657c-9594-47d6-a3b1-dbf18a17bbf0",
@@ -9094,7 +9094,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png"
     },
     {
       "id": "ustv-f10afe46-ff63-4c3d-a247-ebc87f33434e",
@@ -9103,7 +9103,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png"
     },
     {
       "id": "ustv-267f50d6-1a67-4b3b-aedd-51d61e689654",
@@ -9112,7 +9112,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png"
     },
     {
       "id": "ustv-f63a73d6-ee70-4c41-9b5e-841289038cad",
@@ -9121,7 +9121,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png"
     },
     {
       "id": "ustv-c020ed9d-0f04-43b6-8250-d0ca50f4d1da",
@@ -9130,7 +9130,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/MBvtJt_BcDScDg==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fd967529-720e-4021-9e10-be579591d8c4",
@@ -9139,7 +9139,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png"
     },
     {
       "id": "ustv-9d31e4fa-8523-45b1-9ca5-d05f6fe12989",
@@ -9148,7 +9148,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69e6be40fde57cd5ba562b29/colorLogoPNG_1777592109830.png"
     },
     {
       "id": "ustv-fdab18d7-25e7-48aa-a01f-698bcb4c4f28",
@@ -9157,7 +9157,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png"
     },
     {
       "id": "ustv-693de0bb-6260-4a3b-812b-33dd72c5fdc6",
@@ -9166,7 +9166,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/698384cb7230043f21f4a3f4/colorLogoPNG_1771374915234.png"
     },
     {
       "id": "ustv-a12bedb3-234a-4a5e-a78a-79012438c728",
@@ -9175,7 +9175,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67817323dd7846fe546940dd/colorLogoPNG.png"
     },
     {
       "id": "ustv-c66f9647-35b1-42cd-b677-660b1239e82a",
@@ -9184,7 +9184,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/696998915a0ae9e1b563f0c6/colorLogoPNG_1770231500279.png"
     },
     {
       "id": "ustv-a85c634c-cc2b-450a-9fbc-ece1bbd985ba",
@@ -9193,7 +9193,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png"
     },
     {
       "id": "ustv-6cc090ea-5d5a-46fe-927e-579eaaee27ef",
@@ -9202,7 +9202,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png"
     },
     {
       "id": "ustv-c595f708-2d1f-4002-9ff1-3e0edf7c9832",
@@ -9211,7 +9211,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png"
     },
     {
       "id": "ustv-7370a547-0bd2-45e2-a4a2-6750149e06f1",
@@ -9220,7 +9220,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/674f735a2fb8a100087bf253/colorLogoPNG_1748892659343.png"
     },
     {
       "id": "ustv-78cf85bc-2fde-41be-9909-06c98ef7d779",
@@ -9229,7 +9229,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png"
     },
     {
       "id": "ustv-46edc775-068e-410a-81a6-284efe9aaacf",
@@ -9238,7 +9238,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png"
     },
     {
       "id": "ustv-41b10a00-9674-4b37-b4e9-c4d2e7888dec",
@@ -9247,7 +9247,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png"
     },
     {
       "id": "ustv-c546ad4d-236b-4ba8-95c8-9cdd91efb621",
@@ -9256,7 +9256,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png"
     },
     {
       "id": "ustv-b8038609-d179-4249-8f68-3ca235c3cb13",
@@ -9265,7 +9265,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png"
     },
     {
       "id": "ustv-5705a644-88c9-47be-9489-c54539ea86db",
@@ -9274,7 +9274,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png"
     },
     {
       "id": "ustv-5e28ed90-14aa-40b9-9448-9032545ca989",
@@ -9283,7 +9283,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png"
     },
     {
       "id": "ustv-03312c35-1ccf-4efe-9f44-08b812d5ff0f",
@@ -9292,7 +9292,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/W-Z-xUm9GB3tRQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-047f88bd-fb0f-432c-afc7-ebb8b7783c08",
@@ -9301,7 +9301,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68ee9a999938143525bfc385/colorLogoPNG_1760999630595.png"
     },
     {
       "id": "ustv-9bc90a88-013d-49b9-99ff-3af509db9980",
@@ -9310,7 +9310,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png"
     },
     {
       "id": "ustv-8713f544-d6d0-46e6-aa4d-32243fee0466",
@@ -9319,7 +9319,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png"
     },
     {
       "id": "ustv-738e7f92-8a0a-4c37-ad05-8d557aa52bf2",
@@ -9328,7 +9328,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png"
     },
     {
       "id": "ustv-5254d95b-11e6-470c-a4d7-8c7626675532",
@@ -9337,7 +9337,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png"
     },
     {
       "id": "ustv-07c3d2b3-62fd-48e6-a09a-977f59f471ea",
@@ -9346,7 +9346,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png"
     },
     {
       "id": "ustv-e71041b8-f09f-43b1-aec0-d1dd14af18e0",
@@ -9355,7 +9355,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png"
     },
     {
       "id": "ustv-ca1b95a8-9c5c-41e4-b4af-877b3f645827",
@@ -9364,7 +9364,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png"
     },
     {
       "id": "ustv-106c136d-2fb2-437a-8aa1-3979459d0e11",
@@ -9373,7 +9373,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png"
     },
     {
       "id": "ustv-8b8ab279-725d-4197-8c98-65e4bcdc2a72",
@@ -9382,7 +9382,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png"
     },
     {
       "id": "ustv-aecf08c8-0e51-4534-9dc1-3e54a557e26f",
@@ -9391,7 +9391,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png"
     },
     {
       "id": "ustv-f53ee8ea-c353-4178-88f0-fa9f9016b822",
@@ -9400,7 +9400,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png"
     },
     {
       "id": "ustv-eecec490-4a6e-4cde-a9aa-fc76e3a62a25",
@@ -9409,7 +9409,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png"
     },
     {
       "id": "ustv-40caf4ca-2d2c-487a-9eb4-6636b65a32c4",
@@ -9418,7 +9418,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/696689d13b9ce349c9be3a18/colorLogoPNG_1771027556714.png"
     },
     {
       "id": "ustv-4a782b60-02e6-44df-af88-b10e675681ac",
@@ -9427,7 +9427,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png"
     },
     {
       "id": "ustv-f2590e69-6976-436f-8a10-36007265aa9a",
@@ -9436,7 +9436,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png"
     },
     {
       "id": "ustv-c7336aa9-fc1d-4f92-8e32-efa34c527d27",
@@ -9445,7 +9445,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/6EKdmQaAAptSmQ==/5a1c3037-9440-4644-a0fd-489d5554ff1c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c8040ada-9c2b-4131-83a2-ac570b76fc25",
@@ -9454,7 +9454,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png"
     },
     {
       "id": "ustv-85aa2000-bbd3-4faa-895e-a099b55d9a5e",
@@ -9463,7 +9463,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png"
     },
     {
       "id": "ustv-b980d6df-470d-4698-9201-a1dbc3f13cfe",
@@ -9472,7 +9472,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1775667541424.png"
     },
     {
       "id": "ustv-6e503e4e-d540-41a7-8639-2cbfdbb9a348",
@@ -9481,7 +9481,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png"
     },
     {
       "id": "ustv-2cde4891-4ddd-43cf-b5bc-b56a36eef6c2",
@@ -9490,7 +9490,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/evVIud42yl9aiQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-9f2416d7-90b0-470c-b1a8-dd2c72e2d0af",
@@ -9499,7 +9499,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png"
     },
     {
       "id": "ustv-9cb91fe1-5939-47ec-8fb7-29f1ce26c8aa",
@@ -9508,7 +9508,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png"
     },
     {
       "id": "ustv-3178f314-bd76-4311-bd4e-d519894e6841",
@@ -9517,7 +9517,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png"
     },
     {
       "id": "ustv-23aadc68-38a3-450f-843c-79e611af370a",
@@ -9526,7 +9526,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png"
     },
     {
       "id": "ustv-aecfb319-c00b-4733-a7a0-e730cc24a377",
@@ -9535,7 +9535,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png"
     },
     {
       "id": "ustv-793e130c-50bc-432a-9840-fde082d2a146",
@@ -9544,7 +9544,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png"
     },
     {
       "id": "ustv-85915e8a-b899-4305-b759-7d2c48dfefdb",
@@ -9553,7 +9553,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png"
     },
     {
       "id": "ustv-761ce716-44fe-4426-8588-b4d884d4a04e",
@@ -9562,7 +9562,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png"
     },
     {
       "id": "ustv-e6db379f-fc54-441f-b747-1402d92ee0b6",
@@ -9571,7 +9571,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png"
     },
     {
       "id": "ustv-4762f265-e0d8-493e-babc-f7f6bb7ee63c",
@@ -9580,7 +9580,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png"
     },
     {
       "id": "ustv-87ca7ea9-0bd0-4f24-ad57-7c39a84e2214",
@@ -9589,7 +9589,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG_1758310637593.png"
     },
     {
       "id": "ustv-59777860-4044-49e4-a878-fca7bb8f9b83",
@@ -9598,7 +9598,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png"
     },
     {
       "id": "ustv-d708bb8f-9729-4a66-971a-9cb52a9571c8",
@@ -9607,7 +9607,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67d07b7b798df95b8e9484b5/colorLogoPNG.png"
     },
     {
       "id": "ustv-415f5f82-2dbb-4e1e-9194-9a01e6d07074",
@@ -9616,7 +9616,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png"
     },
     {
       "id": "ustv-bf0217aa-a637-40a1-9102-2abaf9061768",
@@ -9625,7 +9625,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png"
     },
     {
       "id": "ustv-e2d41cbe-6ca8-4c4c-bccf-7080de5199e2",
@@ -9634,7 +9634,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png"
     },
     {
       "id": "ustv-174aba63-a90e-4b89-9e0d-9587f6e1cad8",
@@ -9643,7 +9643,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png"
     },
     {
       "id": "ustv-f276c60c-d60e-4b46-98e5-17add66315d0",
@@ -9652,7 +9652,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png"
     },
     {
       "id": "ustv-f07afed0-97cc-4391-b406-5e1298d21437",
@@ -9661,7 +9661,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png"
     },
     {
       "id": "ustv-86e36aea-1321-4218-902e-b37b7a1b38aa",
@@ -9670,7 +9670,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/colorLogoPNG.png"
     },
     {
       "id": "ustv-56730be8-e129-4565-bb2e-1f4b9569db21",
@@ -9679,7 +9679,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/VGJpYUttk1EYXg==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-81a28f0c-e093-420b-92a9-2b62c625c608",
@@ -9688,7 +9688,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png"
     },
     {
       "id": "ustv-2f90c43a-83f8-4841-8265-5d10a81a41e9",
@@ -9697,7 +9697,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/NVl_sd1MZhcwUQ==/21f728d8-3f2f-4681-a331-413b1eb68f48/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-220f1f96-46a0-48fb-9a78-8126bb9be4d2",
@@ -9706,7 +9706,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/643f035d5a0cd50008361534/colorLogoPNG.png"
     },
     {
       "id": "ustv-a6af6897-4c88-4be0-8c48-b889546d5f44",
@@ -9715,7 +9715,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/DY24HIrk-TRckg==/7c1bdfbc-0f08-4323-8737-5e90b6a0a0ac/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ddd82746-5f73-4d32-a9e3-2ff0e816ad45",
@@ -9724,7 +9724,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/U7cdfxf2EiPC5A==/e80bdb91-a817-463c-84b6-f3e4be903428/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-fdfd5297-54d0-4f21-8119-64de2b2c85ae",
@@ -9733,7 +9733,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png"
     },
     {
       "id": "ustv-d2e5398e-7f98-48e1-ab2f-7aab36234529",
@@ -9742,7 +9742,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png"
     },
     {
       "id": "ustv-8227bf69-6b40-4890-a363-86ba7cececab",
@@ -9751,7 +9751,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png"
     },
     {
       "id": "ustv-0d3a62dc-718c-467f-b677-070e76a13db6",
@@ -9760,7 +9760,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png"
     },
     {
       "id": "ustv-69ba2ce6-0451-4043-8926-78ffb5f554ad",
@@ -9769,7 +9769,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png"
     },
     {
       "id": "ustv-56728d1e-c586-4633-a2a0-118a66530dad",
@@ -9778,7 +9778,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png"
     },
     {
       "id": "ustv-14a8fb9a-d27f-458d-973a-45b35ee068cb",
@@ -9787,7 +9787,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png"
     },
     {
       "id": "ustv-ce81fa55-fa90-467d-8ae1-5fdd6ba6bb14",
@@ -9796,7 +9796,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/69445a9a78c0c45b6c9aa8b9/colorLogoPNG_1771261855448.png"
     },
     {
       "id": "ustv-b85c28a3-0d71-432e-be9f-835957d5bd33",
@@ -9805,7 +9805,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG_1775171305009.png"
     },
     {
       "id": "ustv-84c71149-6599-462c-b70c-c472bb57aa6f",
@@ -9814,7 +9814,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/68757effdf333e336be1e49f/colorLogoPNG_1754963877109.png"
     },
     {
       "id": "ustv-8fb6bf6f-a6ab-4f36-a92e-07b65b12889d",
@@ -9823,7 +9823,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/fKfb6sHtpwnuig==/45d06aa3-8a80-4864-a7b0-25a606d26be3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c0026705-0fc5-4655-9438-b8158866b1dc",
@@ -9832,7 +9832,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/MIna_NLcBGTgIw==/9ecc2de5-5b17-4d2e-a407-ced0d00af082/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-50ca33e4-6932-4595-8af5-54c707392e53",
@@ -9841,7 +9841,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG_1731837283801.png"
     },
     {
       "id": "ustv-8bcef2b8-2ede-4bf3-b8de-e37fe1aa4e37",
@@ -9850,7 +9850,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png"
     },
     {
       "id": "ustv-0c250af5-470c-48fe-821c-a8c895c04525",
@@ -9859,7 +9859,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png"
     },
     {
       "id": "ustv-ea65a832-1cf2-4085-bd56-153ce59b6080",
@@ -9868,7 +9868,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png"
     },
     {
       "id": "ustv-6ea29117-39fd-40c4-86a0-f0e0b1294449",
@@ -9877,7 +9877,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png"
     },
     {
       "id": "ustv-95c6e7de-c5b9-40d8-a7ae-cfe574beaca7",
@@ -9886,7 +9886,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/SImeAOgOma8YLQ==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-393b7de1-3962-47d0-9ba6-ce266fbde511",
@@ -9895,7 +9895,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png"
     },
     {
       "id": "ustv-e4cf4eea-8d64-43c5-83e9-073d1e17420a",
@@ -9904,7 +9904,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/2U-aZ93Ctd_a2A==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-723bd853-7816-4f0a-bd9b-937a543156ee",
@@ -9913,7 +9913,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png"
     },
     {
       "id": "ustv-efdd470a-94ff-45a3-a4f9-86e258c9636e",
@@ -9922,7 +9922,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png"
     },
     {
       "id": "ustv-3939f2f0-e5fa-4077-aadc-2db4525e4ae3",
@@ -9931,7 +9931,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png"
     },
     {
       "id": "ustv-e19ba620-267e-4790-84c9-928f3b3ee598",
@@ -9940,7 +9940,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/aKYeZc2Iq7NuYQ==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-4dd59d3b-84fd-417d-b12f-6d549992eb6f",
@@ -9949,7 +9949,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png"
     },
     {
       "id": "ustv-d9321bab-4c32-480a-bf42-4aca5492e509",
@@ -9958,7 +9958,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png"
     },
     {
       "id": "ustv-efdfeaf9-cb70-4ecd-a9be-de87e97bdecd",
@@ -9967,7 +9967,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png"
     },
     {
       "id": "ustv-b6ba088e-2bae-47dd-9510-c98338f044e4",
@@ -9976,7 +9976,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png"
     },
     {
       "id": "ustv-26ef3c84-1972-4cbd-ace1-8cbde6af83e9",
@@ -9985,7 +9985,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png"
     },
     {
       "id": "ustv-c22a4c7a-376e-4e96-8c2a-98ab2011ba92",
@@ -9994,7 +9994,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png"
     },
     {
       "id": "ustv-e50214dc-c1e5-4ad8-8bd5-082f1134b0b5",
@@ -10003,7 +10003,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"
     },
     {
       "id": "ustv-dbcf395d-d3f1-4064-8d5d-b2d39d69ab31",
@@ -10012,7 +10012,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png"
     },
     {
       "id": "ustv-9fa7834e-13e7-4106-832c-7c42cec5639a",
@@ -10021,7 +10021,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png"
     },
     {
       "id": "ustv-dc908d7b-80c5-47a0-84e5-f80cb3a9ce4c",
@@ -10030,7 +10030,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png"
     },
     {
       "id": "ustv-2d18e6d2-33d1-410d-953f-148ac1cad033",
@@ -10039,7 +10039,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png"
     },
     {
       "id": "ustv-41baa1e7-e9f5-4465-a845-6fd8043164fa",
@@ -10048,7 +10048,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png"
     },
     {
       "id": "ustv-465d07df-190d-48d0-8753-56d3bb93c6ef",
@@ -10057,7 +10057,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png"
     },
     {
       "id": "ustv-d3f9a3ac-b1b0-4ea9-9f91-648c6ca9af0c",
@@ -10066,7 +10066,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6532e8342cf13100083b404c/colorLogoPNG.png"
     },
     {
       "id": "ustv-791611d7-75c6-415e-873b-4c89b7dc0e76",
@@ -10075,7 +10075,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png"
     },
     {
       "id": "ustv-37fda0d9-a28c-44a1-9634-67c36b7d9ecc",
@@ -10084,7 +10084,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png"
     },
     {
       "id": "ustv-5e4f53d5-6f67-40fe-8ace-601b1e51a7b6",
@@ -10093,7 +10093,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png"
     },
     {
       "id": "ustv-dd902ae4-3133-4a03-9d27-865363ac8198",
@@ -10102,7 +10102,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/686c2677ed17cf4c900a496d/colorLogoPNG_1755124512679.png"
     },
     {
       "id": "ustv-e7dfe01d-494e-4b65-8c19-b5c37c378242",
@@ -10111,7 +10111,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png"
     },
     {
       "id": "ustv-e671de36-545b-4e85-8864-af6a329ff150",
@@ -10120,7 +10120,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/4d5Ea4ugACCJXg==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-0bf96a32-cf69-4704-add5-ca6c2b94fd75",
@@ -10129,7 +10129,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png"
     },
     {
       "id": "ustv-4adf7d62-6948-4a55-92dc-b55122e74397",
@@ -10138,7 +10138,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/ONtAI886BGJLPQ==/f2b18c8c-c8c1-4a3c-97da-2a247fa7395e/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-1c25f478-ed8b-42cb-a019-f7abf58301a5",
@@ -10147,7 +10147,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png"
     },
     {
       "id": "ustv-fcb2cc24-ca04-422a-b6e2-731dc558860e",
@@ -10156,7 +10156,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png"
     },
     {
       "id": "ustv-961c2d23-d7bc-46b9-930b-bcf1277b3140",
@@ -10165,7 +10165,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png"
     },
     {
       "id": "ustv-94b74c26-ea6d-4d6c-a8dc-002c7955cf4e",
@@ -10174,7 +10174,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG_1767745185882.png"
     },
     {
       "id": "ustv-3157f91a-8f3c-42a7-aabc-0006562e755d",
@@ -10183,7 +10183,7 @@
       "genres": [
         "Music"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png"
     },
     {
       "id": "ustv-ebf39f84-5242-43d6-8c56-bc7902173846",
@@ -10192,7 +10192,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/colorLogoPNG_1770231337178.png"
     },
     {
       "id": "ustv-eebf7fee-00b6-44a7-8018-5d4249708f75",
@@ -10201,7 +10201,7 @@
       "genres": [
         "Kids"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png"
+      "poster": "https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png"
     },
     {
       "id": "ustv-6110eddf-32cf-44af-b395-63284ffcd874",
@@ -10210,7 +10210,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/kRrxv36KIg9bPw==/8928da85-c7af-4da6-a0a1-9a32e3e5b2e8/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-5031139b-7a8b-4158-8012-22caff3e5082",
@@ -10219,7 +10219,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/t7SMobEbXiF0_Q==/48090b52-3410-4b0e-a2b1-7386e9700c1c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8b61f544-ab18-42a2-9506-f94142aa3bb7",
@@ -10228,7 +10228,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/nDFPtoJN0b7OYw==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-d019d5f7-4a23-4043-ac2c-c485faa933c2",
@@ -10237,7 +10237,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/2MzPjBx4XH-vJA==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-1eaae9ba-8c65-4f34-a32a-57529fbde0b7",
@@ -10246,7 +10246,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/RruQnZmevLusfA==/279f34be-8b5c-42a1-a7df-e04f01e95693/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-e9744b1b-5fa9-4a71-b56c-51e231b03cd0",
@@ -10255,7 +10255,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/f_dPQDku21hHxw==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-0884665e-d45d-4f85-91d1-6a59714dcd16",
@@ -10264,7 +10264,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/y4jAUpeHq4ELHg==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f23ec5b1-5784-44ef-8a17-bb998258822f",
@@ -10273,7 +10273,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/-0nmELSyfaWqNg==/eace1598-de1c-499a-8005-405d5cb5adb5/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-cd551b74-e04a-4d5a-a36f-0b0153a48639",
@@ -10282,7 +10282,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/LjcrdukJWSpYng==/0536c907-af63-40b6-a8d7-62c190492c5a/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-7179315e-163a-409f-9794-40f73f2eb8a7",
@@ -10291,7 +10291,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/YMZxvZaVEX0HtA==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-eda72528-0315-4c79-a2ec-c7b7387d8c58",
@@ -10300,7 +10300,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/eRrzABhCqX5_Lw==/9f0a41fe-3e4d-44cf-ab49-e27914cdd8c1/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-87e4b474-cbff-4826-8f29-2fda02d104bb",
@@ -10309,7 +10309,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/4Rv4zVMsE02xuA==/4975eac2-9902-4ac5-8036-f28a6d9979a0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2e02ee35-f39a-4aa7-b5ca-9741d3b38d68",
@@ -10318,7 +10318,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/9OVEbAJcKG4LlA==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ce765bb5-1a5e-4693-802b-0f9ff3ce233d",
@@ -10327,7 +10327,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/xKIf6J3HCq8sfQ==/2d6dbfc0-0fca-4d2c-abcc-bce692499401/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3bb0db74-1876-467c-9313-b77cf897ea16",
@@ -10336,7 +10336,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/2sFOpuolp9lAjA==/1741bc33-42d6-4044-8584-c7875bba243c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c7f78a02-9ced-4186-b621-ed586c925ba9",
@@ -10345,7 +10345,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/u4W97Evqtq5RMQ==/3f8686fa-f328-4833-a8f1-c055986fdcdd/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-7e9598b0-532e-4f34-99e6-08b3a68133d1",
@@ -10354,7 +10354,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/BdCf_2WU9Nzvbw==/12e83781-4ab1-491a-826e-8b968c78ec32/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-38a34e7f-3f9a-44f0-86ed-5a03c9fd0521",
@@ -10363,7 +10363,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/HsA80vuoV4SktQ==/4f7b9117-d773-4dbc-a9e2-4bb77bae1126/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-6730b7fb-eb35-44a5-ae32-de159256f207",
@@ -10372,7 +10372,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/yTUdTHkxF1KzGQ==/9d6112c8-c0fb-4179-aa34-4025c0153b14/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-e8505491-7f94-4279-97c3-e98697934ea3",
@@ -10381,7 +10381,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/LG699URBRLDqOQ==/35803cea-97e6-487c-9050-0171abf6c647/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2a0a5811-e8d5-4779-8574-297ef1442c73",
@@ -10390,7 +10390,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/g7byDgzsOUbQNA==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-5906220a-178c-4ce4-a7c7-78c1621048bd",
@@ -10399,7 +10399,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/rb2kTcyckd-Ltg==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a24327d0-313d-4372-b9f9-03559f9886ae",
@@ -10408,7 +10408,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/ADqkOoAZL-RKoA==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a8fd1c88-8b4a-4ed0-8cc1-f100feb23145",
@@ -10417,7 +10417,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/XJg57cG_3nPP0w==/eb9609d4-9dc0-4460-b61e-0b992ec14668/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a4fdc5ab-d12b-4b30-9e34-b2a0a9e386d5",
@@ -10426,7 +10426,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/27B0TzReARo-SQ==/f2f4da49-e449-451e-a1e2-1abf11dcfcf9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c779eee8-6b8f-497a-956a-fa2082f4609b",
@@ -10435,7 +10435,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/yHCUm2mwp3Y8yw==/6ff20b44-04d5-426c-aaf5-5593a6c60b87/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ae522435-1933-4622-8bc5-f67a0ecb6c6f",
@@ -10444,7 +10444,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/99D3V0iTFxlbbw==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3d42b260-6fcd-4859-8c46-bd14e568091e",
@@ -10453,7 +10453,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/9sem5esRDztU_g==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-6458cd0a-f5f5-460b-a463-c4a6b93bbd99",
@@ -10462,7 +10462,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/g-TnN7dezapq7Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f7588b9a-2e26-4e46-ad84-3a154ba06529",
@@ -10471,7 +10471,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/lnF_d9-y39CI8A==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b347d5c8-ae98-4172-ab79-6226c06fa2cc",
@@ -10480,7 +10480,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/iSjLnTm143Vo_g==/d4f0575b-389c-47f7-83c8-ce2a262ee072/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-defbd9fa-8615-43a5-991c-9438f370d09e",
@@ -10489,7 +10489,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/VTj8tXffeMV_hA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-4aa32309-38f7-4a40-ab97-75662ffad792",
@@ -10498,7 +10498,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/MAvFbEtOgtMRIQ==/83aa1731-c6a7-42d6-b797-1d2210b665ec/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-7c50c5ce-800e-4c80-a822-69906b4a1a70",
@@ -10507,7 +10507,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/bKxO2pZFIwBisA==/c6c25ba1-c2fd-4e78-973f-3a220337f694/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-16ebb03a-1008-4259-a492-9b69b91ce9df",
@@ -10516,7 +10516,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-f2b854dc-677c-40c1-809a-cc8b820f0eb3",
@@ -10525,7 +10525,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-9a4bf9a3-a71e-4a10-aed2-35a254fc6468",
@@ -10534,7 +10534,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/_jvGWcGqFs6DhQ==/8c560c21-a9f7-41c7-82ad-df5674fb9692/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-9e7528ba-61d4-44dd-8d30-f3ad80e5734f",
@@ -10543,7 +10543,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/RL-qLG_anSeyOg==/bbbed8f2-f666-49ad-8288-03f049585e3d/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-dd42cf57-81f5-4840-b570-ed1130810419",
@@ -10552,7 +10552,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Rt5VK8q8c6pWvw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-4d191f2a-fec8-4c01-9d68-c27ea693a6b5",
@@ -10561,7 +10561,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-79eb6b6c-2556-432f-a57b-8fdeb611d604",
@@ -10570,7 +10570,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/eI1d7cSPZQFhOQ==/67bea288-0819-444f-80ed-33c65e5fc502/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-3f690029-23c3-4219-abc3-9a789bf4132f",
@@ -10579,7 +10579,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/pMAu7mxETSJVkA==/65c6d925-e66f-49a2-88fd-2d8e323ccef9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-024626f1-a718-45ef-b276-9127ad3280ef",
@@ -10588,7 +10588,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/95HEwdQAa2iY7A==/6e4b7a38-ccc1-4f1f-b4ce-626221c91a06/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-04e12f39-dff6-4757-8551-1c28b70ae582",
@@ -10597,7 +10597,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/RkmPNUN41gLzWg==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-cfb84398-a9ba-4c9d-97cb-cba1771f016b",
@@ -10606,7 +10606,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/zBCOxZ6hwxcgWg==/f7eea1c7-409e-4abc-b6f3-1228bb7135d7/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2e75ab72-9c83-4d51-9e2c-3708f39821f9",
@@ -10615,7 +10615,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/aBwIuhHsOE8fLQ==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-703f9ddd-b3ae-4570-8a3c-63a44625c1ea",
@@ -10624,7 +10624,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/m139XSbqHN7igw==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-d168a518-6e58-462f-8158-257860ee7684",
@@ -10633,7 +10633,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/wHbytimRWEDg5w==/a9501720-74af-489c-993e-8c38c438e058/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b8895fa5-69a6-4412-b28e-3614a8d3e7d6",
@@ -10642,7 +10642,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/WGHcNsnAV2ZzZQ==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c8ffb81c-3975-4836-a7ef-1f55aa8815e1",
@@ -10651,7 +10651,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/xP0esskgVLQXMA==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-bbc7ec0f-7d53-45b9-9fc9-83f33492bf09",
@@ -10660,7 +10660,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/9JeV0i6F9xtz4w==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8deff3ce-9db5-4d44-8155-9db0964b4fb0",
@@ -10669,7 +10669,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/762KTCjtPl2nNw==/e7c157ef-0e36-4131-9218-f27076ce26f4/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f94f494c-b616-4290-8fa5-9d007c204f11",
@@ -10678,7 +10678,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Oav7vVDh-LuKdA==/7655be2e-e1c5-43f2-92b3-fad5c753777e/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2a0df0e4-71f4-48c3-89b5-d763159e1be2",
@@ -10687,7 +10687,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/i8bjHzfbFfhq1A==/8ec6200b-cbe1-4e2b-9883-24a37f5f4ab7/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-912fdd6a-d2e6-4413-81eb-0ac1a559d06f",
@@ -10696,7 +10696,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-177eb5c8-1cd5-4774-b22e-ba48fee15016",
@@ -10705,7 +10705,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-5423f8b3-1417-4c90-9100-0d4f1a561533",
@@ -10714,7 +10714,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-5c50b1d0-eeef-4e06-9a01-c57d129c64bd",
@@ -10723,7 +10723,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-a52c16fb-655c-4879-9381-694b86c4a148",
@@ -10732,7 +10732,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-1dc9d2b2-a8a1-4557-9911-7b11bb53fc0a",
@@ -10741,7 +10741,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": ""
     },
     {
       "id": "ustv-892ba7b0-46dd-4c79-a04c-eff0de077cf4",
@@ -10750,7 +10750,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b075b5fe-33bb-4be6-a21a-7be026c0e341",
@@ -10759,7 +10759,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/IsFWFfNoNmVF-A==/577b5b8e-307a-4535-a8fc-e18563a11950/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-13a5ffdc-32b9-41d3-adf7-23f973926529",
@@ -10768,7 +10768,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Y7HgrFc8PhNT3w==/cedecff3-9f15-4dbe-b883-ff156a2ecca5/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-2230eeba-b485-4e5d-bc57-73a689fb77d3",
@@ -10777,7 +10777,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/QVwlsOJ3Ig8OfA==/7b9a7209-d8b1-4c1e-9132-0407a473ed8f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ce42bde0-d797-4567-8822-6f13f2138480",
@@ -10786,7 +10786,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/AkqKzseBA2rFdw==/15ddd8ef-f96c-43eb-9640-673f573d4eeb/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-af0f629a-9b96-46ca-977d-452c9440def4",
@@ -10795,7 +10795,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Mndf9fhZSCab_w==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-0e7b3e1f-7caf-4bc6-9985-def7dd4565f8",
@@ -10804,7 +10804,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/CqSYtT2lYvQOPQ==/686ca4a9-30ac-42d6-bdbf-70199f7912d9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-64e680b8-8052-40c2-86c0-bbb298ae3745",
@@ -10813,7 +10813,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/g-dtAd_wR8w64w==/62dc5afa-c235-41ae-904e-e77b6c93e93e/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-669de488-a084-410a-bb85-c2ec2ad80979",
@@ -10822,7 +10822,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-0be45e08-26c6-4e7d-bc23-e4535ccc4109",
@@ -10831,7 +10831,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/IqXIAd_1YjDrjA==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b6394e9d-0a1b-4a06-90b7-7f29e065f98a",
@@ -10840,7 +10840,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/-Qup7p-9U8QS9Q==/bf6f69f6-4495-4bc2-94f9-fd91877e36f0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-122a01b5-31f1-4974-9a1c-db3b0802f58e",
@@ -10849,7 +10849,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/z5KrO42O-7nU4A==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-5a0a9c04-6870-4622-8006-11061118f545",
@@ -10858,7 +10858,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Y4bN1fFARdGeEg==/66d0923c-164a-4279-a199-206a054e98d9/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-77e8d690-464d-4937-90bd-939fd2916b8c",
@@ -10867,7 +10867,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Xy_fFJ2HP2eLiA==/9aa4b3ac-db29-4a50-9c78-973cdeb2bed6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-991bf914-6cd4-4f87-9162-673cac940909",
@@ -10876,7 +10876,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/ePzKM5wASsCWaw==/c41d5617-9035-4146-bafa-be2d9de2968c/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f448e3d9-d842-4a9d-af4e-747741aa64e2",
@@ -10885,7 +10885,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-0b57658d-5b0d-4c7f-8c6d-ef1608f4e598",
@@ -10894,7 +10894,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/ugZA0exwfgSpHA==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-e2d3c1cf-3c36-4566-bc49-6f132ade0d6a",
@@ -10903,7 +10903,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/bee-OUuto3TH9w==/73b2cd96-916d-4081-b14f-c6f503ebf2be/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8ae5a8c1-ef07-4b82-9f2d-a00dd1990fff",
@@ -10912,7 +10912,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dt0VWOtvi4zTRw==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-94d53adc-6692-4c7b-b399-f5a0e3fe6629",
@@ -10921,7 +10921,7 @@
       "genres": [
         "Sports"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/-NtXXHY5Foetwg==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-df144033-21b9-4a9f-8dff-8f62e6b9878d",
@@ -10930,7 +10930,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/FZ3_BVJbTDY7uA==/db730c00-68a8-4147-bbab-a07b081c3179/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-66a6ee5a-88e7-4388-8052-a33b9dd1339b",
@@ -10939,7 +10939,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/-ZIKP2u6RaYLoA==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-28373ea3-0cf9-42ca-b1a5-3ce20fcb670f",
@@ -10948,7 +10948,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/5MVh3_mmQ1OFyA==/fa2f8c60-0492-4a50-a92d-4a034e9f89f3/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-6600ff90-55c3-4138-950f-9d34f9e9c97b",
@@ -10957,7 +10957,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/G7pEsTRNoRelrA==/0de31780-db48-47ea-9279-955ddaa089b5/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c6c42884-c8f4-45d2-b22a-588b41071f08",
@@ -10966,7 +10966,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/le71z1hR2zy5vA==/2519aeef-b530-4f17-b7e7-16dfce1f1bd0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-b29dbabe-8f22-4e46-8e10-1d0831d39efb",
@@ -10975,7 +10975,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/aHkRMXjL2FQbvg==/44ac2d3a-3a63-46f3-badb-fe3f8afa7600/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-56f5f7ab-b60c-42ef-9687-775b8956e26a",
@@ -10984,7 +10984,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/b_lV2vB1BiPx6A==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-89c4517e-819c-409c-be12-d0cbca88dce4",
@@ -10993,7 +10993,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/AIgk5Ch_-sbsfQ==/c468221e-d75c-428a-bfaa-cdb5277c4c3b/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-7088d2eb-2662-4e09-a2cf-f737ffa6be6d",
@@ -11002,7 +11002,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/WIbXszK-dwWtwA==/ff6398da-6988-4b07-85ed-d732eb70b6aa/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-08f92d13-ade8-4323-9c95-2322c8ef9e7b",
@@ -11011,7 +11011,7 @@
       "genres": [
         "News"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/TyT5UhcvEErw2A==/a9b7d587-ab4a-4d4d-bc0d-6f14da292f9f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a20932b8-7039-493c-a587-5b3783ed5ccb",
@@ -11020,7 +11020,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/5NTa5Ekxbl8G0w==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8956c2e9-c68c-4abf-a3bd-7e34311afaf1",
@@ -11029,7 +11029,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-31efa0cf-bcae-455f-bfb7-4c849adbc395",
@@ -11038,7 +11038,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-9c9271e7-72fa-48e2-94c2-2831bbf90577",
@@ -11047,7 +11047,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/IB-MqRJoj39PYw==/8c846b53-83bc-4c0b-a9c0-ff323c46c057/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-66664761-21dc-43b6-a814-2dd94e509b98",
@@ -11056,7 +11056,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/o-H1LgfSug5Osg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-307bcb27-f1e6-4b55-bfae-4a1bba29dff7",
@@ -11065,7 +11065,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/dnrWe24DU2G4iw==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-c1e3b016-72f5-4035-be3b-a88222274afd",
@@ -11074,7 +11074,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/RSur1I_YA1It6Q==/bed0ab9e-637e-4b96-a808-ee8b748c563f/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-375f412f-7762-4f6c-82e3-ef15b4e3d9f3",
@@ -11083,7 +11083,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/sxMfiz-fW1hSIg==/38c3d087-46de-4c79-8b12-763f4483af0d/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-4168ac81-44f9-4be7-a977-8eec8aad7f4c",
@@ -11092,7 +11092,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/m9EWLVua_xh2VQ==/a7d3ffc6-0efb-4136-9faf-1be405d7a9dd/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-ffbf0f7e-68aa-40d1-a4d1-f059c96af404",
@@ -11101,7 +11101,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/bf8d-EFeffQoaA==/cdb009e8-90ea-4ef5-b12e-9395702b4a17/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-8770f413-8966-4a23-a89b-dcafc8b00b8c",
@@ -11110,7 +11110,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/cCQXX0wwG-Dgaw==/bf6dfcde-342c-4803-9bf0-de17bdde3853/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-e7f4ea7a-375c-4f90-895e-a9be1baaa2d1",
@@ -11119,7 +11119,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/cMalDW-Z-wT0Nw==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a8ec756c-a0d6-4f83-9ae8-fcb0c373c1d2",
@@ -11128,7 +11128,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/URb2SUqoOhNp3Q==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-669cd6c9-1059-47e4-9963-003a8745781e",
@@ -11137,7 +11137,7 @@
       "genres": [
         "Lifestyle"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/DuU9Cn6o7BqCBg==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-a28de60c-327e-4a1c-a7b0-b0f25e51b979",
@@ -11146,7 +11146,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/zpmicKsrwms87A==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-f08f1d4c-c911-4261-8162-483c09b782fe",
@@ -11155,7 +11155,7 @@
       "genres": [
         "Entertainment"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/qqJAXtXP7TIolA==/0aa317c5-3f1c-4949-9e48-3f257c8293c4/CHgQeDoFMS4xLjlAAQ=="
     },
     {
       "id": "ustv-00c3abe0-309e-42bf-b7fc-62176ebfad48",
@@ -11164,7 +11164,7 @@
       "genres": [
         "Documentaries"
       ],
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tubi_logo.svg/512px-Tubi_logo.svg.png"
+      "poster": "https://canvas-lb.tubitv.com/opts/O6w2cPsZ16GUNA==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjlAAQ=="
     }
   ]
 }
