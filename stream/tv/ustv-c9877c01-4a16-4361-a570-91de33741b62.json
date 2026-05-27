@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/ESPN/sd",
+      "url": "https://tvpass.org/live/ESPNU/sd",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "TP"
     },
     {
-      "url": "https://tvpass.org/live/ESPNU/sd",
+      "url": "https://tvpass.org/live/ESPN/sd",
       "behaviorHints": {
         "notWebReady": true
       },
