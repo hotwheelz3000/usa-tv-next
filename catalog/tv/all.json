@@ -2786,31 +2786,6 @@
       ]
     },
     {
-      "id": "ustv-5bfcd946-51a1-4604-ac26-1ec96a899f63",
-      "tvgId": "",
-      "name": "Fox Deportes",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Latino",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-deportes-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-deportes-us.png",
-      "genres": [
-        "Latino"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=3381b567-a644-421d-b0ea-ad74513b1f1e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=98147206-8436-4783-be66-3b669bb45cfe&userId=&serverSideAds=true",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "PTV"
-        }
-      ]
-    },
-    {
       "id": "ustv-7041e64c-37e3-430e-9a09-f4cf7d8c56de",
       "tvgId": "",
       "name": "Fox News",
@@ -4556,39 +4531,6 @@
       ]
     },
     {
-      "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c",
-      "tvgId": null,
-      "name": "MTV Classic",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Music",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/mtv-classic-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-classic-us.png",
-      "genres": [
-        "Music"
-      ],
-      "streams": [
-        {
-          "url": "https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "[DEAD] HD",
-          "description": "MJ"
-        },
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=c07aa5dc-bcce-40d3-82db-21dfc0bf34c1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=bfb96018-169f-4f7b-be1e-6df38a6e50ff&userId=&serverSideAds=true",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "PTV"
-        }
-      ]
-    },
-    {
       "id": "ustv-f66d9981-63b5-4f56-ac63-1ca78a4c32ca",
       "tvgId": null,
       "name": "MTV2",
@@ -5195,31 +5137,6 @@
       ]
     },
     {
-      "id": "ustv-52d5839a-8384-4c34-bf4d-08aede31b252",
-      "tvgId": null,
-      "name": "Nick Music",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Music",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nick-music-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-music-us.png",
-      "genres": [
-        "Music"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=32a5b717-c7ab-4bf3-ad46-de45ab7efe2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=9afd5b95-0840-47c6-8824-d9d574212702&userId=&serverSideAds=true",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "PTV"
-        }
-      ]
-    },
-    {
       "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b",
       "tvgId": "",
       "name": "Nickelodeon",
@@ -5472,22 +5389,6 @@
           "description": "STMR"
         }
       ]
-    },
-    {
-      "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062",
-      "tvgId": null,
-      "name": "PBS Kids",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/pbs-kids-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-kids-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-4dda960c-6461-4d4c-8879-96a76d62d31a",
@@ -5833,22 +5734,6 @@
           "description": "TP"
         }
       ]
-    },
-    {
-      "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1",
-      "tvgId": null,
-      "name": "Smithsonian Channel",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Documentaries",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/smithsonian-channel-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/smithsonian-channel-us.png",
-      "genres": [
-        "Documentaries"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-af5fde41-f852-49eb-88a2-8dccd97f0a2c",
