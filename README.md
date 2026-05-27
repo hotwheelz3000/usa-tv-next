@@ -10,7 +10,7 @@ Sources include major US networks, Pluto TV, and Tubi. Static Stremio addon host
 stremio://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/manifest.json
 ```
 
-[Install via Stremio Web](https://web.stremio.com/#/?addon=https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/manifest.json)
+Install via [Stremio Web](https://web.stremio.com/#/?addon=https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/manifest.json)
 
 ## Sources
 
