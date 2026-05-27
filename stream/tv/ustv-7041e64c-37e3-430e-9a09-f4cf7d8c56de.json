@@ -7,14 +7,6 @@
       },
       "name": "SD",
       "description": "TP"
-    },
-    {
-      "url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:247PREVIEW"
     }
   ]
 }
