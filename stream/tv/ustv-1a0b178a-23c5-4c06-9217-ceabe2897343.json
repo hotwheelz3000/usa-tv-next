@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/WABCDT1/sd",
+      "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "TP"
     },
     {
-      "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
+      "url": "https://tvpass.org/live/WABCDT1/sd",
       "behaviorHints": {
         "notWebReady": true
       },
