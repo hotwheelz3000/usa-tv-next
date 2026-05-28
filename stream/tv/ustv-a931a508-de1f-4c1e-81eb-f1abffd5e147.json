@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/WPIX/sd",
+      "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -17,7 +17,7 @@
       "description": "TP"
     },
     {
-      "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+      "url": "https://tvpass.org/live/WPIX/sd",
       "behaviorHints": {
         "notWebReady": true
       },
