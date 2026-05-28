@@ -72,6 +72,11 @@ def parse_m3u(content):
 def is_live_tv(ch):
     return not any(ex in ch.get("group", "").lower() for ex in EXCLUDE_GROUPS)
 
+
+def is_bad_name(name):
+    bad_keywords = ["tvg-logo=", "group-title=", "tvg-id=", "#EXTINF"]
+    return any(kw in name for kw in bad_keywords)
+
 def map_genre(group):
     g = group.lower()
     if any(x in g for x in ["sport", "espn", "nfl", "nba"]):
@@ -144,7 +149,7 @@ for source_name, desc_code, playlist_url in PLAYLISTS:
         print("Error: " + str(e))
         continue
 
-    new_channels = [ch for ch in channels if ch["name"] and ch["url"] and ch["name"].lower().strip() not in seen_names and is_live_tv(ch)]
+    new_channels = [ch for ch in channels if ch["name"] and ch["url"] and ch["name"].lower().strip() not in seen_names and is_live_tv(ch) and not is_bad_name(ch["name"])]
     for ch in new_channels:
         seen_names.add(ch["name"].lower().strip())
     print("New: " + str(len(new_channels)))
