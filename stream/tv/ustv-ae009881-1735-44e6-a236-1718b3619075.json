@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
+      "url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "TP"
     },
     {
-      "url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd",
+      "url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
       "behaviorHints": {
         "notWebReady": true
       },
