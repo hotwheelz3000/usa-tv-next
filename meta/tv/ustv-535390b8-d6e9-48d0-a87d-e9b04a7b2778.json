@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-535390b8-d6e9-48d0-a87d-e9b04a7b2778",
+    "type": "tv",
+    "name": "CBS News Detroit",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png",
+    "description": "CBS News Detroit - News"
+  }
+}
