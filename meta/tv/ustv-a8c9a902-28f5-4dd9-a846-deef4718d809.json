@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a8c9a902-28f5-4dd9-a846-deef4718d809",
+    "type": "tv",
+    "name": "CBS News 24/7",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png",
+    "description": "CBS News 24/7 - News"
+  }
+}
