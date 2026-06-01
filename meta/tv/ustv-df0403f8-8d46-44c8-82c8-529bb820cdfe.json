@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-df0403f8-8d46-44c8-82c8-529bb820cdfe",
+    "type": "tv",
+    "name": "Pluto TV Lives",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png",
+    "description": "Pluto TV Lives - Entertainment"
+  }
+}
