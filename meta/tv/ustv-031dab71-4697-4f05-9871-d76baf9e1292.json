@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-031dab71-4697-4f05-9871-d76baf9e1292",
+    "type": "tv",
+    "name": "LiveNOW from FOX",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png",
+    "description": "LiveNOW from FOX - News"
+  }
+}
