@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-314cb56f-ce0b-470e-9a3c-c1fdb8d09493",
+    "type": "tv",
+    "name": "Logo Pluto TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png",
+    "background": "https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png",
+    "logo": "https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png",
+    "description": "Logo Pluto TV - Entertainment"
+  }
+}
