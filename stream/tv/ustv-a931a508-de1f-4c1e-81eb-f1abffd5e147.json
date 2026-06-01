@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/WPIX/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
-    },
-    {
       "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
       "behaviorHints": {
         "notWebReady": true
@@ -18,6 +10,14 @@
     },
     {
       "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "TP"
+    },
+    {
+      "url": "https://tvpass.org/live/WPIX/sd",
       "behaviorHints": {
         "notWebReady": true
       },
