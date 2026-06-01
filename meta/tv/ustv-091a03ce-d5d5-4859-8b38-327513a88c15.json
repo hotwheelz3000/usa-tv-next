@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-091a03ce-d5d5-4859-8b38-327513a88c15",
+    "type": "tv",
+    "name": "BET Pluto TV",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "description": "BET Pluto TV - Entertainment"
+  }
+}
