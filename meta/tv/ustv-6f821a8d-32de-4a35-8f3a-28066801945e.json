@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6f821a8d-32de-4a35-8f3a-28066801945e",
+    "type": "tv",
+    "name": "CNN Noticias",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1777908720377.png",
+    "background": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1777908720377.png",
+    "logo": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1777908720377.png",
+    "description": "CNN Noticias - Entertainment"
+  }
+}
