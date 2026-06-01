@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-fd159a8c-5745-4f16-ba44-12f55a82964b",
+    "type": "tv",
+    "name": "Pluto TV Reality",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png",
+    "description": "Pluto TV Reality - Entertainment"
+  }
+}
