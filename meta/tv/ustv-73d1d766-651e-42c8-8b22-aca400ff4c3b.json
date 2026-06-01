@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-73d1d766-651e-42c8-8b22-aca400ff4c3b",
+    "type": "tv",
+    "name": "NBC Los Angeles News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png",
+    "description": "NBC Los Angeles News - News"
+  }
+}
