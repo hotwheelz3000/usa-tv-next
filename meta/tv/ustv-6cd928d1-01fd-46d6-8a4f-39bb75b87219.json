@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6cd928d1-01fd-46d6-8a4f-39bb75b87219",
+    "type": "tv",
+    "name": "CNN HEADLINES",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png",
+    "background": "https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png",
+    "logo": "https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png",
+    "description": "CNN HEADLINES - News"
+  }
+}
