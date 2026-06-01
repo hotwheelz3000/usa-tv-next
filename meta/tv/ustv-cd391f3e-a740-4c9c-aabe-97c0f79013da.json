@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-cd391f3e-a740-4c9c-aabe-97c0f79013da",
+    "type": "tv",
+    "name": "CBS News Texas",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png",
+    "description": "CBS News Texas - News"
+  }
+}
