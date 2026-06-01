@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-04082bb0-a6b8-47af-b108-15f0553ddc53",
+    "type": "tv",
+    "name": "60 Minutes",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png",
+    "description": "60 Minutes - Documentaries"
+  }
+}
