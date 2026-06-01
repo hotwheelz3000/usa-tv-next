@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a2feab06-a18d-41fd-8c59-f44606adfcf0",
+    "type": "tv",
+    "name": "Pluto TV Anime Movies",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png",
+    "background": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png",
+    "logo": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png",
+    "description": "Pluto TV Anime Movies - Entertainment"
+  }
+}
