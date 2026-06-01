@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d45646b2-1937-4516-ba0f-200b94785107",
+    "type": "tv",
+    "name": "The Bob Ross Channel",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png",
+    "description": "The Bob Ross Channel - Entertainment"
+  }
+}
