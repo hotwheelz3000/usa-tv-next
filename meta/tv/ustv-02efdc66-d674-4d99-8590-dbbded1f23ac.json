@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-02efdc66-d674-4d99-8590-dbbded1f23ac",
+    "type": "tv",
+    "name": "CBS News Colorado",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png",
+    "background": "https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png",
+    "logo": "https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png",
+    "description": "CBS News Colorado - News"
+  }
+}
