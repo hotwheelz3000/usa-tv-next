@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-9dd75830-972a-4188-a670-3859703cc677",
+    "type": "tv",
+    "name": "Classic TV Comedy",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png",
+    "description": "Classic TV Comedy - Entertainment"
+  }
+}
