@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6363450f-5055-4b1f-8bfa-e278e81ac1af",
+    "type": "tv",
+    "name": "CBS News Pittsburgh",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png",
+    "description": "CBS News Pittsburgh - News"
+  }
+}
