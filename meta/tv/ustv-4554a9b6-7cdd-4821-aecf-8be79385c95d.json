@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-4554a9b6-7cdd-4821-aecf-8be79385c95d",
+    "type": "tv",
+    "name": "CBS News Miami",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png",
+    "description": "CBS News Miami - News"
+  }
+}
