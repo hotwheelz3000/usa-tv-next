@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-210adbee-b968-4b9b-a1bd-ae5411714740",
+    "type": "tv",
+    "name": "Blaze Live",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png",
+    "description": "Blaze Live - News"
+  }
+}
