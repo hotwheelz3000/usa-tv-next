@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a325d3aa-766b-4525-8caf-0784acae9cf1",
+    "type": "tv",
+    "name": "Peppa Pig",
+    "genres": [
+      "Kids"
+    ],
+    "poster": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png",
+    "background": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png",
+    "logo": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png",
+    "description": "Peppa Pig - Kids"
+  }
+}
