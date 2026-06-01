@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-8de9f46e-cb58-415c-91a4-6fc57000bc87",
+    "type": "tv",
+    "name": "WeatherNation Los Angeles",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png",
+    "description": "WeatherNation Los Angeles - News"
+  }
+}
