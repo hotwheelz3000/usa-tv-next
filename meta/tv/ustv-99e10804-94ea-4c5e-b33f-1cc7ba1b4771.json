@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-99e10804-94ea-4c5e-b33f-1cc7ba1b4771",
+    "type": "tv",
+    "name": "TennisChannel 2",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png",
+    "background": "https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png",
+    "logo": "https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png",
+    "description": "TennisChannel 2 - Sports"
+  }
+}
