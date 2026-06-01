@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-ed6bf5a3-ecb3-45c1-a2d8-55595215caf2",
+    "type": "tv",
+    "name": "Pluto TV Novelas",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",
+    "description": "Pluto TV Novelas - Entertainment"
+  }
+}
