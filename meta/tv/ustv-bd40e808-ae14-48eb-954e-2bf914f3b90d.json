@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-bd40e808-ae14-48eb-954e-2bf914f3b90d",
+    "type": "tv",
+    "name": "More TV Drama",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png",
+    "description": "More TV Drama - Entertainment"
+  }
+}
