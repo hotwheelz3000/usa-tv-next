@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7f071d0f-faa6-45f8-8bd1-dcfe23c0ec85",
+    "type": "tv",
+    "name": "Pluto TV Military",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png",
+    "description": "Pluto TV Military - Documentaries"
+  }
+}
