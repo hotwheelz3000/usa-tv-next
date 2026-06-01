@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-d2ccd6d4-4139-45f1-83eb-e126c6d10e4d",
+    "type": "tv",
+    "name": "UEFA Champions League",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+    "description": "UEFA Champions League - Sports"
+  }
+}
