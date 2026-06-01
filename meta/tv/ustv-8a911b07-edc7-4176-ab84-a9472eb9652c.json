@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-8a911b07-edc7-4176-ab84-a9472eb9652c",
+    "type": "tv",
+    "name": "FOX LOCAL Los Angeles",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/colorLogoPNG_1766525230432.png",
+    "background": "https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/colorLogoPNG_1766525230432.png",
+    "logo": "https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/colorLogoPNG_1766525230432.png",
+    "description": "FOX LOCAL Los Angeles - News"
+  }
+}
