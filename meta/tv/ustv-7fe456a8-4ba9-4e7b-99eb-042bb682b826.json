@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7fe456a8-4ba9-4e7b-99eb-042bb682b826",
+    "type": "tv",
+    "name": "Nick Jr. Pluto TV",
+    "genres": [
+      "Kids"
+    ],
+    "poster": "https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",
+    "description": "Nick Jr. Pluto TV - Kids"
+  }
+}
