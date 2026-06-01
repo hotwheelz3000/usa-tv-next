@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f054e8d4-03b0-4db3-9558-85e58a3d9d12",
+    "type": "tv",
+    "name": "CBS News Baltimore",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png",
+    "background": "https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png",
+    "logo": "https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png",
+    "description": "CBS News Baltimore - News"
+  }
+}
