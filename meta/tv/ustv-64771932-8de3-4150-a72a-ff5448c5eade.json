@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-64771932-8de3-4150-a72a-ff5448c5eade",
+    "type": "tv",
+    "name": "Classic TV Drama",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png",
+    "description": "Classic TV Drama - Entertainment"
+  }
+}
