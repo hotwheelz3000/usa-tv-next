@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-e3bb8c5d-840a-4766-8084-fd883ef215f7",
+    "type": "tv",
+    "name": "Pluto TV History",
+    "genres": [
+      "Documentaries"
+    ],
+    "poster": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",
+    "description": "Pluto TV History - Documentaries"
+  }
+}
