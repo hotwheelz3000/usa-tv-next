@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-80dad2f9-9ce8-420a-884c-da62ef415616",
+    "type": "tv",
+    "name": "MST3K",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png",
+    "description": "MST3K - Entertainment"
+  }
+}
