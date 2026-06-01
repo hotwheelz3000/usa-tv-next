@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Pluto TV",
+      "description": "PT"
+    }
+  ]
+}
