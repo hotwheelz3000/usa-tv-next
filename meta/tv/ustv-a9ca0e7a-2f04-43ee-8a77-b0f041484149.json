@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-a9ca0e7a-2f04-43ee-8a77-b0f041484149",
+    "type": "tv",
+    "name": "The NBA Channel",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png",
+    "background": "https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png",
+    "logo": "https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png",
+    "description": "The NBA Channel - Sports"
+  }
+}
