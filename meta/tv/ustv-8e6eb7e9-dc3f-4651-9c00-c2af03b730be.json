@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-8e6eb7e9-dc3f-4651-9c00-c2af03b730be",
+    "type": "tv",
+    "name": "Jersey Shore",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png",
+    "description": "Jersey Shore - Entertainment"
+  }
+}
