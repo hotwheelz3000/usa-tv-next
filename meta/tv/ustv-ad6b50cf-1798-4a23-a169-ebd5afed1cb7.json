@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-ad6b50cf-1798-4a23-a169-ebd5afed1cb7",
+    "type": "tv",
+    "name": "Vevo 2K",
+    "genres": [
+      "Music"
+    ],
+    "poster": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",
+    "description": "Vevo 2K - Music"
+  }
+}
