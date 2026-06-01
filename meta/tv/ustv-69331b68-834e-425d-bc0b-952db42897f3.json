@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-69331b68-834e-425d-bc0b-952db42897f3",
+    "type": "tv",
+    "name": "KIRO Seattle",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png",
+    "description": "KIRO Seattle - News"
+  }
+}
