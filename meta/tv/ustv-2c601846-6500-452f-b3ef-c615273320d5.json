@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-2c601846-6500-452f-b3ef-c615273320d5",
+    "type": "tv",
+    "name": "Sky News",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",
+    "description": "Sky News - News"
+  }
+}
