@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-87ddcc2a-0652-4523-a170-93e98545f1b6",
+    "type": "tv",
+    "name": "FanDuel TV Extra",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png",
+    "background": "https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png",
+    "logo": "https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png",
+    "description": "FanDuel TV Extra - Sports"
+  }
+}
