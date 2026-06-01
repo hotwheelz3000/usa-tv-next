@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7d7b7e60-d363-464e-93aa-d9bda7c23fd9",
+    "type": "tv",
+    "name": "Vevo '90s",
+    "genres": [
+      "Music"
+    ],
+    "poster": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",
+    "description": "Vevo '90s - Music"
+  }
+}
