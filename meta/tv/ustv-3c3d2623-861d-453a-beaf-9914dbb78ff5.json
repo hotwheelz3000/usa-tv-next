@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-3c3d2623-861d-453a-beaf-9914dbb78ff5",
+    "type": "tv",
+    "name": "Pluto TV Backcountry",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png",
+    "description": "Pluto TV Backcountry - Entertainment"
+  }
+}
