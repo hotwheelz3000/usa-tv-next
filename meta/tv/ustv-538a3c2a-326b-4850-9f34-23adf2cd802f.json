@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-538a3c2a-326b-4850-9f34-23adf2cd802f",
+    "type": "tv",
+    "name": "Estrella News",
+    "genres": [
+      "Entertainment"
+    ],
+    "poster": "https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png",
+    "description": "Estrella News - Entertainment"
+  }
+}
