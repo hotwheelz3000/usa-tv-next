@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-f8a3a2a2-7b48-4215-b8e4-775cb2d0686d",
+    "type": "tv",
+    "name": "Kartoon Channel!",
+    "genres": [
+      "Kids"
+    ],
+    "poster": "https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png",
+    "background": "https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png",
+    "description": "Kartoon Channel! - Kids"
+  }
+}
