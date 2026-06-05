@@ -1,8 +1,8 @@
 # USA TV Next
 
-295 live TV channels across 10 genres: Sports, Entertainment, News, Premium, Kids, Lifestyle, Documentaries, Local, Music, Latino.
+164 live TV channels across 10 genres: Sports, Entertainment, News, Premium, Kids, Lifestyle, Documentaries, Local, Music, Latino.
 
-Sources include major US networks and Tubi. Static Stremio addon hosted entirely on GitHub using raw URLs — no server required. Catalog auto-updates every Monday via GitHub Actions.
+Major US network and cable channels. Static Stremio addon hosted entirely on GitHub using raw URLs — no server required. Streams auto-update every Monday via GitHub Actions.
 
 ## Install
 
@@ -11,13 +11,6 @@ stremio://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/manifest.json
 ```
 
 Install via [Stremio Web](https://web.stremio.com/#/?addon=https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/manifest.json)
-
-## Sources
-
-| Source | Channels |
-|---|---|
-| Major US Networks | ABC, CBS, CW, Fox, NBC, PBS + more |
-| Tubi | 124 channels |
 
 ## Genres
 
