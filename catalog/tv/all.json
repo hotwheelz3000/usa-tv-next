@@ -208,6 +208,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=300&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -354,6 +362,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=53&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -403,6 +419,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=210&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -551,6 +575,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=923&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -633,6 +665,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=206&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -837,6 +877,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=349&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -894,6 +942,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=100&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -1539,6 +1595,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=776&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -1825,6 +1889,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=697&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2159,6 +2231,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=311&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2657,6 +2737,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=891&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2690,6 +2778,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=892&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2715,6 +2811,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=893&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2740,6 +2844,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=894&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2773,6 +2885,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=898&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2798,6 +2918,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=899&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2823,6 +2951,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=900&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2856,6 +2992,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=902&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2889,6 +3033,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=903&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2922,6 +3074,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=904&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2955,6 +3115,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=905&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -2988,6 +3156,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=907&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3021,6 +3197,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=384&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3233,6 +3417,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=775&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3405,6 +3597,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=279&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3495,6 +3695,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=381&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3593,6 +3801,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=665&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3789,6 +4005,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=320&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3863,6 +4087,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=296&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3896,6 +4128,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=321&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3937,6 +4177,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=689&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -3978,6 +4226,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=690&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4011,6 +4267,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=691&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4036,6 +4300,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=693&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4077,6 +4349,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=694&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4118,6 +4398,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=382&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4159,6 +4447,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=322&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4208,6 +4504,14 @@
           },
           "name": "[DEAD] HD",
           "description": "WB (US-only)"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=323&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4233,6 +4537,14 @@
           },
           "name": "HD",
           "description": "MJE"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=656&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4282,6 +4594,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=324&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4371,6 +4691,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=325&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4453,6 +4781,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=326&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4502,6 +4838,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=389&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4543,6 +4887,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=770&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4584,6 +4936,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=662&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4674,6 +5034,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=399&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4789,6 +5157,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=765&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4816,7 +5192,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=345&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=327&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -4887,6 +5263,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=371&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4945,6 +5329,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=328&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -4986,6 +5378,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=745&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5053,7 +5453,7 @@
           "description": "XM"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=425&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=404&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5108,6 +5508,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=753&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5133,6 +5541,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=754&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5158,6 +5574,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=755&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5191,6 +5615,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=777&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5240,6 +5672,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=762&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5297,6 +5737,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=613&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5380,7 +5828,7 @@
           "description": "XM"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=44&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=405&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5419,6 +5867,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=667&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5470,7 +5926,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=44&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=663&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5519,7 +5975,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=652&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=329&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5576,7 +6032,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=339&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=330&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5615,6 +6071,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=649&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5648,6 +6112,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=331&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5681,6 +6153,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=848&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5746,6 +6226,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=332&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5787,6 +6275,14 @@
           },
           "name": "[DEAD] HD",
           "description": "STMR"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=334&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -5943,6 +6439,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=293&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6009,6 +6513,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=294&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6107,6 +6619,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=333&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6140,6 +6660,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=792&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6181,6 +6709,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=982&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6214,6 +6750,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=764&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6279,6 +6823,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=759&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6304,6 +6856,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=922&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6345,6 +6905,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=335&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6370,6 +6938,14 @@
           },
           "name": "HD",
           "description": "MJE"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=970&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6395,6 +6971,14 @@
           },
           "name": "HD",
           "description": "MJE"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=971&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6428,6 +7012,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=658&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6469,6 +7061,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=373&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6528,7 +7128,7 @@
           "description": "WB (US-only)\n"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=44&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=336&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -6583,6 +7183,14 @@
           },
           "name": "[DEAD] HD",
           "description": "WB (US-only)"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=644&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6616,6 +7224,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=650&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6649,6 +7265,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=131&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6698,6 +7322,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=40&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6723,6 +7355,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=394&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6758,7 +7398,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=304&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=337&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -6815,7 +7455,7 @@
           "description": "WB (US-only)"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=44&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=338&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -6889,7 +7529,7 @@
           "description": "TP"
         },
         {
-          "url": "https://daddylive.org/embed/embed.php?id=651&player=1&source=tv.json",
+          "url": "https://daddylive.org/embed/embed.php?id=340&player=1&source=tv.json",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -6952,6 +7592,14 @@
           },
           "name": "[DEAD] HD",
           "description": "WB (US-only)"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=341&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -6985,6 +7633,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=342&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7018,6 +7674,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=660&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7043,6 +7707,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=668&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7068,6 +7740,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=132&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7117,6 +7797,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=343&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7166,6 +7854,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=344&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7239,6 +7935,14 @@
           },
           "name": "HD",
           "description": "XM"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=659&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7280,6 +7984,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=655&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     },
@@ -7321,6 +8033,14 @@
           },
           "name": "SD",
           "description": "TP"
+        },
+        {
+          "url": "https://daddylive.org/embed/embed.php?id=763&player=1&source=tv.json",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "DL"
         }
       ]
     }
