@@ -9,20 +9,20 @@
       "description": "XM"
     },
     {
-      "url": "https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/index.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n4=content_name&ads.v4=FOX%20Weather&ads.n21=app_bundle&ads.v21=&ads.n22=pos&ads.v22=midroll&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=did&ads.v25=&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=device_type&ads.v27=&ads.n28=content_provider&ads.v28=fox-weather&ads.n29=w&ads.v29=1920&ads.n30=device_make&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_type&ads.v32=channel&ads.n33=ip&ads.v33=193.228.206.147&ads.n34=content_producer_name&ads.v34=Fox%20News%20Network&ads.n35=channel_corp&ads.v35=Fox%20News%20Network&ads.n36=device_model&ads.v36=&ads.n37=channel_genre&ads.v37=New%20on%20Local%20Now&ads.n38=us_privacy&ads.v38=1YNY&ads.n39=content_custom_1_param&ads.v39=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=dnt&ads.v41=&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=gpp_sid&ads.v44=&ads.n45=channel_name&ads.v45=FOX%20Weather&ads.n46=channel_id&ads.v46=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n47=channel_language&ads.v47=en&ads.n48=channel_brand_id&ads.v48=AMDB013654&ads.n49=h&ads.v49=1080&ads.n50=channel_title&ads.v50=FOX%20Weather&ads.n51=content_livestream&ads.v51=1&ads.n52=network_name&ads.v52=fox-weather&ads.n53=gpp&ads.v53=&ads.n54=channel_ext_id&ads.v54=&ads.n55=app_store_url&ads.v55=&ads.n56=app_version&ads.v56=0.0.0&ads.n57=app_name&ads.v57=&ads.n58=content_custom_2_param&ads.v58=AMDB013654",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "LN"
-    },
-    {
       "url": "https://daddylive.org/embed/embed.php?id=775&player=1&source=tv.json",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "HD",
       "description": "DL"
+    },
+    {
+      "url": "https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/index.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n4=content_name&ads.v4=FOX%20Weather&ads.n21=app_bundle&ads.v21=&ads.n22=pos&ads.v22=midroll&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=did&ads.v25=&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=device_type&ads.v27=&ads.n28=content_provider&ads.v28=fox-weather&ads.n29=w&ads.v29=1920&ads.n30=device_make&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_type&ads.v32=channel&ads.n33=ip&ads.v33=193.228.206.147&ads.n34=content_producer_name&ads.v34=Fox%20News%20Network&ads.n35=channel_corp&ads.v35=Fox%20News%20Network&ads.n36=device_model&ads.v36=&ads.n37=channel_genre&ads.v37=New%20on%20Local%20Now&ads.n38=us_privacy&ads.v38=1YNY&ads.n39=content_custom_1_param&ads.v39=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=dnt&ads.v41=&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=gpp_sid&ads.v44=&ads.n45=channel_name&ads.v45=FOX%20Weather&ads.n46=channel_id&ads.v46=CAB0F794-ACFE-48BE-A0F9-C1598B82BD67&ads.n47=channel_language&ads.v47=en&ads.n48=channel_brand_id&ads.v48=AMDB013654&ads.n49=h&ads.v49=1080&ads.n50=channel_title&ads.v50=FOX%20Weather&ads.n51=content_livestream&ads.v51=1&ads.n52=network_name&ads.v52=fox-weather&ads.n53=gpp&ads.v53=&ads.n54=channel_ext_id&ads.v54=&ads.n55=app_store_url&ads.v55=&ads.n56=app_version&ads.v56=0.0.0&ads.n57=app_name&ads.v57=&ads.n58=content_custom_2_param&ads.v58=AMDB013654",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "LN"
     }
   ]
 }
