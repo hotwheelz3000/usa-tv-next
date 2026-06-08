@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -17,20 +17,12 @@
       "description": "ST"
     },
     {
-      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+      "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "HD",
       "description": "ST"
-    },
-    {
-      "url": "https://tvpass.org/live/WNET/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
     },
     {
       "url": "https://daddylive.org/embed/embed.php?id=210&player=1&source=tv.json",
@@ -39,6 +31,14 @@
       },
       "name": "HD",
       "description": "DL"
+    },
+    {
+      "url": "https://tvpass.org/live/WNET/sd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "TP"
     }
   ]
 }
