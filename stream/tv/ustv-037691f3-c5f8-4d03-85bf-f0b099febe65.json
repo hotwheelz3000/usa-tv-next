@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://tvpass.org/live/DiscoveryChannelEast/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
-    },
-    {
       "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -23,6 +15,14 @@
       },
       "name": "HD",
       "description": "DL"
+    },
+    {
+      "url": "https://tvpass.org/live/DiscoveryChannelEast/sd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "TP"
     }
   ]
 }
