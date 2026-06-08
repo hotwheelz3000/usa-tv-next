@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-7eb49fac-7d01-44f3-9124-a8e8fb3c9078",
+    "type": "tv",
+    "name": "FOX LOCAL Seattle",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://canvas-lb.tubitv.com/opts/Zr0DzK4YmPx3rw==/169ebadc-ee9a-4c7e-83a3-9f7af89477de/CHgQeDoFMS4xLjlAAQ==",
+    "background": "https://canvas-lb.tubitv.com/opts/Zr0DzK4YmPx3rw==/169ebadc-ee9a-4c7e-83a3-9f7af89477de/CHgQeDoFMS4xLjlAAQ==",
+    "logo": "https://canvas-lb.tubitv.com/opts/Zr0DzK4YmPx3rw==/169ebadc-ee9a-4c7e-83a3-9f7af89477de/CHgQeDoFMS4xLjlAAQ==",
+    "description": "FOX LOCAL Seattle - News"
+  }
+}
