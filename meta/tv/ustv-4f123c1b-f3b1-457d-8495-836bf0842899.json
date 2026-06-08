@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-4f123c1b-f3b1-457d-8495-836bf0842899",
+    "type": "tv",
+    "name": "NHL",
+    "genres": [
+      "Sports"
+    ],
+    "poster": "https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ==",
+    "background": "https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ==",
+    "logo": "https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ==",
+    "description": "NHL - Sports"
+  }
+}
