@@ -1,6 +1,14 @@
 {
   "streams": [
     {
+      "url": "https://daddylive.org/embed/embed.php?id=759&player=1&source=tv.json",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "DL"
+    },
+    {
       "url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd",
       "behaviorHints": {
         "notWebReady": true
@@ -31,14 +39,6 @@
       },
       "name": "SD",
       "description": "TP"
-    },
-    {
-      "url": "https://daddylive.org/embed/embed.php?id=759&player=1&source=tv.json",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "DL"
     }
   ]
 }
