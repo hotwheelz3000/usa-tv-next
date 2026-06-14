@@ -7,6 +7,14 @@
       },
       "name": "HD",
       "description": "LN"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-US2700001QY",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }

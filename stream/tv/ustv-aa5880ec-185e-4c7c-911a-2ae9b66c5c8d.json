@@ -7,6 +7,22 @@
       },
       "name": "HD",
       "description": "XM"
+    },
+    {
+      "url": "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:ESTRELLATV-G"
+    },
+    {
+      "url": "https://live-manifest.production-public.tubi.io/live/b6e73af0-57f8-4691-9832-4b52d3f157ac/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:LIVE-MANIFES"
     }
   ]
 }
