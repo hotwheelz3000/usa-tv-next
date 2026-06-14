@@ -7,22 +7,6 @@
       },
       "name": "HD",
       "description": "MJE"
-    },
-    {
-      "url": "https://daddylive.org/embed/embed.php?id=320&player=1&source=tv.json",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "DL"
-    },
-    {
-      "url": "https://tvpass.org/live/HallmarkChannelEast/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
     }
   ]
 }

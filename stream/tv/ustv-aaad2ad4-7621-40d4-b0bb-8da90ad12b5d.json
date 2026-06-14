@@ -15,22 +15,6 @@
       },
       "name": "HD",
       "description": "XM"
-    },
-    {
-      "url": "https://daddylive.org/embed/embed.php?id=325&player=1&source=tv.json",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "DL"
-    },
-    {
-      "url": "https://tvpass.org/live/IONTVEast/sd",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "TP"
     }
   ]
 }
