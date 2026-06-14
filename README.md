@@ -1,8 +1,8 @@
 # USA TV Next
 
-164 live TV channels across 10 genres: Sports, Entertainment, News, Premium, Kids, Lifestyle, Documentaries, Local, Music, Latino.
+51 live TV channels across 10 genres: Sports, Entertainment, News, Premium, Kids, Lifestyle, Documentaries, Local, Music, Latino.
 
-Major US network and cable channels. Static Stremio addon hosted entirely on GitHub using raw URLs — no server required. Streams auto-update every Monday via GitHub Actions.
+Major US network and cable channels with reliable non-TVPass streams. Static Stremio addon hosted entirely on GitHub using raw URLs — no server required. Streams auto-update every Monday via GitHub Actions.
 
 ## Install
 
