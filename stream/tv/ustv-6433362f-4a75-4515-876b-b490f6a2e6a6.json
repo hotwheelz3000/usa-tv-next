@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2e4aa68acf/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Tubi",
+      "description": "TB"
+    }
+  ]
+}
