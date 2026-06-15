@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "ustv-6f9fa88a-72f9-4001-83ac-1690e5bdedcf",
+    "type": "tv",
+    "name": "FOX LOCAL San Francisco",
+    "genres": [
+      "News"
+    ],
+    "poster": "https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==",
+    "background": "https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==",
+    "logo": "https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==",
+    "description": "FOX LOCAL San Francisco - News"
+  }
+}
