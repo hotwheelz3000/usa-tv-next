@@ -1,218 +1,92 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ustv-1a0b178a-23c5-4c06-9217-ceabe2897343" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/abc-us.png" group-title="Local",ABC
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-id="ustv-95d0df98-c758-46e4-af07-5b69dc1c3758" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-us.png" group-title="Local",CBS
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id="ustv-a931a508-de1f-4c1e-81eb-f1abffd5e147" tvg-name="CW " tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cw-us.png" group-title="Local",CW 
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="ustv-3902457a-7818-4fbe-8209-9d43a903c784" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-us.png" group-title="Local",Fox
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-us.png" group-title="Local",NBC
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="ustv-4b227650-ac64-4e72-abeb-37c3be65e1df" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-us.png" group-title="Local",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-acba8f14-043f-48b2-a179-85c501e7d6a1" tvg-name="5StarMax" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-5-starmax-us.png" group-title="Premium",5StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 tvg-id="ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png" group-title="Entertainment",A&E
-https://tvpass.org/live/AEEast/sd
-#EXTINF:-1 tvg-id="ustv-99062293-9967-460e-9758-8604557c381a" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/acc-network-us.png" group-title="Sports",ACC Network
-https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id="ustv-17c92d44-25c9-4461-a964-c6f098dc3b35" tvg-name="Altitude Sports" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/altitude-sports-us.png" group-title="Sports",Altitude Sports
-https://tvpass.org/live/altitude-sports-denver/sd
 #EXTINF:-1 tvg-id="ustv-17671b7d-f8ae-4724-8c7a-15de81021d82" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/amc-us.png" group-title="Entertainment",AMC
-https://tvpass.org/live/AMCEast/sd
-#EXTINF:-1 tvg-id="ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1" tvg-name="American Heroes Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/american-heroes-channel-us.png" group-title="Documentaries",American Heroes Channel
-https://tvpass.org/live/AmericanHeroesChannel/sd
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ustv-f60b61af-2484-4d52-956c-db6ba4a06d76" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/animal-planet-us.png" group-title="Documentaries",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="ustv-deb78ced-e347-4c56-b029-f42298fe9920" tvg-name="AWE" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/awe-us.png" group-title="Lifestyle",AWE
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ustv-3ea31538-b5ad-4dc2-b2a6-6f2b518a2e7d" tvg-name="BBC America" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bbc-america-us.png" group-title="Entertainment",BBC America
-https://tvpass.org/live/BBCAmericaEast/sd
+https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/affiliate/awee_720p/playlist.m3u8?ads.cdnhost=s2host3.localnow.api.cms.amdvids.com&ads.playbackid=ED0109F2-D1A4-4208-8175-4AED4AA3AAEE&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=ED0109F2-D1A4-4208-8175-4AED4AA3AAEE&ads.n4=content_name&ads.v4=EPG%20%7C%20AWE%20Plus&ads.n21=did&ads.v21=&ads.n22=channel_rating&ads.v22=TV-PG&ads.n23=channel_corp&ads.v23=Herring%20Networks%20INC&ads.n24=ip&ads.v24=193.228.206.147&ads.n25=pos&ads.v25=midroll&ads.n26=app_bundle&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=ifa_type&ads.v28=&ads.n29=channel_title&ads.v29=EPG%20%20AWE%20Plus&ads.n30=content_type&ads.v30=channel&ads.n31=channel_company_id&ads.v31=AMDP500138&ads.n32=device_make&ads.v32=&ads.n33=app_store_url&ads.v33=&ads.n34=content_producer_name&ads.v34=Herring%20Networks%20INC&ads.n35=channel_genre&ads.v35=Lifestyle&ads.n36=channel_language&ads.v36=en&ads.n37=content_custom_1_param&ads.v37=ED0109F2-D1A4-4208-8175-4AED4AA3AAEE&ads.n38=dnt&ads.v38=&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=channel_brand_id&ads.v40=AMDB012004&ads.n41=gpp&ads.v41=&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=gpp_sid&ads.v43=&ads.n44=channel_id&ads.v44=ED0109F2-D1A4-4208-8175-4AED4AA3AAEE&ads.n45=app_version&ads.v45=0.0.0&ads.n46=device_type&ads.v46=&ads.n47=w&ads.v47=1920&ads.n48=content_livestream&ads.v48=1&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_ext_id&ads.v51=6272f208cd012f3b6016a5a2&ads.n52=network_name&ads.v52=awe&ads.n53=h&ads.v53=1080&ads.n54=device_model&ads.v54=&ads.n55=content_provider&ads.v55=awe&ads.n56=content_custom_2_param&ads.v56=AMDB012004&ads.n57=channel_name&ads.v57=EPG%20%20AWE%20Plus&ads.n58=app_name&ads.v58=
 #EXTINF:-1 tvg-id="ustv-65290745-c96e-4be8-a3e0-815712ffdc02" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bbc-news-us.png" group-title="News",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.channelId=99951298&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=:eff1be3e-98af-4057-9a25-8db7fa879e43&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a" tvg-name="beIN Sports XTRA " tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bein-sports-xtra-us.png" group-title="Sports",beIN Sports XTRA 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=0&us_privacy=
-#EXTINF:-1 tvg-id="ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-us.png" group-title="Entertainment",BET
-https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-id="ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e" tvg-name="BET Her" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-her-us.png" group-title="Lifestyle",BET Her
-https://tvpass.org/live/BETHerEast/sd
 #EXTINF:-1 tvg-id="ustv-0710a105-0285-4ad7-ad52-57b74b7b4436" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/big-ten-network-us.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bloomberg-us.png" group-title="News",Bloomberg TV
-https://tvpass.org/live/BloombergTV/sd
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/boomerang-us.png" group-title="Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647" tvg-name="Bounce" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bounce-us.png" group-title="Entertainment",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 tvg-id="ustv-cd865868-4b32-477d-b611-8d4c06ba1911" tvg-name="Bravo" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bravo-us.png" group-title="Entertainment",Bravo
-https://tvpass.org/live/BravoEast/sd
 #EXTINF:-1 tvg-id="ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/buzzr-us.png" group-title="Entertainment",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-#EXTINF:-1 tvg-id="ustv-687ec2f8-0593-4a29-813d-1e5ae14edcf5" tvg-name="C-SPAN 1" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/c-span-1-us.png" group-title="News",C-SPAN 1
-https://tvpass.org/live/CSPAN/sd
 #EXTINF:-1 tvg-id="ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cartoon-network-us.png" group-title="Kids",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ustv-7ba81bf7-3bb4-43c1-946f-bfff70198dd9" tvg-name="CBS Sports Golazo Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-sports-golazo-network-us.png" group-title="Sports",CBS Sports Golazo Network
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F7f3Wv6f7QEKfQna22jHqLQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=193.228.206.147&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
-#EXTINF:-1 tvg-id="ustv-4aa99360-c3a8-447c-841f-f6f437851168" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-sports-network-us.png" group-title="Sports",CBS Sports Network
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="ustv-a7fa35a3-7f6c-4005-8b10-f9788f9dc5c4" tvg-name="Chicago Sports Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/chicago-sports-network-us.png" group-title="Sports",Chicago Sports Network
-https://tvpass.org/live/chicago-sports-network/sd
 #EXTINF:-1 tvg-id="ustv-f687826d-6325-47cf-afbb-0f91bc5ed5f9" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-us.png" group-title="Entertainment",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cmt-us.png" group-title="Entertainment",CMT
-https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1 tvg-id="ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cnbc-us.png" group-title="News",CNBC
-https://tvpass.org/live/CNBC/sd
 #EXTINF:-1 tvg-id="ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cnn-us.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac" tvg-name="Comedy TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/comedy-tv-us.png" group-title="Entertainment",Comedy TV
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="ustv-184d76a1-c8dd-45ea-b447-761e7639791a" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cooking-channel-us.png" group-title="Lifestyle",Cooking Channel
-https://tvpass.org/live/CookingChannel/sd
-#EXTINF:-1 tvg-id="ustv-0ef2ecc2-7555-46aa-8996-5291e75da229" tvg-name="Court TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/court-tv-us.png" group-title="News",Court TV
-https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=596E8325-B870-491C-8DF8-C279814C5538&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=596E8325-B870-491C-8DF8-C279814C5538&ads.n4=content_name&ads.v4=EPG%20%7C%20Court%20TV&ads.n21=channel_name&ads.v21=EPG%20%20Court%20TV&ads.n22=content_livestream&ads.v22=1&ads.n23=channel_company_id&ads.v23=AMDP500139&ads.n24=content_type&ads.v24=channel&ads.n25=content_producer_name&ads.v25=Katz%20Broadcasting%20LLC&ads.n26=content_custom_2_param&ads.v26=AMDB012021&ads.n27=content_custom_1_param&ads.v27=596E8325-B870-491C-8DF8-C279814C5538&ads.n28=channel_corp&ads.v28=Katz%20Broadcasting%20LLC&ads.n29=did&ads.v29=&ads.n30=us_privacy&ads.v30=1YNY&ads.n31=app_name&ads.v31=&ads.n32=ifa_type&ads.v32=&ads.n33=device_model&ads.v33=&ads.n34=channel_ext_id&ads.v34=5ffced0c6048ec36fe4954d2&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=193.228.206.147&ads.n37=device_make&ads.v37=&ads.n38=channel_title&ads.v38=EPG%20%20Court%20TV&ads.n39=dnt&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=app_bundle&ads.v41=&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=device_type&ads.v43=&ads.n44=content_provider&ads.v44=court-tv&ads.n45=channel_id&ads.v45=596E8325-B870-491C-8DF8-C279814C5538&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=gpp_sid&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=channel_genre&ads.v49=Reality%20TV&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=network_name&ads.v51=court-tv&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_language&ads.v54=en&ads.n55=gpp&ads.v55=&ads.n56=pos&ads.v56=midroll&ads.n57=channel_brand_id&ads.v57=AMDB012021&ads.n58=h&ads.v58=1080
-#EXTINF:-1 tvg-id="ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811" tvg-name="Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/crime-and-investigation-us.png" group-title="Documentaries",Crime + Investigation
-https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n4=content_name&ads.v4=Crimen&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=app_bundle&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=channel_brand_id&ads.v25=AMDB013587&ads.n26=gpp_sid&ads.v26=&ads.n27=channel_name&ads.v27=Crimen&ads.n28=app_store_url&ads.v28=&ads.n29=gpp&ads.v29=&ads.n30=device_type&ads.v30=&ads.n31=content_provider&ads.v31=crimen-de-wbtv-crimen&ads.n32=channel_corp&ads.v32=Warner%20Brothers%20Discovery&ads.n33=channel_rating&ads.v33=TV-PG&ads.n34=app_name&ads.v34=&ads.n35=content_custom_3_param&ads.v35=channel&ads.n36=content_livestream&ads.v36=1&ads.n37=channel_genre&ads.v37=En%20Espanol&ads.n38=w&ads.v38=1920&ads.n39=pos&ads.v39=midroll&ads.n40=cust_devicename&ads.v40=desktop_web&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=content_custom_1_param&ads.v42=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n43=device_make&ads.v43=&ads.n44=app_version&ads.v44=0.0.0&ads.n45=ip&ads.v45=193.228.206.147&ads.n46=channel_language&ads.v46=en&ads.n47=content_custom_2_param&ads.v47=AMDB013587&ads.n48=channel_title&ads.v48=Crimen&ads.n49=did&ads.v49=&ads.n50=content_producer_name&ads.v50=Warner%20Brothers%20Discovery&ads.n51=channel_id&ads.v51=6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B&ads.n52=network_name&ads.v52=crimen-de-wbtv-crimen&ads.n53=ifa_type&ads.v53=&ads.n54=dnt&ads.v54=&ads.n55=channel_ext_id&ads.v55=&ads.n56=device_model&ads.v56=&ads.n57=channel_company_id&ads.v57=AMDP500559&ads.n58=h&ads.v58=1080
 #EXTINF:-1 tvg-id="ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/destination-america-us.png" group-title="Lifestyle",Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="ustv-037691f3-c5f8-4d03-85bf-f0b099febe65" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-channel-us.png" group-title="Documentaries",Discovery Channel
-https://tvpass.org/live/DiscoveryChannelEast/sd
-#EXTINF:-1 tvg-id="ustv-f4ce7266-386e-4563-872e-21576026999a" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-family-us.png" group-title="Kids",Discovery Family
-https://tvpass.org/live/DiscoveryFamily/sd
-#EXTINF:-1 tvg-id="ustv-652e0700-d2c2-41b9-8e22-46a1e1ed9ea7" tvg-name="Discovery Life" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-life-us.png" group-title="Lifestyle",Discovery Life
-https://tvpass.org/live/DiscoveryLife/sd
-#EXTINF:-1 tvg-id="ustv-0119400b-71ba-42e0-a381-f77d42c861dd" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-channel-us.png" group-title="Kids",Disney Channel
-https://tvpass.org/live/DisneyChannelEast/sd
-#EXTINF:-1 tvg-id="ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-jr-us.png" group-title="Kids",Disney Jr
-https://tvpass.org/live/DisneyJuniorEast/sd
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-xd-us.png" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="ustv-65dacef4-2e0a-4a86-9963-21870425c42b" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/e-entertainment-television-us.png" group-title="Entertainment",E! Entertainment Television
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="ustv-c9877c01-4a16-4361-a570-91de33741b62" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espn-us.png" group-title="Sports",ESPN
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espn-2-us.png" group-title="Sports",ESPN 2
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="ustv-907e51ed-d969-4777-9930-bcdd094b3dd1" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espn-deportes-us.png" group-title="Latino",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id="ustv-330863a7-5ac0-4bc7-91bb-544166ccdb76" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espnews-us.png" group-title="Sports",ESPNews
-https://tvpass.org/live/ESPNews/sd
 #EXTINF:-1 tvg-id="ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d" tvg-name="EstrellaTV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/estrella-tv-us.png" group-title="Latino",EstrellaTV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991746/hls/xumo.m3u8?includeAssetTags=true&ads.xumo_channelId=99991746&ads._fw_ifa_type=&ads._fw_did=c87d24c9-34f1-49e5-b4b1-ac98fd424fd0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=EstrellaTV&ads.csid=xumo_web_EstrellaTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2488&ads.xumo_contentName=EstrellaTV&ads.xumo_providerId=2488&ads.xumo_providerName=EstrellaTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991746&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-id="ustv-ae009881-1735-44e6-a236-1718b3619075" tvg-name="FanDuel Detroit" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-detroit-us.png" group-title="Sports",FanDuel Detroit
-https://tvpass.org/live/fanduel-sports-network-west/sd
-#EXTINF:-1 tvg-id="ustv-b170b018-4a32-4d7e-adc8-d398fb2728b1" tvg-name="FanDuel Florida" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-florida-us.png" group-title="Sports",FanDuel Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
-#EXTINF:-1 tvg-id="ustv-338a5ad6-a8f7-48ea-891b-f99aac2af8d5" tvg-name="FanDuel Great Lakes" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-great-lakes-us.png" group-title="Sports",FanDuel Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-#EXTINF:-1 tvg-id="ustv-f417b011-04a1-4550-938f-a01a41c9081b" tvg-name="FanDuel Indiana" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-indiana-us.png" group-title="Sports",FanDuel Indiana
-https://tvpass.org/live/fanduel-sports-indiana/sd
-#EXTINF:-1 tvg-id="ustv-4b491567-e3d2-4bfa-86d3-ff66a9bc1733" tvg-name="FanDuel North" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-north-us.png" group-title="Sports",FanDuel North
-https://tvpass.org/live/fanduel-sports-network-north/sd
-#EXTINF:-1 tvg-id="ustv-b618f030-f60c-40e1-8921-eddd01d472aa" tvg-name="FanDuel Ohio" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-ohio-us.png" group-title="Sports",FanDuel Ohio
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-#EXTINF:-1 tvg-id="ustv-73a47e8e-4255-4d64-8c53-9dee29f549aa" tvg-name="FanDuel Oklahoma" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-oklahoma-us.png" group-title="Sports",FanDuel Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-#EXTINF:-1 tvg-id="ustv-89cd83e7-7a65-4230-b47a-2cd7059180ce" tvg-name="FanDuel SoCal" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-socal-us.png" group-title="Sports",FanDuel SoCal
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-#EXTINF:-1 tvg-id="ustv-aa3a4de8-47c0-4555-8a00-56900526861a" tvg-name="FanDuel South" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-south-us.png" group-title="Sports",FanDuel South
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-#EXTINF:-1 tvg-id="ustv-72dd7fb6-bbfc-4516-9d11-4da9ab465967" tvg-name="FanDuel Southeast" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-southeast-us.png" group-title="Sports",FanDuel Southeast
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-#EXTINF:-1 tvg-id="ustv-feca898f-bb29-4d16-862c-22679a6d8bac" tvg-name="FanDuel Sun" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-sun-us.png" group-title="Sports",FanDuel Sun
-https://tvpass.org/live/fanduel-sports-sun/sd
-#EXTINF:-1 tvg-id="ustv-e3491658-9784-448c-962e-f94f644d4d89" tvg-name="FanDuel Wisconsin" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-wisconsin-us.png" group-title="Sports",FanDuel Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id="ustv-70687cd8-11aa-4782-a303-eb43b01bb413" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/food-network-us.png" group-title="Lifestyle",Food Network
-https://tvpass.org/live/FoodNetworkEast/sd
-#EXTINF:-1 tvg-id="ustv-461a32d9-7e0a-4112-a194-3c819af43da8" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-business-us.png" group-title="News",Fox Business
-https://tvpass.org/live/FoxBusiness/sd
 #EXTINF:-1 tvg-id="ustv-7041e64c-37e3-430e-9a09-f4cf7d8c56de" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-news-us.png" group-title="News",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-us.png" group-title="Sports",Fox Sports
-https://dbrb49pjoymg4.cloudfront.net/10001/99991196/hls/xumo.m3u8?ads.xumo_channelId=99991196&ads._fw_ifa_type=&ads._fw_did=73a30ddc-bce9-451e-8b36-69fca20932d1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxSports&ads.csid=xumo_web_FoxSports_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=142&ads.xumo_contentName=FoxSports&ads.xumo_providerId=142&ads.xumo_providerName=FoxSports&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991196&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+https://s11host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host1.localnow.api.cms.amdvids.com&ads.playbackid=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n4=content_name&ads.v4=FOX%20Sports&ads.n21=network_name&ads.v21=fox-sports&ads.n22=channel_language&ads.v22=en&ads.n23=app_store_url&ads.v23=&ads.n24=gpp_sid&ads.v24=&ads.n25=did&ads.v25=&ads.n26=channel_title&ads.v26=FOX%20Sports&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_ext_id&ads.v29=&ads.n30=content_livestream&ads.v30=1&ads.n31=pos&ads.v31=midroll&ads.n32=channel_id&ads.v32=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=content_custom_2_param&ads.v34=AMDB013655&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_name&ads.v36=FOX%20Sports&ads.n37=content_provider&ads.v37=fox-sports&ads.n38=device_make&ads.v38=&ads.n39=app_bundle&ads.v39=&ads.n40=channel_corp&ads.v40=Fox%20News%20Network&ads.n41=gpp&ads.v41=&ads.n42=content_custom_1_param&ads.v42=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=w&ads.v44=1920&ads.n45=app_name&ads.v45=&ads.n46=dnt&ads.v46=&ads.n47=content_producer_name&ads.v47=Fox%20News%20Network&ads.n48=content_custom_3_param&ads.v48=channel&ads.n49=content_type&ads.v49=channel&ads.n50=app_version&ads.v50=0.0.0&ads.n51=ip&ads.v51=193.228.206.147&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=device_type&ads.v53=&ads.n54=channel_brand_id&ads.v54=AMDB013655&ads.n55=h&ads.v55=1080&ads.n56=ifa_type&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=channel_genre&ads.v58=New%20on%20Local%20Now
 #EXTINF:-1 tvg-id="ustv-981759cb-046d-4bbd-8f46-319a6b3d654b" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-weather-us.png" group-title="News",Fox Weather
 https://dtqutq7lmcchv.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=ef58dbda-67a9-425b-8912-7080927065e0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-id="ustv-fd690365-5819-4319-9fa8-df82fe22933a" tvg-name="Freeform" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/freeform-us.png" group-title="Entertainment",Freeform
-https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="ustv-3a01ed05-44c1-4c7a-aaff-4775c515d702" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-1-us.png" group-title="Sports",FS1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="ustv-17909d85-030e-4152-9de5-9e3d7143c41d" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-2-us.png" group-title="Sports",FS2
-https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-id="ustv-950f4f62-ed89-4d64-8628-da23099489fc" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fuse-us.png" group-title="Music",Fuse
-https://tvpass.org/live/FuseEast/sd
 #EXTINF:-1 tvg-id="ustv-74728d74-03df-4c60-b3b7-69f1dfc4d8e7" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fx-us.png" group-title="Entertainment",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="ustv-d468ed11-c030-418f-93a0-e77b8bf2bc75" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fx-movie-channel-us.png" group-title="Entertainment",FX Movie Channel
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/e1074d51-e146-4054-af60-8179449c237c/36-90-1020.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n4=content_name&ads.v4=Free%20Movies%20Plus&ads.n21=network_name&ads.v21=free-movies-plus&ads.n22=channel_genre&ads.v22=Entertainment&ads.n23=channel_brand_id&ads.v23=AMDB013395&ads.n24=gpp&ads.v24=&ads.n25=w&ads.v25=1920&ads.n26=device_type&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=app_name&ads.v28=&ads.n29=app_store_url&ads.v29=&ads.n30=channel_ext_id&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=channel_id&ads.v32=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n33=channel_company_id&ads.v33=AMDP500517&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=ifa_type&ads.v35=&ads.n36=cust_devicename&ads.v36=desktop_web&ads.n37=channel_name&ads.v37=Free%20Movies%20Plus&ads.n38=channel_corp&ads.v38=OTT%20Studio%20LLC.&ads.n39=app_version&ads.v39=0.0.0&ads.n40=app_bundle&ads.v40=&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=content_producer_name&ads.v42=OTT%20Studio%20LLC.&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=content_custom_2_param&ads.v44=AMDB013395&ads.n45=device_model&ads.v45=&ads.n46=gpp_sid&ads.v46=&ads.n47=did&ads.v47=&ads.n48=content_type&ads.v48=channel&ads.n49=channel_language&ads.v49=en&ads.n50=dnt&ads.v50=&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=content_provider&ads.v53=free-movies-plus&ads.n54=ip&ads.v54=193.228.206.147&ads.n55=pos&ads.v55=midroll&ads.n56=content_custom_1_param&ads.v56=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n57=channel_title&ads.v57=Free%20Movies%20Plus&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-id="ustv-a42663ac-2326-4b28-a7c6-989a27ba5bd6" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fxx-us.png" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="ustv-6eec683c-03c1-4044-b4a6-adbc130ca543" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fyi-us.png" group-title="Lifestyle",FYI
-https://tvpass.org/live/FYIEast/sd
-#EXTINF:-1 tvg-id="ustv-f0fb7e11-56cf-4595-ab32-e357143f2591" tvg-name="Game Show Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/game-show-network-us.png" group-title="Entertainment",Game Show Network
-https://tvpass.org/live/game-show-network-east/sd
 #EXTINF:-1 tvg-id="ustv-e8b03c04-555a-4137-83f2-ff65522c36de" tvg-name="Gol TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/gol-tv-us.png" group-title="Sports",Gol TV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1 tvg-id="ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/golf-channel-us.png" group-title="Sports",Golf Channel
-https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-id="ustv-e38c3908-7c73-4bc5-bac6-fba8ce88a33b" tvg-name="Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-channel-us.png" group-title="Entertainment",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="ustv-10e7eb8b-7d12-4d6c-94b3-a2d94fe9b828" tvg-name="Hallmark Family" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-family-us.png" group-title="Entertainment",Hallmark Family
-https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 tvg-id="ustv-126c1af6-b39c-4d79-8ba9-e50857f08772" tvg-name="Hallmark Mystery" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-mystery-us.png" group-title="Entertainment",Hallmark Mystery
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 #EXTINF:-1 tvg-id="ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-us.png" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-2-us.png" group-title="Premium",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="ustv-3cdaf265-f0d7-414e-957e-7ccac07818aa" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-comedy-us.png" group-title="Premium",HBO Comedy
-https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="ustv-3a857a03-51e5-4bed-a796-c0785663280c" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-family-us.png" group-title="Premium",HBO Family
-https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="ustv-04137863-2391-4ec8-8e4d-d82946162ee1" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-signature-us.png" group-title="Premium",HBO Signature
-https://tvpass.org/live/HBOSignatureEast/sd
 #EXTINF:-1 tvg-id="ustv-d387c6d4-31c5-467f-afc4-891326b3c1ca" tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-zone-us.png" group-title="Premium",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="ustv-c929c60f-9dc1-415a-8a7e-cc34256b2c87" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hgtv-us.png" group-title="Lifestyle",HGTV
-https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 tvg-id="ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/history-us.png" group-title="Documentaries",History
-https://tvpass.org/live/HistoryEast/sd
 #EXTINF:-1 tvg-id="ustv-536bce9a-2f3c-465d-9a85-79041802bdd9" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hln-us.png" group-title="News",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ifc-us.png" group-title="Entertainment",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1 tvg-id="ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e" tvg-name="Investigation Discovery " tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/investigation-discovery-us.png" group-title="Documentaries",Investigation Discovery 
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
 #EXTINF:-1 tvg-id="ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d" tvg-name="Ion" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-television-us.png" group-title="Entertainment",Ion
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158&ads._fw_ifa_type=&ads._fw_did=ff31765b-98f2-46bc-b8e5-969d5c61fc52&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951158&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081" tvg-name="Ion Mystery" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-mystery-us.png" group-title="Entertainment",Ion Mystery
 https://dtqutq7lmcchv.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157&ads._fw_ifa_type=&ads._fw_did=d62f44bb-6350-4142-b934-7cac6220f187&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsIONMystery&ads.csid=xumo_web_ScrippsIONMystery_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3803&ads.xumo_contentName=ScrippsIONMystery&ads.xumo_providerId=3803&ads.xumo_providerName=ScrippsIONMystery&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951157&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-id="ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/lifetime-us.png" group-title="Entertainment",Lifetime
-https://tvpass.org/live/LifetimeEast/sd
 #EXTINF:-1 tvg-id="ustv-7a1ff7dc-27ec-4028-82ae-7999aea0bb66" tvg-name="Lifetime Movie Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/lifetime-movie-network-us.png" group-title="Entertainment",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-id="ustv-87c6ef8e-58eb-41d9-b636-6936a65b8033" tvg-name="Marquee Sports Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/marquee-sports-network-us.png" group-title="Sports",Marquee Sports Network
-https://tvpass.org/live/marquee-sports-network/sd
-#EXTINF:-1 tvg-id="ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3" tvg-name="MeTV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/metv-us.png" group-title="Entertainment",MeTV
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id="ustv-d3b8fac9-8b97-485f-8592-853deacfe460" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/me-tv-toons-us.png" group-title="Kids",MeTV Toons
-https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="ustv-b5e845d0-a157-4cab-9e1f-8917064067ec" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mlb-network-us.png" group-title="Sports",MLB Network
-https://tvpass.org/live/MLBNetwork/sd
+https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-fc10fb05-17c3-466d-b178-8d39e39f4be9" tvg-name="MoreMax" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-thrillermax-us.png" group-title="Premium",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="ustv-8d6341a1-c636-4317-a69b-2604f2a0fb7b" tvg-name="MotorTrend" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/motor-trend-us.png" group-title="Documentaries",MotorTrend
-https://tvpass.org/live/Motortrend/sd
 #EXTINF:-1 tvg-id="ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msg-us.png" group-title="Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-id="ustv-758c5103-3ae7-481b-b06a-105367095900" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msnbc-us.png" group-title="News",MSNBC
-https://tvpass.org/live/MSNBC/sd
 #EXTINF:-1 tvg-id="ustv-7ff076f8-51df-4b5e-9a61-d3896b534034" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-us.png" group-title="Music",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="ustv-f66d9981-63b5-4f56-ac63-1ca78a4c32ca" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-2-us.png" group-title="Music",MTV2
-https://tvpass.org/live/mtv-2-east/sd
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="ustv-c42b1f0f-8927-4927-83ec-260e771ef140" tvg-name="National Geographic " tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-us.png" group-title="Documentaries",National Geographic 
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8" tvg-name="National Geographic  Wild" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-wild-us.png" group-title="Documentaries",National Geographic  Wild
@@ -221,104 +95,50 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=83b0d798-ec29-41a9-b051-b2586bb02872&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-05bb54a8-395c-4c03-ab4e-30fef9e0a532" tvg-name="NBC Sports Bay Area" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-bay-area-us.png" group-title="Sports",NBC Sports Bay Area
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843&ads.afid=348208856&ads.sfid=17135549&ads.csid=xumo_web_NBCNBA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_vcid2=512116:e4c535fc-1075-4cfc-bba5-4a2c6bb2e477&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3822&ads.xumo_contentName=NBCNBA&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA&ads.channelId=99951162&ads._fw_ifa_type=
-#EXTINF:-1 tvg-id="ustv-cf43e372-261c-4fb9-8ca0-819586bbd944" tvg-name="NBC Sports Boston" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-boston-us.png" group-title="Sports",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-id="ustv-a59579be-1483-4ed2-bc61-f67d736c1080" tvg-name="NBC Sports California" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-california-us.png" group-title="Sports",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/sd
-#EXTINF:-1 tvg-id="ustv-b2d3d015-d6b5-4bfe-9f64-b00a6636ef5e" tvg-name="NBC Sports Philadelphia" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/sd
-#EXTINF:-1 tvg-id="ustv-928b8fbc-84ec-404e-a4a6-e05bcc74203d" tvg-name="NESN" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nesn-us.png" group-title="Sports",NESN
-https://tvpass.org/live/new-england-sports-network/sd
 #EXTINF:-1 tvg-id="ustv-49442e6f-fc9c-423f-8bea-eacf19b54745" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/newsmax-us.png" group-title="News",Newsmax
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/hls/live/2020471/Live_1/index.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925&ads.n4=content_name&ads.v4=Newsmax%202&ads.n21=cust_devicename&ads.v21=desktop_web&ads.n22=device_make&ads.v22=&ads.n23=device_model&ads.v23=&ads.n24=dnt&ads.v24=&ads.n25=app_name&ads.v25=&ads.n26=gpp_sid&ads.v26=&ads.n27=app_version&ads.v27=0.0.0&ads.n28=app_store_url&ads.v28=&ads.n29=ip&ads.v29=193.228.206.147&ads.n30=device_type&ads.v30=&ads.n31=content_livestream&ads.v31=1&ads.n32=content_custom_1_param&ads.v32=12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925&ads.n33=channel_genre&ads.v33=News&ads.n34=ifa_type&ads.v34=&ads.n35=pos&ads.v35=midroll&ads.n36=channel_ext_id&ads.v36=606f8fe60f7a8a12a27f8242&ads.n37=w&ads.v37=1920&ads.n38=channel_brand_id&ads.v38=AMDB012082&ads.n39=channel_language&ads.v39=en&ads.n40=channel_id&ads.v40=12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925&ads.n41=channel_name&ads.v41=Newsmax%202&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=channel_title&ads.v43=Newsmax%202&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=content_custom_2_param&ads.v45=AMDB012082&ads.n46=gpp&ads.v46=&ads.n47=network_name&ads.v47=newsmax&ads.n48=content_type&ads.v48=channel&ads.n49=h&ads.v49=1080&ads.n50=channel_corp&ads.v50=Newsmax%20Broadcasting%20LLC&ads.n51=content_producer_name&ads.v51=Newsmax%20Broadcasting%20LLC&ads.n52=content_provider&ads.v52=newsmax&ads.n53=app_bundle&ads.v53=&ads.n54=did&ads.v54=&ads.n55=us_privacy&ads.v55=1YNY&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=channel_company_id&ads.v57=AMDP500144&ads.n58=content_custom_3_param&ads.v58=channel
 #EXTINF:-1 tvg-id="ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nfl-network-us.png" group-title="Sports",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ustv-85afd380-e307-4bb3-a1b2-6901b6c0451a" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nfl-redzone-us.png" group-title="Sports",NFL RedZone
-https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-id="ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nhl-network-us.png" group-title="Sports",NHL Network
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="ustv-7a8bd02a-c334-450d-a7f8-64263a64757f" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-jr-us.png" group-title="Kids",Nick Jr
-https://tvpass.org/live/NickJrEast/sd
+https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-us.png" group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nicktoons-us.png" group-title="Kids",Nicktoons
-https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1 tvg-id="ustv-c57b8324-9749-46ee-ba76-1b2c90983c05" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/oprah-winfrey-network-us.png" group-title="Lifestyle",Oprah Winfrey Network (OWN)
-https://tvpass.org/live/OWNEast/sd
 #EXTINF:-1 tvg-id="ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/outdoor-channel-us.png" group-title="Lifestyle",Outdoor Channel
-https://tvpass.org/live/OutdoorChannel/sd
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-32be7b7a-a095-4888-868b-61873bd031a8" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/oxygen-true-crime-us.png" group-title="Entertainment",Oxygen True Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?ads.xumo_channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=2bab65c9-1fa8-4309-86ad-f3d39ef663d1&ads._fw_vcid2=512116:2bab65c9-1fa8-4309-86ad-f3d39ef663d1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.channelId=99951466&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="ustv-733c0b85-264f-4135-b615-5930efa84351" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/paramount-network-us.png" group-title="Entertainment",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ustv-2efafb96-d9f0-4d3f-a962-0afac0464062" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-kids-us.png" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-4dda960c-6461-4d4c-8879-96a76d62d31a" tvg-name="Pursuit " tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pursuit-us.png" group-title="Sports",Pursuit 
 https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648&ads._fw_ifa_type=&ads._fw_did=c1931e0a-0ec9-4171-8cbe-1da17718a751&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=pursuitchannel&ads.csid=xumo_web_pursuitchannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2727&ads.xumo_contentName=PursuitChannel&ads.xumo_providerId=2727&ads.xumo_providerName=PursuitChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991648&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/qvc-us.png" group-title="Lifestyle",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="ustv-5a100578-58ff-4adb-86b0-0efb6de977c1" tvg-name="Racer Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/racer-network-us.png" group-title="Sports",Racer Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="ustv-b22f899b-e232-4944-8843-9aa91b5337e5" tvg-name="Reelz" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/reelz-us.png" group-title="Entertainment",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-id="ustv-844255ca-6732-4e58-8340-88bfef9976f5" tvg-name="Revolt" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/revolt-us.png" group-title="Music",Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-#EXTINF:-1 tvg-id="ustv-7b303fb9-9bde-4b7d-8adf-5c336e32aff7" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/science-channel-us.png" group-title="Documentaries",Science Channel
-https://tvpass.org/live/Science/sd
 #EXTINF:-1 tvg-id="ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sec-network-us.png" group-title="Sports",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/showtime-us.png" group-title="Premium",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ustv-1a0c22cc-2069-4ac7-b65d-bb0f33a7d81b" tvg-name="Showtime 2" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/showtime-2-us.png" group-title="Premium",Showtime 2
-https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 tvg-id="ustv-af5fde41-f852-49eb-88a2-8dccd97f0a2c" tvg-name="Spectrum SportsNet" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/spectrum-sportsnet-us.png" group-title="Sports",Spectrum SportsNet
-https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-id="ustv-e44e18a9-3e8c-4a89-8561-54c3e672f25f" tvg-name="Spectrum SportsNet LA" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/spectrum-sportsnet-la-us.png" group-title="Sports",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id="ustv-11e39cd9-89df-49d3-922e-b984ac4667a6" tvg-name="SportsNet New York" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sportsnet-new-york-us.png" group-title="Sports",SportsNet New York
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-id="ustv-6e46064a-6d5c-4e5c-bfec-c90e9f67230a" tvg-name="SportsNet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sportsnet-pittsburgh-us.png" group-title="Sports",SportsNet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 tvg-id="ustv-19ee8cb3-7955-4b33-adce-7041f61359d0" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-us.png" group-title="Premium",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="ustv-a6ec637e-f2fc-4674-a652-0fef6d77674c" tvg-name="Starz Cinema" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-cinema-us.png" group-title="Premium",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ustv-568b3305-05c6-48d3-a100-9213583ea0d5" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-comedy-us.png" group-title="Premium",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="ustv-05b926f2-1b92-4328-a60f-960ffa0ae974" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sundance-tv-us.png" group-title="Entertainment",Sundance TV
-https://tvpass.org/live/SundanceTVEast/sd
 #EXTINF:-1 tvg-id="ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/syfy-us.png" group-title="Entertainment",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="ustv-3e8788a9-bd9f-4dc2-966b-7d4533174493" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tbs-us.png" group-title="Entertainment",TBS
-https://tvpass.org/live/TBSEast/sd
-#EXTINF:-1 tvg-id="ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tcm-us.png" group-title="Entertainment",TCM
-https://tvpass.org/live/TCMEast/sd
-#EXTINF:-1 tvg-id="ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png" group-title="Kids",TeenNick
-https://tvpass.org/live/TeenNickEast/sd
 #EXTINF:-1 tvg-id="ustv-4be8a414-bc79-41cf-95cd-45a57687b296" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/telemundo-us.png" group-title="Latino",Telemundo
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tennis-channel-us.png" group-title="Sports",Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
-#EXTINF:-1 tvg-id="ustv-ec8f6972-4c67-4943-b48b-51795ca34b8c" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/the-weather-channel-us.png" group-title="News",The Weather Channel
-https://tvpass.org/live/TheWeatherChannel/sd
-#EXTINF:-1 tvg-id="ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tlc-us.png" group-title="Lifestyle",TLC
-https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 tvg-id="ustv-cf1724d6-153f-4c0d-982f-1332de7f2632" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tnt-us.png" group-title="Entertainment",TNT
-https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="ustv-992a0e3f-3b94-428a-951b-d91e33c1b7bc" tvg-name="Toonami Aftermath (East)" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/toonami-aftermath.png" group-title="Kids",Toonami Aftermath (East)
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-id="ustv-c952f45e-73ae-4615-9cae-128749091758" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png" group-title="Lifestyle",Travel Channel
-https://tvpass.org/live/TravelChannelEast/sd
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-228ceb43-26cc-47b9-a454-a0650d373c63" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/trutv-us.png" group-title="Entertainment",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="ustv-8a206fc3-e87d-4283-a502-f186d596ff93" tvg-name="TV Land" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-land-us.png" group-title="Entertainment",TV Land
-https://tvpass.org/live/tv-land-eastern/sd
-#EXTINF:-1 tvg-id="ustv-ca653ee3-196b-4c32-b204-dd0d4849deea" tvg-name="TV One" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-one-us.png" group-title="Entertainment",TV One
-https://tvpass.org/live/TVOne/sd
-#EXTINF:-1 tvg-id="ustv-c0424f2d-a2d1-4d65-9843-26e913cd0f9f" tvg-name="Universal Kids" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/universal-kids-us.png" group-title="Kids",Universal Kids
-https://tvpass.org/live/UniversalKidsEast/sd
-#EXTINF:-1 tvg-id="ustv-2d475b96-9351-4049-83e3-f0c164fe63cf" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/univision-us.png" group-title="Latino",Univision
-https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="ustv-e05984d6-82d8-4b9a-8955-6462b58e9241" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/usa-network-us.png" group-title="Entertainment",USA Network
-https://tvpass.org/live/USANetworkEast/sd
 #EXTINF:-1 tvg-id="ustv-90079556-db40-4744-ba02-3336c9179ad5" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vh1-us.png" group-title="Music",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8" tvg-name="Vice TV" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vice-tv-us.png" group-title="Entertainment",Vice TV
