@@ -3170,6 +3170,15 @@
       "poster": "https://canvas-lb.tubitv.com/opts/cMalDW-Z-wT0Nw==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjlAAQ=="
     },
     {
+      "id": "ustv-3076f6a1-cf75-4ced-9bc9-6c4a6eefb604",
+      "type": "tv",
+      "name": "Watch AEW",
+      "genres": [
+        "Sports"
+      ],
+      "poster": "https://canvas-lb.tubitv.com/opts/yeAV3-c2XWfYzw==/e9cd4624-20d8-421b-b5ed-282769cf2f57/CHgQeDoFMS4xLjlAAQ=="
+    },
+    {
       "id": "ustv-ffd5fc4a-de30-4416-a234-71cf57bb3c10",
       "type": "tv",
       "name": "Waypoint TV",
