@@ -29,11 +29,19 @@ def get_sha(path):
     except:
         return None
 
+def is_tubi(s):
+    name = s.get("name", "")
+    desc = s.get("description", "")
+    url = s.get("url", "")
+    return name == "Tubi" or desc == "TB" or "tubi" in url.lower()
+
 def is_clean_stream(s):
     url = s.get("url", "")
     if not url:
         return False
     if "tvpass" in url.lower():
+        return False
+    if is_tubi(s):
         return False
     if any(p in url for p in BAD_URL_PATTERNS):
         return False
@@ -43,7 +51,7 @@ print("Fetching your catalog ...")
 cat_url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/catalog/tv/all.json"
 cat_file = api_get(cat_url)
 your_metas = json.loads(base64.b64decode(cat_file["content"]).decode()).get("metas", [])
-your_name_to_id = {m.get("name", "").lower().strip(): m["id"] for m in your_metas}
+your_existing_names = set(m.get("name", "").lower().strip() for m in your_metas)
 
 print("Fetching your stream files ...")
 your_stream_files = api_get("https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/stream/tv")
@@ -61,6 +69,7 @@ orig_stream_map = {f["name"].replace(".json", ""): f for f in orig_stream_files}
 updated = 0
 skipped = 0
 
+# ONLY update streams for channels you already have - never add new ones (prevents Tubi re-add)
 for your_m in your_metas:
     your_id = your_m["id"]
     name = your_m.get("name", "").lower().strip()
