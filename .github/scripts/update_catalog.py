@@ -19,7 +19,7 @@ HEADERS = {
 PINNED = ["abc", "cbs", "cw", "fox", "nbc", "pbs"]
 EXCLUDE_GROUPS = ["movie", "movies", "film", "films", "cinema", "vod", "radio", "podcast", "audio", "xxx", "adult", "18+"]
 
-PLAYLISTS = []  # disabled - no auto-adding channels
+PLAYLISTS = []  # disabled - no auto-adding channels  # disabled - no auto-adding channels
 
 def api_get(url):
     req = urllib.request.Request(url, headers=HEADERS)
