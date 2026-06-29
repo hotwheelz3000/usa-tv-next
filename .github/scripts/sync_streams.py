@@ -23,6 +23,13 @@ def api_get(url):
     with urllib.request.urlopen(req) as r:
         return json.loads(r.read().decode())
 
+def api_post(url, data):
+    body = json.dumps(data).encode()
+    req = urllib.request.Request(url, data=body, headers=HEADERS, method="POST")
+    req.add_header("Content-Type", "application/json")
+    with urllib.request.urlopen(req) as r:
+        return json.loads(r.read().decode())
+
 def get_sha(path):
     try:
         return api_get("https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/" + path).get("sha")
@@ -47,11 +54,18 @@ def is_clean_stream(s):
         return False
     return True
 
+def channel_is_tubi(streams):
+    # a channel is Tubi if ALL its streams are Tubi
+    if not streams:
+        return False
+    return all(is_tubi(s) for s in streams)
+
 print("Fetching your catalog ...")
 cat_url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/catalog/tv/all.json"
 cat_file = api_get(cat_url)
+cat_sha = cat_file["sha"]
 your_metas = json.loads(base64.b64decode(cat_file["content"]).decode()).get("metas", [])
-your_existing_names = set(m.get("name", "").lower().strip() for m in your_metas)
+your_name_set = set(m.get("name", "").lower().strip() for m in your_metas)
 
 print("Fetching your stream files ...")
 your_stream_files = api_get("https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/stream/tv")
@@ -60,63 +74,119 @@ your_stream_map = {f["name"].replace(".json", ""): f for f in your_stream_files}
 print("Fetching original catalog ...")
 orig_cat = api_get("https://api.github.com/repos/" + ORIGINAL_OWNER + "/" + ORIGINAL_REPO + "/contents/catalog/tv/all.json")
 orig_metas = json.loads(base64.b64decode(orig_cat["content"]).decode()).get("metas", [])
-orig_name_to_id = {m.get("name", "").lower().strip(): m["id"] for m in orig_metas}
 
 print("Fetching original stream files ...")
 orig_stream_files = api_get("https://api.github.com/repos/" + ORIGINAL_OWNER + "/" + ORIGINAL_REPO + "/contents/stream/tv")
 orig_stream_map = {f["name"].replace(".json", ""): f for f in orig_stream_files}
 
+print("Fetching original meta files ...")
+orig_meta_files = api_get("https://api.github.com/repos/" + ORIGINAL_OWNER + "/" + ORIGINAL_REPO + "/contents/meta/tv")
+orig_meta_map = {f["name"].replace(".json", ""): f for f in orig_meta_files}
+
+orig_name_to_id = {m.get("name", "").lower().strip(): m["id"] for m in orig_metas}
+
 updated = 0
+added = 0
 skipped = 0
+new_catalog_entries = []
 
-# ONLY update streams for channels you already have - never add new ones (prevents Tubi re-add)
-for your_m in your_metas:
-    your_id = your_m["id"]
-    name = your_m.get("name", "").lower().strip()
+for orig_m in orig_metas:
+    name = orig_m.get("name", "").lower().strip()
+    orig_id = orig_m["id"]
 
-    orig_id = orig_name_to_id.get(name)
-    if not orig_id or orig_id not in orig_stream_map:
+    if orig_id not in orig_stream_map:
         skipped += 1
         continue
 
     try:
         orig = api_get(orig_stream_map[orig_id]["url"])
         orig_content = json.loads(base64.b64decode(orig["content"]).decode())
-        new_clean = [s for s in orig_content.get("streams", []) if is_clean_stream(s)]
+        orig_streams = orig_content.get("streams", [])
 
+        # skip if this is a Tubi channel
+        if channel_is_tubi(orig_streams):
+            skipped += 1
+            continue
+
+        new_clean = [s for s in orig_streams if is_clean_stream(s)]
         if not new_clean:
             skipped += 1
             continue
 
-        if your_id in your_stream_map:
-            your = api_get(your_stream_map[your_id]["url"])
-            your_content = json.loads(base64.b64decode(your["content"]).decode())
-            your_urls = set(s.get("url", "") for s in your_content.get("streams", []))
-            added = [s for s in new_clean if s.get("url", "") not in your_urls]
-            if not added:
+        if name in your_name_set:
+            # existing channel - update streams
+            your_id = orig_name_to_id.get(name)
+            matching = [m for m in your_metas if m.get("name","").lower().strip() == name]
+            if not matching:
                 skipped += 1
                 continue
-            merged = your_content.get("streams", []) + added
-            sha = your_stream_map[your_id]["sha"]
+            your_id = matching[0]["id"]
+            if your_id in your_stream_map:
+                your = api_get(your_stream_map[your_id]["url"])
+                your_content = json.loads(base64.b64decode(your["content"]).decode())
+                your_urls = set(s.get("url", "") for s in your_content.get("streams", []))
+                add_streams = [s for s in new_clean if s.get("url", "") not in your_urls]
+                if not add_streams:
+                    skipped += 1
+                    continue
+                merged = your_content.get("streams", []) + add_streams
+                sha = your_stream_map[your_id]["sha"]
+            else:
+                merged = new_clean
+                sha = None
+            encoded = base64.b64encode(json.dumps({"streams": merged}, indent=2).encode()).decode()
+            url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/stream/tv/" + your_id + ".json"
+            data = {"message": "sync streams: " + orig_m["name"], "content": encoded}
+            if sha:
+                data["sha"] = sha
+            body = json.dumps(data).encode()
+            req = urllib.request.Request(url, data=body, headers=HEADERS, method="PUT")
+            req.add_header("Content-Type", "application/json")
+            urllib.request.urlopen(req)
+            updated += 1
+            time.sleep(0.3)
         else:
-            merged = new_clean
-            sha = None
+            # new non-Tubi channel - add it
+            encoded = base64.b64encode(json.dumps({"streams": new_clean}, indent=2).encode()).decode()
+            url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/stream/tv/" + orig_id + ".json"
+            data = {"message": "add new channel: " + orig_m["name"], "content": encoded}
+            body = json.dumps(data).encode()
+            req = urllib.request.Request(url, data=body, headers=HEADERS, method="PUT")
+            req.add_header("Content-Type", "application/json")
+            urllib.request.urlopen(req)
 
-        encoded = base64.b64encode(json.dumps({"streams": merged}, indent=2).encode()).decode()
-        url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/stream/tv/" + your_id + ".json"
-        data = {"message": "sync streams: " + your_m["name"], "content": encoded}
-        if sha:
-            data["sha"] = sha
-        body = json.dumps(data).encode()
-        req = urllib.request.Request(url, data=body, headers=HEADERS, method="PUT")
-        req.add_header("Content-Type", "application/json")
-        urllib.request.urlopen(req)
-        updated += 1
-        print("Updated: " + your_m["name"])
-        time.sleep(0.3)
+            # copy meta file
+            if orig_id in orig_meta_map:
+                meta = api_get(orig_meta_map[orig_id]["url"])
+                meta_content = base64.b64decode(meta["content"]).decode()
+                encoded_meta = base64.b64encode(meta_content.encode()).decode()
+                meta_url = "https://api.github.com/repos/" + OWNER + "/" + REPO + "/contents/meta/tv/" + orig_id + ".json"
+                data = {"message": "add meta: " + orig_m["name"], "content": encoded_meta}
+                body = json.dumps(data).encode()
+                req = urllib.request.Request(meta_url, data=body, headers=HEADERS, method="PUT")
+                req.add_header("Content-Type", "application/json")
+                urllib.request.urlopen(req)
+
+            new_catalog_entries.append(orig_m)
+            added += 1
+            print("Added new channel: " + orig_m["name"])
+            time.sleep(0.3)
 
     except Exception as e:
-        print("Error: " + str(e))
+        print("Error on " + orig_m.get("name", orig_id) + ": " + str(e))
+
+# update catalog with new channels
+if new_catalog_entries:
+    cat_file = api_get(cat_url)
+    cat_sha = cat_file["sha"]
+    your_metas = json.loads(base64.b64decode(cat_file["content"]).decode()).get("metas", [])
+    your_metas.extend(new_catalog_entries)
+    encoded = base64.b64encode(json.dumps({"metas": your_metas}, indent=2).encode()).decode()
+    data = {"message": "add " + str(len(new_catalog_entries)) + " new channels to catalog", "content": encoded, "sha": cat_sha}
+    body = json.dumps(data).encode()
+    req = urllib.request.Request(cat_url, data=body, headers=HEADERS, method="PUT")
+    req.add_header("Content-Type", "application/json")
+    urllib.request.urlopen(req)
 
 # regenerate m3u
 print("Regenerating m3u ...")
@@ -160,4 +230,5 @@ req.add_header("Content-Type", "application/json")
 urllib.request.urlopen(req)
 print("M3U updated!")
 print("Streams synced: " + str(updated))
+print("New channels added: " + str(added))
 print("Skipped: " + str(skipped))
