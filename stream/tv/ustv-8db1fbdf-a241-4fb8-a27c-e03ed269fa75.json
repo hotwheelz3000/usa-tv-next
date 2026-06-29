@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -17,7 +17,7 @@
       "description": "HV:BLOOMBERG"
     },
     {
-      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+      "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
