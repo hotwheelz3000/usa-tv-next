@@ -1,12 +1,20 @@
 {
   "streams": [
     {
-      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "PBS (FHD)",
+      "description": "ST"
+    },
+    {
+      "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "PBS (HD)",
-      "description": "HV:2-FSS-1"
+      "description": "HV:2-FSS-2"
     },
     {
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
@@ -25,12 +33,12 @@
       "description": "HV:2-FSS-1"
     },
     {
-      "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
+      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "PBS (HD)",
-      "description": "HV:2-FSS-2"
+      "description": "HV:2-FSS-1"
     },
     {
       "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
@@ -38,14 +46,6 @@
         "notWebReady": true
       },
       "name": "PBS (HD)",
-      "description": "ST"
-    },
-    {
-      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "PBS (FHD)",
       "description": "ST"
     }
   ]
