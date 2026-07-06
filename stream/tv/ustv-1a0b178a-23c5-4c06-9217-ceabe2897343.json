@@ -9,14 +9,6 @@
       "description": "HV:CONTENT"
     },
     {
-      "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "ABC (HD)",
-      "description": "HV:ABCNEWS-STRE"
-    },
-    {
       "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -26,6 +18,14 @@
     },
     {
       "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "ABC (HD)",
+      "description": "HV:ABCNEWS-STRE"
+    },
+    {
+      "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
