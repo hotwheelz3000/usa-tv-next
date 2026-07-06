@@ -1,60 +1,12 @@
 {
   "streams": [
     {
-      "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:CBSN-MIA"
-    },
-    {
-      "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:CBSN-DET"
-    },
-    {
-      "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:CBSN-DEN"
-    },
-    {
-      "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:CBSN-PIT"
-    },
-    {
-      "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:DAI"
-    },
-    {
       "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "CBS (HD)",
       "description": "HV:CBSN-US"
-    },
-    {
-      "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:CBSN-DAL"
     },
     {
       "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
@@ -73,6 +25,14 @@
       "description": "HV:CBSN-CHI"
     },
     {
+      "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:CBSN-DEN"
+    },
+    {
       "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -81,23 +41,39 @@
       "description": "HV:CBSN-LA"
     },
     {
-      "url": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8",
+      "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "CBS (HD)",
-      "description": "HV:DAI"
+      "description": "HV:CBSN-MIA"
+    },
+    {
+      "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:CBSN-PIT"
+    },
+    {
+      "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:CBSN-DET"
+    },
+    {
+      "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:CBSN-DAL"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "CBS (HD)",
-      "description": "HV:DAI"
-    },
-    {
-      "url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -110,6 +86,30 @@
         "notWebReady": true
       },
       "name": "CBS (FHD)",
+      "description": "HV:DAI"
+    },
+    {
+      "url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:DAI"
+    },
+    {
+      "url": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
+      "description": "HV:DAI"
+    },
+    {
+      "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "CBS (HD)",
       "description": "HV:DAI"
     }
   ]
