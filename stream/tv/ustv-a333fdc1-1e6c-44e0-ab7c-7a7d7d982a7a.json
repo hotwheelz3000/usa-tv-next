@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "QVC (HD)",
       "description": "HV:QVC-AMD-LIVE"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "QVC (HD)",
       "description": "HV:QVC-AMD-LIVE"
     }
   ]

@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "PBS (HD)",
       "description": "HV:2-FSS-1"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "PBS (HD)",
       "description": "HV:2-FSS-2"
     },
     {
@@ -21,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "PBS (HD)",
       "description": "HV:2-FSS-1"
     },
     {
@@ -29,7 +29,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "PBS (HD)",
       "description": "HV:2-FSS-2"
     },
     {
@@ -37,7 +37,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "PBS (HD)",
       "description": "ST"
     },
     {
@@ -45,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "PBS (FHD)",
       "description": "ST"
     }
   ]

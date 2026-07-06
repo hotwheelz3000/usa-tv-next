@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "beIN Sports XTRA (FHD)",
       "description": "XM"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "beIN Sports XTRA (FHD)",
       "description": "HV:JMP2"
     },
     {
@@ -21,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "beIN Sports XTRA (FHD)",
       "description": "HV:JMP2"
     }
   ]

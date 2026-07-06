@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "EstrellaTV (FHD)",
       "description": "XM"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "EstrellaTV (FHD)",
       "description": "HV:ESTRELLATV-G"
     }
   ]

@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "AWE (FHD)",
       "description": "HV:AWEENCORE-VI"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "AWE (HD)",
       "description": "HV:A-CDN"
     },
     {
@@ -21,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "AWE (HD)",
       "description": "LN"
     }
   ]

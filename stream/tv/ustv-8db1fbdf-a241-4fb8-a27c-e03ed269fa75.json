@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "Bloomberg TV (HD)",
       "description": "HV:BLOOMBERG"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "Bloomberg TV (HD)",
       "description": "HV:BLOOMBERG"
     },
     {
@@ -21,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "Bloomberg TV (FHD)",
       "description": "HV:BLOOMBERG"
     }
   ]

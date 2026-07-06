@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "HD",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-MIA"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-DET"
     },
     {
@@ -21,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-DEN"
     },
     {
@@ -29,7 +29,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-PIT"
     },
     {
@@ -37,7 +37,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:DAI"
     },
     {
@@ -45,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-US"
     },
     {
@@ -53,7 +53,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-DAL"
     },
     {
@@ -61,7 +61,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-BOS"
     },
     {
@@ -69,7 +69,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-CHI"
     },
     {
@@ -77,7 +77,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:CBSN-LA"
     },
     {
@@ -85,7 +85,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:DAI"
     },
     {
@@ -93,7 +93,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:DAI"
     },
     {
@@ -101,7 +101,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
+      "name": "CBS (HD)",
       "description": "HV:DAI"
     },
     {
@@ -109,7 +109,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
+      "name": "CBS (FHD)",
       "description": "HV:DAI"
     }
   ]
