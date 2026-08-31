@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ustv-1a0b178a-23c5-4c06-9217-ceabe2897343" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/abc-us.png" group-title="Local",ABC
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 tvg-id="ustv-95d0df98-c758-46e4-af07-5b69dc1c3758" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/cbs-us.png" group-title="Local",CBS
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ustv-4b227650-ac64-4e72-abeb-37c3be65e1df" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/pbs-us.png" group-title="Local",PBS
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-acba8f14-043f-48b2-a179-85c501e7d6a1" tvg-name="5StarMax" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/cinemax-5-starmax-us.png" group-title="Premium",5StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="ustv-17671b7d-f8ae-4724-8c7a-15de81021d82" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/amc-us.png" group-title="Entertainment",AMC
@@ -12,15 +12,15 @@ https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ustv-f60b61af-2484-4d52-956c-db6ba4a06d76" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/animal-planet-us.png" group-title="Documentaries",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="ustv-deb78ced-e347-4c56-b029-f42298fe9920" tvg-name="AWE" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/awe-us.png" group-title="Lifestyle",AWE
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-65290745-c96e-4be8-a3e0-815712ffdc02" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/bbc-news-us.png" group-title="News",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.channelId=99951298&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=:eff1be3e-98af-4057-9a25-8db7fa879e43&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a" tvg-name="beIN Sports XTRA " tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/bein-sports-xtra-us.png" group-title="Sports",beIN Sports XTRA 
-https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=0&us_privacy=
+https://jmp2.uk/stvp-USAJ4300001Q7
 #EXTINF:-1 tvg-id="ustv-0710a105-0285-4ad7-ad52-57b74b7b4436" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/big-ten-network-us.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/bloomberg-us.png" group-title="News",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 tvg-id="ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/boomerang-us.png" group-title="Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647" tvg-name="Bounce" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/bounce-us.png" group-title="Entertainment",Bounce
@@ -52,7 +52,7 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/fox-sports-us.png" group-title="Sports",Fox Sports
 https://s11host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host1.localnow.api.cms.amdvids.com&ads.playbackid=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n4=content_name&ads.v4=FOX%20Sports&ads.n21=network_name&ads.v21=fox-sports&ads.n22=channel_language&ads.v22=en&ads.n23=app_store_url&ads.v23=&ads.n24=gpp_sid&ads.v24=&ads.n25=did&ads.v25=&ads.n26=channel_title&ads.v26=FOX%20Sports&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_ext_id&ads.v29=&ads.n30=content_livestream&ads.v30=1&ads.n31=pos&ads.v31=midroll&ads.n32=channel_id&ads.v32=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=content_custom_2_param&ads.v34=AMDB013655&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_name&ads.v36=FOX%20Sports&ads.n37=content_provider&ads.v37=fox-sports&ads.n38=device_make&ads.v38=&ads.n39=app_bundle&ads.v39=&ads.n40=channel_corp&ads.v40=Fox%20News%20Network&ads.n41=gpp&ads.v41=&ads.n42=content_custom_1_param&ads.v42=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=w&ads.v44=1920&ads.n45=app_name&ads.v45=&ads.n46=dnt&ads.v46=&ads.n47=content_producer_name&ads.v47=Fox%20News%20Network&ads.n48=content_custom_3_param&ads.v48=channel&ads.n49=content_type&ads.v49=channel&ads.n50=app_version&ads.v50=0.0.0&ads.n51=ip&ads.v51=193.228.206.147&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=device_type&ads.v53=&ads.n54=channel_brand_id&ads.v54=AMDB013655&ads.n55=h&ads.v55=1080&ads.n56=ifa_type&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=channel_genre&ads.v58=New%20on%20Local%20Now
 #EXTINF:-1 tvg-id="ustv-981759cb-046d-4bbd-8f46-319a6b3d654b" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/fox-weather-us.png" group-title="News",Fox Weather
-https://dtqutq7lmcchv.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=ef58dbda-67a9-425b-8912-7080927065e0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="ustv-74728d74-03df-4c60-b3b7-69f1dfc4d8e7" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/fx-us.png" group-title="Entertainment",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="ustv-d468ed11-c030-418f-93a0-e77b8bf2bc75" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/fx-movie-channel-us.png" group-title="Entertainment",FX Movie Channel
@@ -84,7 +84,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/msg-us.png" group-title="Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="ustv-7ff076f8-51df-4b5e-9a61-d3896b534034" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/mtv-us.png" group-title="Music",MTV
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="ustv-c42b1f0f-8927-4927-83ec-260e771ef140" tvg-name="National Geographic " tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/national-geographic-us.png" group-title="Documentaries",National Geographic 
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8" tvg-name="National Geographic  Wild" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/national-geographic-wild-us.png" group-title="Documentaries",National Geographic  Wild
@@ -110,7 +110,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-4dda960c-6461-4d4c-8879-96a76d62d31a" tvg-name="Pursuit " tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/pursuit-us.png" group-title="Sports",Pursuit 
 https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648&ads._fw_ifa_type=&ads._fw_did=c1931e0a-0ec9-4171-8cbe-1da17718a751&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=pursuitchannel&ads.csid=xumo_web_pursuitchannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2727&ads.xumo_contentName=PursuitChannel&ads.xumo_providerId=2727&ads.xumo_providerName=PursuitChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991648&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/qvc-us.png" group-title="Lifestyle",QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="ustv-5a100578-58ff-4adb-86b0-0efb6de977c1" tvg-name="Racer Network" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/racer-network-us.png" group-title="Sports",Racer Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="ustv-b22f899b-e232-4944-8843-9aa91b5337e5" tvg-name="Reelz" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/reelz-us.png" group-title="Entertainment",Reelz
@@ -132,7 +132,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ustv-4be8a414-bc79-41cf-95cd-45a57687b296" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/telemundo-us.png" group-title="Latino",Telemundo
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="ustv-992a0e3f-3b94-428a-951b-d91e33c1b7bc" tvg-name="Toonami Aftermath (East)" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/toonami-aftermath.png" group-title="Kids",Toonami Aftermath (East)
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-id="ustv-228ceb43-26cc-47b9-a454-a0650d373c63" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/trutv-us.png" group-title="Entertainment",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-id="ustv-90079556-db40-4744-ba02-3336c9179ad5" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/hotwheelz3000/usa-tv-next/main/public/posters/usa/vh1-us.png" group-title="Music",VH1
