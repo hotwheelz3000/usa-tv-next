@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+      "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "ST"
     },
     {
-      "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+      "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
