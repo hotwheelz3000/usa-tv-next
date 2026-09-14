@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "HV:QVC-AMD-LIVE"
     },
     {
-      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8",
+      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
