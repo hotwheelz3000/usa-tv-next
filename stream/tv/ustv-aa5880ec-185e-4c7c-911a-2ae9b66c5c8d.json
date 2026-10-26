@@ -15,6 +15,30 @@
       },
       "name": "EstrellaTV (FHD)",
       "description": "HV:ESTRELLATV-G"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-tablo/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "https://jmp2.uk/rok-91dff2b8a62b5fe1bdf64de721032cba.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:CDN-UW2-PROD"
     }
   ]
 }
