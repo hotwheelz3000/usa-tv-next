@@ -1,12 +1,20 @@
 {
   "streams": [
     {
-      "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "MTV (FHD)",
-      "description": "HV:23"
+      "name": "SD",
+      "description": "HV:CFD-V4-SERVI"
+    },
+    {
+      "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     },
     {
       "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
@@ -17,60 +25,12 @@
       "description": "MJE"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28",
+      "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
-      "description": "HV:CFD-V4-SERVI"
-    },
-    {
-      "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:LIVE"
-    },
-    {
-      "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://ipcloud.live/mtv/menhd/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:IPCLOUD"
-    },
-    {
-      "url": "http://38.224.175.2:8000/play/a087/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:38"
-    },
-    {
-      "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
+      "name": "MTV (FHD)",
+      "description": "HV:23"
     },
     {
       "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8",
@@ -89,12 +49,20 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
       "description": "HV:CFD-V4-SERVI"
+    },
+    {
+      "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8",
@@ -105,7 +73,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
+      "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -121,7 +89,7 @@
       "description": "HV:SHD-GCP-LIVE"
     },
     {
-      "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8",
+      "url": "https://jmp2.uk/stvp-CHAJ700010NR",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -129,12 +97,44 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-CHAJ700010NR",
+      "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://ipcloud.live/mtv/menhd/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:IPCLOUD"
+    },
+    {
+      "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:LIVE"
+    },
+    {
+      "url": "http://38.224.175.2:8000/play/a087/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:38"
     }
   ]
 }
