@@ -7,6 +7,14 @@
       },
       "name": "Animal Planet (FHD)",
       "description": "HV:23"
+    },
+    {
+      "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:VODZONG"
     }
   ]
 }
