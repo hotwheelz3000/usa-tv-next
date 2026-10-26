@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "http://23.237.104.106:8080/USA_ACCN/mpegts",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:23"
+    }
+  ]
+}
