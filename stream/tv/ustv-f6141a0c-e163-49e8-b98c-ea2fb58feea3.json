@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8",
+      "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8",
+      "url": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
