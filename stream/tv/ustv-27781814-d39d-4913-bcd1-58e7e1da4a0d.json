@@ -9,20 +9,20 @@
       "description": "HV:WURLRAINBOWM"
     },
     {
-      "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "MSG (FHD)",
-      "description": "MJE"
-    },
-    {
       "url": "https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
       "description": "HV:D2A31KZOT4F8"
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "MSG (FHD)",
+      "description": "MJE"
     }
   ]
 }
