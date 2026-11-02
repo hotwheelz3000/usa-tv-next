@@ -63,6 +63,14 @@
       },
       "name": "SD",
       "description": "HV:38"
+    },
+    {
+      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:A201AIVOTTLI"
     }
   ]
 }
