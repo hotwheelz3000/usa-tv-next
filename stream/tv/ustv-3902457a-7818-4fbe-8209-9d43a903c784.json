@@ -9,6 +9,14 @@
       "description": "HV:181"
     },
     {
+      "url": "https://amg01438-amg01438c37-vizio-us-10912.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippswxmi-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTA3ODcyNn0",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:AMG01438-AMG"
+    },
+    {
       "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -17,7 +25,15 @@
       "description": "HV:FOX-FOXNEWSN"
     },
     {
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM4MX0",
+      "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:92"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM3OX0",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -33,15 +49,7 @@
       "description": "HV:STREAM"
     },
     {
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1NH0",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:CDN-UW2-PROD"
-    },
-    {
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM3OX0",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM4MX0",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -57,12 +65,28 @@
       "description": "HV:CDN-UW2-PROD"
     },
     {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1NH0",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:CDN-UW2-PROD"
+    },
+    {
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1Nn0",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "Audio",
       "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     },
     {
       "url": "https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8",
@@ -79,30 +103,6 @@
       },
       "name": "Audio",
       "description": "HV:CDN-UE1-PROD"
-    },
-    {
-      "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:92"
-    },
-    {
-      "url": "https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://amg01438-amg01438c37-vizio-us-10912.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippswxmi-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTA3ODcyNn0",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:AMG01438-AMG"
     }
   ]
 }
