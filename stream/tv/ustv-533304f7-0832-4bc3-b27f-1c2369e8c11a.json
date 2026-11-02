@@ -23,6 +23,22 @@
       },
       "name": "beIN Sports XTRA (FHD)",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-CABA8000043F",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:CDN-UE1-PROD"
     }
   ]
 }
