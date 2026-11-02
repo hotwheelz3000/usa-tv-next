@@ -15,6 +15,14 @@
       },
       "name": "FHD",
       "description": "HV:VODZONG"
+    },
+    {
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:D1G8WGJURZ8V"
     }
   ]
 }
