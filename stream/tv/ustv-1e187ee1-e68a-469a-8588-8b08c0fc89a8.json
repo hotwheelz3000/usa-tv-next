@@ -7,6 +7,14 @@
       },
       "name": "Vice TV (FHD)",
       "description": "MJE"
+    },
+    {
+      "url": "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:VICETV-VICEF"
     }
   ]
 }
