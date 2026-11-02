@@ -1,15 +1,15 @@
 {
   "streams": [
     {
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+      "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Audio",
-      "description": "HV:CDN-UE1-PROD"
+      "name": "SD",
+      "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
+      "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -25,12 +25,12 @@
       "description": "HV:CDN-UW2-PROD"
     },
     {
-      "url": "https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
-      "description": "HV:JMP2"
+      "name": "Audio",
+      "description": "HV:CDN-UE1-PROD"
     },
     {
       "url": "https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8",
@@ -49,14 +49,6 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -65,7 +57,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-ATBA2200008XN",
+      "url": "https://jmp2.uk/stvp-CHBA22000080G",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -73,7 +65,15 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-CHBA22000080G",
+      "url": "https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ATBA2200008XN",
       "behaviorHints": {
         "notWebReady": true
       },
