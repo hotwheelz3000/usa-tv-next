@@ -31,6 +31,46 @@
       },
       "name": "SD",
       "description": "HV:TVSEN6"
+    },
+    {
+      "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:N18SYNDICATI"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-GBBD3600001NO",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-INBD1300007ST",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-INBD1300008ZY",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-INBD2500015H5",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
     }
   ]
 }
