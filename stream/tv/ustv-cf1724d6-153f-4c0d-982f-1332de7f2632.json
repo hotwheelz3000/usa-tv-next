@@ -15,6 +15,30 @@
       },
       "name": "FHD",
       "description": "HV:38"
+    },
+    {
+      "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:190"
+    },
+    {
+      "url": "http://181.78.79.131:8000/play/a0mo",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:181"
+    },
+    {
+      "url": "http://181.78.79.131:8000/play/a0q9",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:181"
     }
   ]
 }
