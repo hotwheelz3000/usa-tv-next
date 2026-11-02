@@ -1,20 +1,20 @@
 {
   "streams": [
     {
-      "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Reelz (HD)",
-      "description": "MJE"
-    },
-    {
       "url": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Reelz (HD)",
+      "description": "MJE"
     }
   ]
 }
