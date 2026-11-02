@@ -1,6 +1,14 @@
 {
   "streams": [
     {
+      "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8?wowzasessionid=@iprtlk",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:AMG01448-SAM"
+    },
+    {
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -9,12 +17,28 @@
       "description": "WB"
     },
     {
+      "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODcyODA5N30",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:AMG01918-CNN"
+    },
+    {
       "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "Audio",
       "description": "HV:AMG01448-SAM"
+    },
+    {
+      "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:N18SYNDICATI"
     },
     {
       "url": "https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8",
@@ -49,6 +73,46 @@
       "description": "HV:JMP2"
     },
     {
+      "url": "http://tvpremiumhd.club/lista-gratuita/green/cnn.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:TVPREMIUMHD"
+    },
+    {
+      "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-INBD1300009QZ",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-DEBD800001S4",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-CHBD800001D0",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
       "url": "http://tunein.streamguys1.com/cnn-new",
       "behaviorHints": {
         "notWebReady": true
@@ -71,70 +135,6 @@
       },
       "name": "SD",
       "description": "HV:38"
-    },
-    {
-      "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODcyODA5N30",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:AMG01918-CNN"
-    },
-    {
-      "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8?wowzasessionid=@iprtlk",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:AMG01448-SAM"
-    },
-    {
-      "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:N18SYNDICATI"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-CHBD800001D0",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-DEBD800001S4",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-INBD1300009QZ",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "http://tvpremiumhd.club/lista-gratuita/green/cnn.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "HV:TVPREMIUMHD"
     }
   ]
 }
