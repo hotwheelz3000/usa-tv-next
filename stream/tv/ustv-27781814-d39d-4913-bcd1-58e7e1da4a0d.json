@@ -15,6 +15,14 @@
       },
       "name": "MSG (FHD)",
       "description": "MJE"
+    },
+    {
+      "url": "https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:D2A31KZOT4F8"
     }
   ]
 }
