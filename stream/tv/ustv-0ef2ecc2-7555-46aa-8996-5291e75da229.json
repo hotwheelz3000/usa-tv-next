@@ -23,6 +23,14 @@
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }
