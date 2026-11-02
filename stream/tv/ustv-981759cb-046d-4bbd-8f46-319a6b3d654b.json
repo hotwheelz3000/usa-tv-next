@@ -31,6 +31,14 @@
       },
       "name": "Audio",
       "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }
