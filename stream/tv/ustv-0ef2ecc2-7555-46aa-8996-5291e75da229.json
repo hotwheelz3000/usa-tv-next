@@ -17,7 +17,7 @@
       "description": "HV:DBRB49PJOYMG"
     },
     {
-      "url": "https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8",
+      "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -25,7 +25,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
+      "url": "https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
