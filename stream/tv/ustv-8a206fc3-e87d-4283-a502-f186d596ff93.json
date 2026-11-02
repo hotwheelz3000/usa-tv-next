@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/stvp-USBB3500002FL",
       "behaviorHints": {
         "notWebReady": true
@@ -18,6 +10,14 @@
     },
     {
       "url": "https://jmp2.uk/stvp-USBA300019WF",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
