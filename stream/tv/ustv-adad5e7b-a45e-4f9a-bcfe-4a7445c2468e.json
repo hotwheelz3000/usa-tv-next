@@ -9,7 +9,7 @@
       "description": "HV:92"
     },
     {
-      "url": "https://jmp2.uk/stvp-ATAJ700004UZ",
+      "url": "https://jmp2.uk/stvp-DEAJ700004BT",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -25,7 +25,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-DEAJ700004BT",
+      "url": "https://jmp2.uk/stvp-ATAJ700004UZ",
       "behaviorHints": {
         "notWebReady": true
       },
