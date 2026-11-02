@@ -17,7 +17,7 @@
       "description": "HV:38"
     },
     {
-      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowzasessionid=@iprtlk",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -25,7 +25,7 @@
       "description": "HV:D1G8WGJURZ8V"
     },
     {
-      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowzasessionid=@iprtlk",
       "behaviorHints": {
         "notWebReady": true
       },
