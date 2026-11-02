@@ -7,6 +7,14 @@
       },
       "name": "FHD",
       "description": "HV:181"
+    },
+    {
+      "url": "http://190.61.47.54:8000/play/a005/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:190"
     }
   ]
 }
