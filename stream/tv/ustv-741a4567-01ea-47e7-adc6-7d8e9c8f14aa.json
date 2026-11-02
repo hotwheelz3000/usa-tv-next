@@ -55,6 +55,70 @@
       },
       "name": "SD",
       "description": "HV:D1SI3N1ST4NK"
+    },
+    {
+      "url": "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:AMG01942-AMG"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-CAAJ2700011IF",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ESBC400003YM",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-GBBB1500004LG",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ITBC4000028E",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-USBB40000028E",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }
