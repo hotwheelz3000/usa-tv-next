@@ -7,6 +7,14 @@
       },
       "name": "Reelz (HD)",
       "description": "MJE"
+    },
+    {
+      "url": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }
