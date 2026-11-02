@@ -1109,6 +1109,31 @@
       ]
     },
     {
+      "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811",
+      "tvgId": "",
+      "name": "Crime + Investigation",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Documentaries",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/crime-and-investigation-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/crime-and-investigation-us.png",
+      "genres": [
+        "Documentaries"
+      ],
+      "streams": [
+        {
+          "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
+        }
+      ]
+    },
+    {
       "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe",
       "tvgId": "",
       "name": "Destination America",
@@ -2172,6 +2197,31 @@
       ]
     },
     {
+      "id": "ustv-f66d9981-63b5-4f56-ac63-1ca78a4c32ca",
+      "tvgId": null,
+      "name": "MTV2",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Music",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/mtv-2-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-2-us.png",
+      "genres": [
+        "Music"
+      ],
+      "streams": [
+        {
+          "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:198"
+        }
+      ]
+    },
+    {
       "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140",
       "tvgId": "",
       "name": "National Geographic ",
@@ -2627,6 +2677,31 @@
       "streams": []
     },
     {
+      "id": "ustv-05b926f2-1b92-4328-a60f-960ffa0ae974",
+      "tvgId": "",
+      "name": "Sundance TV",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sundance-tv-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sundance-tv-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://92.114.85.87:8003/play/a004/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
+        }
+      ]
+    },
+    {
       "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b",
       "tvgId": "",
       "name": "SYFY",
@@ -2705,6 +2780,63 @@
           },
           "name": "SD",
           "description": "HV:181"
+        }
+      ]
+    },
+    {
+      "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
+      "tvgId": "",
+      "name": "TeenNick",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Kids",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/teennick-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png",
+      "genres": [
+        "Kids"
+      ],
+      "streams": [
+        {
+          "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-ATAJ700004UZ",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-CHAJ700004GX",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-DEAJ700004BT",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
@@ -2840,6 +2972,31 @@
       "streams": []
     },
     {
+      "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
+      "tvgId": "",
+      "name": "Travel Channel",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/travel-channel-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
+        }
+      ]
+    },
+    {
       "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63",
       "tvgId": "",
       "name": "TruTV",
@@ -2854,6 +3011,63 @@
         "Entertainment"
       ],
       "streams": []
+    },
+    {
+      "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93",
+      "tvgId": "",
+      "name": "TV Land",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tv-land-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-land-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=455&terminate=false&userId=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-USBB3500002FL",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-USBA300019WF",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        }
+      ]
     },
     {
       "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea",
@@ -2910,6 +3124,31 @@
           },
           "name": "FHD",
           "description": "HV:SSAI"
+        }
+      ]
+    },
+    {
+      "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
+      "tvgId": "",
+      "name": "USA Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/usa-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/usa-network-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/USA/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:138"
         }
       ]
     },
@@ -2985,245 +3224,6 @@
         "Sports"
       ],
       "streams": []
-    },
-    {
-      "id": "ustv-05b926f2-1b92-4328-a60f-960ffa0ae974",
-      "tvgId": "",
-      "name": "Sundance TV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sundance-tv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sundance-tv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "http://92.114.85.87:8003/play/a004/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:92"
-        }
-      ]
-    },
-    {
-      "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93",
-      "tvgId": "",
-      "name": "TV Land",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tv-land-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-land-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=455&terminate=false&userId=",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:SERVICE-STIT"
-        },
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:SERVICE-STIT"
-        },
-        {
-          "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-USBB3500002FL",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-USBA300019WF",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        }
-      ]
-    },
-    {
-      "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
-      "tvgId": "",
-      "name": "USA Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/usa-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/usa-network-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "http://138.121.15.230:9002/USA/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:138"
-        }
-      ]
-    },
-    {
-      "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
-      "tvgId": "",
-      "name": "Travel Channel",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/travel-channel-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": [
-        {
-          "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:92"
-        }
-      ]
-    },
-    {
-      "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
-      "tvgId": "",
-      "name": "TeenNick",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/teennick-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:SERVICE-STIT"
-        },
-        {
-          "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:92"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-ATAJ700004UZ",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-CHAJ700004GX",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-DEAJ700004BT",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        }
-      ]
-    },
-    {
-      "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811",
-      "tvgId": "",
-      "name": "Crime + Investigation",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Documentaries",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/crime-and-investigation-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/crime-and-investigation-us.png",
-      "genres": [
-        "Documentaries"
-      ],
-      "streams": [
-        {
-          "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:92"
-        }
-      ]
-    },
-    {
-      "id": "ustv-f66d9981-63b5-4f56-ac63-1ca78a4c32ca",
-      "tvgId": null,
-      "name": "MTV2",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Music",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/mtv-2-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-2-us.png",
-      "genres": [
-        "Music"
-      ],
-      "streams": [
-        {
-          "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:198"
-        }
-      ]
     }
   ]
 }
