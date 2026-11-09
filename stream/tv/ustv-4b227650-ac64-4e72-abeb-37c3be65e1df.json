@@ -95,6 +95,30 @@
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-ih-6316.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:KVIEDT2"
+    },
+    {
+      "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:WEDQDT4"
     }
   ]
 }
