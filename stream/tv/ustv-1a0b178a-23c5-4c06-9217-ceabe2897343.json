@@ -183,6 +183,462 @@
       },
       "name": "HD",
       "description": "HV:STREAM"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_newcastle.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_brokenhill.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_centralcoast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_centralwest.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_coffscoast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_illawarra.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_midnorthcoast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_newengland.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northcoast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_riverina.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_southeastnsw.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_upperhunter.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_westernplains.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-mid-north-coast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_ballarat.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_centralvic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_gippsland.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_goulburnmurray.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_milduraswanhill.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_shepparton.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_southwestvic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_westernvic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_goldcoast.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_capricornia.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_farnorth.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northqld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northwest.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_southqld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_sunshine.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_westqld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_widebay.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_esperance.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_goldfields.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_greatsouthern.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_kimberley.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_wheatbelt.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northwestwa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_southwestwa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northandwest.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_riverland.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_southeastsa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_eyre.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_alicesprings.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-local_northtas.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-classic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-jazz.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-country.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-grandstand.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-kidslisten.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-itinerant_one.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-itinerant_two.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-itinerant_three.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-itinerant_four.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-abcsportsync.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/radio-abc-abc_afl_rapid.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:I"
+    },
+    {
+      "url": "https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01942-AMG"
+    },
+    {
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:CFD-V4-SERVI"
     }
   ]
 }
