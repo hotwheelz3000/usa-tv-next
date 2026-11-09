@@ -79,6 +79,14 @@
       },
       "name": "Audio",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
     }
   ]
 }
