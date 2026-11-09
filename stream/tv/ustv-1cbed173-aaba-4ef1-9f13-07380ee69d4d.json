@@ -71,6 +71,62 @@
       },
       "name": "SD",
       "description": "HV:38"
+    },
+    {
+      "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:88"
+    },
+    {
+      "url": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:88"
+    },
+    {
+      "url": "http://200.115.120.1:8000/play/ca038/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:200"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a001/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:158"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a02p/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:158"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a02q/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:158"
+    },
+    {
+      "url": "http://185.227.34.179:8080/hbo-3-hd/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:185"
     }
   ]
 }
