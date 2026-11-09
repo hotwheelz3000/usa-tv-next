@@ -103,6 +103,54 @@
       },
       "name": "HD",
       "description": "HV:190"
+    },
+    {
+      "url": "http://45.171.64.30:6060/play/a005/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:4de153a6-b429-4dd2-8f67-0f5df1c19c9d&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:D3PXO1QCGZXT"
+    },
+    {
+      "url": "https://amc-rushbyamc-1-us.tablo.wurl.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMC-RUSHBYAM"
+    },
+    {
+      "url": "http://200.115.120.1:8000/play/ca021/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:200"
+    },
+    {
+      "url": "http://200.115.120.1:8000/play/ca036/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:200"
+    },
+    {
+      "url": "https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMC-ABSOLUTE"
     }
   ]
 }
