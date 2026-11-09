@@ -135,6 +135,78 @@
       },
       "name": "SD",
       "description": "HV:38"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-GBBD8000016N",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ATBD800001VA",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:88"
+    },
+    {
+      "url": "http://200.115.120.1:8000/play/ca045/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:200"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a036/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:158"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a02c/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:158"
+    },
+    {
+      "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:N18SYNDICATI"
+    },
+    {
+      "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG00803-CNN"
+    },
+    {
+      "url": "http://85.117.61.84/cnnturk/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:85"
     }
   ]
 }
