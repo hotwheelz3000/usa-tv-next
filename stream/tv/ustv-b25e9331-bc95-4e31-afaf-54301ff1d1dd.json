@@ -15,6 +15,14 @@
       },
       "name": "Disney XD (HD)",
       "description": "HV:23"
+    },
+    {
+      "url": "https://kinowalk.hopto.org/disneyxd_live",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:KINOWALK"
     }
   ]
 }
