@@ -31,6 +31,14 @@
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8?ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc1M30",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:653DB23C"
     }
   ]
 }
