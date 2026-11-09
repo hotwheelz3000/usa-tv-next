@@ -71,6 +71,14 @@
       },
       "name": "Audio",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:N18SYNDICATI"
     }
   ]
 }
