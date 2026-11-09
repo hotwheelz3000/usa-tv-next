@@ -47,6 +47,30 @@
       },
       "name": "AWE (HD)",
       "description": "LN"
+    },
+    {
+      "url": "https://streams2.sofast.tv/ptnr-khabriya/title-AWEPlus_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7122edd2-f7d3-40df-a08b-0393a37bc589/playlist.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:STREAMS2"
+    },
+    {
+      "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:A-CDN"
+    },
+    {
+      "url": "https://amg00450-amg00450c4-tcl-us-3992.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG00450-AMG"
     }
   ]
 }
