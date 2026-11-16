@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FX (HD)",
-      "description": "MJE"
-    },
-    {
       "url": "http://158.172.217.18:8000/play/a006/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -23,6 +15,14 @@
       },
       "name": "SD",
       "description": "HV:45"
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FX (HD)",
+      "description": "MJE"
     }
   ]
 }
