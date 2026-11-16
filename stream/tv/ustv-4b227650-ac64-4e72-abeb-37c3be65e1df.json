@@ -119,6 +119,14 @@
       },
       "name": "FHD",
       "description": "HV:WEDQDT4"
+    },
+    {
+      "url": "https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG00953-PBS"
     }
   ]
 }
