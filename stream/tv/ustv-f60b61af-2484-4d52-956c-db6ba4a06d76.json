@@ -63,6 +63,38 @@
       },
       "name": "SD",
       "description": "HV:158"
+    },
+    {
+      "url": "http://213.91.179.28:8000/play/a05r",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:213"
+    },
+    {
+      "url": "https://stream8.cinerama.uz/1043/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:STREAM8"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a03i",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a05g",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     }
   ]
 }
