@@ -639,6 +639,70 @@
       },
       "name": "SD",
       "description": "HV:CFD-V4-SERVI"
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=52b8ba78cc6aa66f187f91e92fe8f52c",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:TVSEN6"
+    },
+    {
+      "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:AMG01942-AMG"
+    },
+    {
+      "url": "https://c.mjh.nz/abc-kids.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:C"
+    },
+    {
+      "url": "https://c.mjh.nz/abc-news.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:C"
+    },
+    {
+      "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01942-AMG"
+    },
+    {
+      "url": "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.net",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:CFD-V4-SERVI"
+    },
+    {
+      "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8?checkedby:iptvcat.net",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:TOWNNEWS"
     }
   ]
 }
