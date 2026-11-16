@@ -215,6 +215,14 @@
       },
       "name": "SD",
       "description": "HV:213"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:CDN-UW2-PROD"
     }
   ]
 }
