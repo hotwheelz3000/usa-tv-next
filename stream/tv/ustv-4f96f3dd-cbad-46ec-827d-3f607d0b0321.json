@@ -79,6 +79,46 @@
       },
       "name": "SD",
       "description": "HV:N18SYNDICATI"
+    },
+    {
+      "url": "https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01079-NBC"
+    },
+    {
+      "url": "https://amg01079-nbcuuk-amg01079c1-lg-pt-2035.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgpt/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01079-NBC"
+    },
+    {
+      "url": "https://amg01079-nbcuuk-amg01079c1-lg-es-2034.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lges/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01079-NBC"
+    },
+    {
+      "url": "https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01079-NBC"
+    },
+    {
+      "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AMG01079-NBC"
     }
   ]
 }
