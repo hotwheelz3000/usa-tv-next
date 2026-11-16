@@ -55,6 +55,30 @@
       },
       "name": "SD",
       "description": "HV:I"
+    },
+    {
+      "url": "https://stream8.cinerama.uz/1502/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:STREAM8"
+    },
+    {
+      "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:TVSEN5"
     }
   ]
 }
