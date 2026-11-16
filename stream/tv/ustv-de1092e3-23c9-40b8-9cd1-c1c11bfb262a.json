@@ -207,6 +207,70 @@
       },
       "name": "FHD",
       "description": "HV:85"
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:TVSEN6"
+    },
+    {
+      "url": "https://stream8.cinerama.uz/1259/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:STREAM8"
+    },
+    {
+      "url": "https://amg01918-cnnus-amg01918c2-firetv-us-10323.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:AMG01918-CNN"
+    },
+    {
+      "url": "http://31.43.191.125:8080/live/restream/restream/154946.ts",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:31"
+    },
+    {
+      "url": "http://31.43.191.125:8080/live/restream/restream/154948.ts",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:31"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgde/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105877.ts",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:PRIMEP2"
+    },
+    {
+      "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_CAT=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_GENERE=&AV_CONTENT_LENGTH=&AV_CONTENT_LANGUAGE=&AV_CONTENT_RATING=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&AVS_SSAIID=679228930f5a33333a0c4846&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7712",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:SSAI"
     }
   ]
 }
