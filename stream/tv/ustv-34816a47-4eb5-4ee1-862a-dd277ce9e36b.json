@@ -183,6 +183,38 @@
       },
       "name": "FHD",
       "description": "HV:STREAM8"
+    },
+    {
+      "url": "http://185.227.34.104/stream/117/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:185"
+    },
+    {
+      "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:XYKT-FIX"
+    },
+    {
+      "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:R"
     }
   ]
 }
