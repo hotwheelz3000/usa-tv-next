@@ -127,6 +127,30 @@
       },
       "name": "SD",
       "description": "HV:185"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a00h",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a00j",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a00l",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     }
   ]
 }
