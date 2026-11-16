@@ -1,28 +1,12 @@
 {
   "streams": [
     {
-      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+      "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "Bloomberg TV (HD)",
-      "description": "HV:BLOOMBERG"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "HV:BLOOMBERG"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Bloomberg TV (HD)",
-      "description": "HV:BLOOMBERG"
+      "name": "FHD",
+      "description": "HV:23"
     },
     {
       "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
@@ -41,12 +25,36 @@
       "description": "HV:DBRB49PJOYMG"
     },
     {
-      "url": "https://jmp2.uk/stvp-CHBA3300018TD",
+      "url": "https://jmp2.uk/stvp-FR1400004VF",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "FHD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:BLOOMBERG"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Bloomberg TV (HD)",
+      "description": "HV:BLOOMBERG"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Bloomberg TV (HD)",
+      "description": "HV:BLOOMBERG"
     },
     {
       "url": "https://jmp2.uk/stvp-ESBA3300024AJ",
@@ -57,12 +65,20 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-FR1400004VF",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "FHD",
-      "description": "HV:JMP2"
+      "name": "HD",
+      "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1784102539&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=f3fc3aaf7592e99b0e130d2c47373099",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:TVSEN6"
     },
     {
       "url": "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
@@ -73,31 +89,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-ATBA3300018K1",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-ITBA3300025F5",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
+      "url": "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -113,23 +105,7 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-GBBA3300033C2",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1784102539&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=f3fc3aaf7592e99b0e130d2c47373099",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:TVSEN6"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
+      "url": "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -145,7 +121,23 @@
       "description": "HV:JMP2"
     },
     {
+      "url": "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
       "url": "https://jmp2.uk/stvp-INBA5100021WP",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-CHBA3300018TD",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -158,6 +150,38 @@
         "notWebReady": true
       },
       "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "http://213.91.179.28:8000/play/a04m",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:213"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ATBA3300018K1",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-GBBA3300033C2",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ITBA3300025F5",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
       "description": "HV:JMP2"
     },
     {
@@ -199,30 +223,6 @@
       },
       "name": "FHD",
       "description": "HV:JMP2"
-    },
-    {
-      "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:23"
-    },
-    {
-      "url": "http://213.91.179.28:8000/play/a04m",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:213"
-    },
-    {
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "HD",
-      "description": "HV:CDN-UW2-PROD"
     }
   ]
 }
