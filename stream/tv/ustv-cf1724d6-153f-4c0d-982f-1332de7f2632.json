@@ -199,6 +199,54 @@
       },
       "name": "HD",
       "description": "HV:158"
+    },
+    {
+      "url": "http://205.235.6.29:8000/play/a104/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:205"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a01g",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a05w",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a018",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a016",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a06g",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     }
   ]
 }
