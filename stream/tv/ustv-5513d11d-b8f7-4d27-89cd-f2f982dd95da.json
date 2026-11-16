@@ -9,6 +9,14 @@
       "description": "HV:CFD-V4-SERVI"
     },
     {
+      "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:88"
+    },
+    {
       "url": "http://92.114.85.87:8013/play/a008/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -25,22 +33,6 @@
       "description": "HV:41"
     },
     {
-      "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:88"
-    },
-    {
-      "url": "https://stream8.cinerama.uz/1502/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:STREAM8"
-    },
-    {
       "url": "https://i.mjh.nz/.r/10-nicktoons-90s.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -49,20 +41,12 @@
       "description": "HV:I"
     },
     {
-      "url": "https://i.mjh.nz/.r/10-nicktoons.m3u8",
+      "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
-      "description": "HV:I"
-    },
-    {
-      "url": "https://stream8.cinerama.uz/1502/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:STREAM8"
+      "description": "HV:TVSEN5"
     },
     {
       "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
@@ -73,12 +57,28 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
+      "url": "https://stream8.cinerama.uz/1502/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:STREAM8"
+    },
+    {
+      "url": "https://stream8.cinerama.uz/1502/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:STREAM8"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10-nicktoons.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
-      "description": "HV:TVSEN5"
+      "description": "HV:I"
     }
   ]
 }
