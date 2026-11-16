@@ -359,6 +359,30 @@
       },
       "name": "SD",
       "description": "HV:XUMO-XUMOENT"
+    },
+    {
+      "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:AMG01942-AMG"
+    },
+    {
+      "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:XUMO-XUMOENT"
+    },
+    {
+      "url": "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:PLEX-XUMOENT"
     }
   ]
 }
