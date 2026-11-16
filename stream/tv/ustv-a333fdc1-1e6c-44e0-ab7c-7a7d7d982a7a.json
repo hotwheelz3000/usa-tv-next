@@ -1,6 +1,14 @@
 {
   "streams": [
     {
+      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "QVC (HD)",
+      "description": "HV:QVC-AMD-LIVE"
+    },
+    {
       "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -9,12 +17,12 @@
       "description": "HV:QVC-AMD-LIVE"
     },
     {
-      "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8",
+      "url": "https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8?ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc1M30",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "QVC (HD)",
-      "description": "HV:QVC-AMD-LIVE"
+      "name": "SD",
+      "description": "HV:653DB23C"
     },
     {
       "url": "https://jmp2.uk/rok-89388f7d7bf2910da37d47fa897096bd.m3u8",
@@ -31,14 +39,6 @@
       },
       "name": "SD",
       "description": "HV:JMP2"
-    },
-    {
-      "url": "https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8?ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc1M30",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:653DB23C"
     }
   ]
 }
