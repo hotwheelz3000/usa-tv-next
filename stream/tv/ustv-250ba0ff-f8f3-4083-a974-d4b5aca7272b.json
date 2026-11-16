@@ -17,14 +17,6 @@
       "description": "HV:190"
     },
     {
-      "url": "https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:CDN-5"
-    },
-    {
       "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -33,7 +25,7 @@
       "description": "HV:85"
     },
     {
-      "url": "http://158.172.217.18:8000/play/a02u/index.m3u8",
+      "url": "http://158.172.217.18:8000/play/a00t/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -49,7 +41,7 @@
       "description": "HV:158"
     },
     {
-      "url": "http://158.172.217.18:8000/play/a00t/index.m3u8",
+      "url": "http://158.172.217.18:8000/play/a02u/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -57,12 +49,12 @@
       "description": "HV:158"
     },
     {
-      "url": "http://45.167.1.138:8000/play/a03m",
+      "url": "https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
-      "description": "HV:45"
+      "name": "Audio",
+      "description": "HV:CDN-5"
     },
     {
       "url": "http://45.167.1.138:8000/play/a06b",
@@ -70,6 +62,14 @@
         "notWebReady": true
       },
       "name": "FHD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a03m",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
       "description": "HV:45"
     }
   ]
