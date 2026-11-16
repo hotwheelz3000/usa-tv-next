@@ -223,6 +223,22 @@
       },
       "name": "SD",
       "description": "HV:XUMO-DRCT-CH"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a013",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a05l",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     }
   ]
 }
