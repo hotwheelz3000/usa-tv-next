@@ -1,7 +1,23 @@
 {
   "streams": [
     {
+      "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
       "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -25,6 +41,22 @@
       "description": "HV:CDN-UW2-PROD"
     },
     {
+      "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-ATBA2200008XN",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "Audio",
+      "description": "HV:JMP2"
+    },
+    {
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -41,22 +73,6 @@
       "description": "HV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/stvp-CHBA22000080G",
       "behaviorHints": {
         "notWebReady": true
@@ -66,22 +82,6 @@
     },
     {
       "url": "https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-ATBA2200008XN",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "Audio",
-      "description": "HV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
