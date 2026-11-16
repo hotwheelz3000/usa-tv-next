@@ -71,6 +71,14 @@
       },
       "name": "SD",
       "description": "HV:STREAM8"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a019",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
     }
   ]
 }
