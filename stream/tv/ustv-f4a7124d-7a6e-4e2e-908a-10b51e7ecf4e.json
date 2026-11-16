@@ -1,12 +1,12 @@
 {
   "streams": [
     {
-      "url": "http://stream.mcquack.net/205/index.m3u8",
+      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "FHD",
-      "description": "HV:STREAM"
+      "name": "SD",
+      "description": "HV:38"
     },
     {
       "url": "http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8",
@@ -17,12 +17,12 @@
       "description": "HV:88"
     },
     {
-      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
+      "url": "http://stream.mcquack.net/205/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "SD",
-      "description": "HV:38"
+      "name": "FHD",
+      "description": "HV:STREAM"
     },
     {
       "url": "https://wbd.skandha.tv/Investigation_Discovery_India_HD/Investigation_Discovery_India_HD.isml/.mpd",
