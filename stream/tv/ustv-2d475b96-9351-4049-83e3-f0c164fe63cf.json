@@ -31,6 +31,14 @@
       },
       "name": "HD",
       "description": "HV:200"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a06k",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     }
   ]
 }
