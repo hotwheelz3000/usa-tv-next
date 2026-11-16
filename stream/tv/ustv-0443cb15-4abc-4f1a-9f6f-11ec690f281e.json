@@ -31,6 +31,14 @@
       },
       "name": "SD",
       "description": "HV:JMP2"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a01a",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:45"
     }
   ]
 }
