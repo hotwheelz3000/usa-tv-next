@@ -462,6 +462,31 @@
       "streams": []
     },
     {
+      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
+      "tvgId": "",
+      "name": "A&E",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://45.167.1.138:8000/play/a03g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        }
+      ]
+    },
+    {
       "id": "ustv-99062293-9967-460e-9758-8604557c381a",
       "tvgId": "",
       "name": "ACC Network",
@@ -1586,6 +1611,39 @@
       ]
     },
     {
+      "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8",
+      "tvgId": "",
+      "name": "Fox Business",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "News",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-business-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-business-us.png",
+      "genres": [
+        "News"
+      ],
+      "streams": [
+        {
+          "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "Audio",
+          "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1784102546&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=cac9ac4bc54a6e48978f2fae429de506",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "Audio",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    },
+    {
       "id": "ustv-7041e64c-37e3-430e-9a09-f4cf7d8c56de",
       "tvgId": "",
       "name": "Fox News",
@@ -2338,6 +2396,31 @@
       "streams": []
     },
     {
+      "id": "ustv-758c5103-3ae7-481b-b06a-105367095900",
+      "tvgId": "",
+      "name": "MSNBC",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "News",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/msnbc-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msnbc-us.png",
+      "genres": [
+        "News"
+      ],
+      "streams": [
+        {
+          "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=68093cc976c69de22a5f01b8034edf41",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    },
+    {
       "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034",
       "tvgId": "",
       "name": "MTV",
@@ -2572,6 +2655,31 @@
         "Sports"
       ],
       "streams": []
+    },
+    {
+      "id": "ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f",
+      "tvgId": "",
+      "name": "NHL Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nhl-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nhl-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:NHL-FIRETV"
+        }
+      ]
     },
     {
       "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f",
@@ -3561,114 +3669,6 @@
         "Sports"
       ],
       "streams": []
-    },
-    {
-      "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8",
-      "tvgId": "",
-      "name": "Fox Business",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "News",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-business-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-business-us.png",
-      "genres": [
-        "News"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1784102546&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=cac9ac4bc54a6e48978f2fae429de506",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN6"
-        }
-      ]
-    },
-    {
-      "id": "ustv-758c5103-3ae7-481b-b06a-105367095900",
-      "tvgId": "",
-      "name": "MSNBC",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "News",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/msnbc-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msnbc-us.png",
-      "genres": [
-        "News"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=68093cc976c69de22a5f01b8034edf41",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        }
-      ]
-    },
-    {
-      "id": "ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f",
-      "tvgId": "",
-      "name": "NHL Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nhl-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nhl-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:NHL-FIRETV"
-        }
-      ]
-    },
-    {
-      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
-      "tvgId": "",
-      "name": "A&E",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "http://45.167.1.138:8000/play/a03g",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:45"
-        }
-      ]
     }
   ]
 }
