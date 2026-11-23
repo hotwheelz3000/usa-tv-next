@@ -1,12 +1,28 @@
 {
   "streams": [
     {
+      "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:181"
+    },
+    {
       "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "HD",
       "description": "HV:DASH4"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a05s",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:45"
     },
     {
       "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
@@ -25,28 +41,12 @@
       "description": "HV:TVSEN6"
     },
     {
-      "url": "http://45.167.1.138:8000/play/a05s",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:45"
-    },
-    {
       "url": "http://38.224.175.2:8000/play/a03s/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "SD",
       "description": "HV:38"
-    },
-    {
-      "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "SD",
-      "description": "HV:181"
     }
   ]
 }
