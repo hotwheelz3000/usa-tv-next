@@ -207,6 +207,14 @@
       },
       "name": "SD",
       "description": "HV:38"
+    },
+    {
+      "url": "https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/amg00376/AMG00376C16/segmented_playlist/0/36-90-2885.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=41E6152D-2E5D-47B1-B910-6C069D7FDCD1&ads.n1=rule_id&ads.v1=3DD25AFA-F895-4BAA-9D6D-089AAD5E7187-1781621125&ads.n3=qp_content_id&ads.v3=41E6152D-2E5D-47B1-B910-6C069D7FDCD1&ads.n4=content_name&ads.v4=History%20&%20Warfare%20Now&ads.n21=url&ads.v21=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n22=channel_genre&ads.v22=History&ads.n23=cust_devicename&ads.v23=desktop_web&ads.n24=channel_ext_id&ads.v24=&ads.n25=channel_name&ads.v25=History%20&%20Warfare%20Now&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=content_livestream&ads.v27=1&ads.n28=h&ads.v28=1080&ads.n29=channel_company_id&ads.v29=AMDP500130&ads.n30=channel_title&ads.v30=History%20&%20Warfare%20Now&ads.n31=content_type&ads.v31=channel&ads.n32=content_producer_name&ads.v32=Blue%20Skye%20Entertainment%20%28US%29%20LLC&ads.n33=ua&ads.v33=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n34=channel_brand_id&ads.v34=AMDB013693&ads.n35=did&ads.v35=&ads.n36=content_custom_1_param&ads.v36=41E6152D-2E5D-47B1-B910-6C069D7FDCD1&ads.n37=channel_corp&ads.v37=Blue%20Skye%20Entertainment%20%28US%29%20LLC&ads.n38=channel_id&ads.v38=41E6152D-2E5D-47B1-B910-6C069D7FDCD1&ads.n39=gpp_sid&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=content_provider&ads.v41=history-warfare-now&ads.n42=gpp&ads.v42=&ads.n43=app_version&ads.v43=0.0.0&ads.n44=device_type&ads.v44=&ads.n45=w&ads.v45=1920&ads.n46=ifa_type&ads.v46=&ads.n47=network_name&ads.v47=history-warfare-now&ads.n48=app_store_url&ads.v48=&ads.n49=device_make&ads.v49=&ads.n50=device_model&ads.v50=&ads.n51=channel_language&ads.v51=en&ads.n52=dnt&ads.v52=&ads.n53=content_custom_2_param&ads.v53=AMDB013693&ads.n54=app_name&ads.v54=&ads.n55=us_privacy&ads.v55=1NYY&ads.n56=pos&ads.v56=midroll&ads.n57=app_bundle&ads.v57=&ads.n58=ip&ads.v58=187.14.239.54",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:S9HOST1"
     }
   ]
 }
