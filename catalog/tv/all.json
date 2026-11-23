@@ -1718,6 +1718,56 @@
       ]
     },
     {
+      "id": "ustv-3a01ed05-44c1-4c7a-aaff-4775c515d702",
+      "tvgId": "",
+      "name": "FS1",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-1-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-1-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAM"
+        }
+      ]
+    },
+    {
+      "id": "ustv-17909d85-030e-4152-9de5-9e3d7143c41d",
+      "tvgId": "",
+      "name": "FS2",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-2-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-2-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        }
+      ]
+    },
+    {
       "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc",
       "tvgId": null,
       "name": "Fuse",
@@ -2360,6 +2410,64 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        }
+      ]
+    },
+    {
+      "id": "ustv-87c6ef8e-58eb-41d9-b636-6936a65b8033",
+      "tvgId": "",
+      "name": "Marquee Sports Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/marquee-sports-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/marquee-sports-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1784102523&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=93bce8c31c0b8ab66f85c4aa716baae0",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    },
+    {
+      "id": "ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3",
+      "tvgId": "",
+      "name": "MeTV",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/metv-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/metv-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://iptvbd.live/metv1080/1080.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:IPTVBD"
         }
       ]
     },
@@ -3669,114 +3777,6 @@
         "Sports"
       ],
       "streams": []
-    },
-    {
-      "id": "ustv-3a01ed05-44c1-4c7a-aaff-4775c515d702",
-      "tvgId": "",
-      "name": "FS1",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-1-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-1-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:STREAM"
-        }
-      ]
-    },
-    {
-      "id": "ustv-17909d85-030e-4152-9de5-9e3d7143c41d",
-      "tvgId": "",
-      "name": "FS2",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-2-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-2-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:OTTE"
-        }
-      ]
-    },
-    {
-      "id": "ustv-87c6ef8e-58eb-41d9-b636-6936a65b8033",
-      "tvgId": "",
-      "name": "Marquee Sports Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/marquee-sports-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/marquee-sports-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1784102523&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=93bce8c31c0b8ab66f85c4aa716baae0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:TVSEN6"
-        }
-      ]
-    },
-    {
-      "id": "ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3",
-      "tvgId": "",
-      "name": "MeTV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/metv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/metv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://iptvbd.live/metv1080/1080.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:IPTVBD"
-        }
-      ]
     }
   ]
 }
