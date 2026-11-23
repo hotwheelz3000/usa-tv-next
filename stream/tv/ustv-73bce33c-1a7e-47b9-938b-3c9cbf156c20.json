@@ -111,6 +111,14 @@
       },
       "name": "Cartoon Network (FHD)",
       "description": "HV:23"
+    },
+    {
+      "url": "https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:BL"
     }
   ]
 }
