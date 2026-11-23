@@ -215,6 +215,38 @@
       },
       "name": "Nickelodeon (HD)",
       "description": "HV:23"
+    },
+    {
+      "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:85"
+    },
+    {
+      "url": "http://87.120.179.187:8000/play/a00x",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:87"
+    },
+    {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:VUVUU-GEIL-M"
+    },
+    {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:VUVUU-GEIL-M"
     }
   ]
 }
