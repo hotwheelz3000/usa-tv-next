@@ -247,6 +247,30 @@
       },
       "name": "FHD",
       "description": "HV:38"
+    },
+    {
+      "url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:TNTM"
+    },
+    {
+      "url": "http://205.235.6.29:8000/play/a0xa/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:205"
+    },
+    {
+      "url": "https://mursor.ottiptv.cc/douyu/8936207",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:MURSOR"
     }
   ]
 }
