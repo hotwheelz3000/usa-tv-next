@@ -15,6 +15,14 @@
       },
       "name": "FHD",
       "description": "HV:92"
+    },
+    {
+      "url": "https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:DASH2"
     }
   ]
 }
