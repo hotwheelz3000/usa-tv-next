@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
+      "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
@@ -9,7 +9,7 @@
       "description": "HV:23"
     },
     {
-      "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
+      "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
