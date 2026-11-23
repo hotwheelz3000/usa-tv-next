@@ -87,6 +87,14 @@
       },
       "name": "Discovery Channel (FHD)",
       "description": "HV:23"
+    },
+    {
+      "url": "https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:DASH2"
     }
   ]
 }
