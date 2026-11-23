@@ -71,6 +71,14 @@
       },
       "name": "SD",
       "description": "HV:45"
+    },
+    {
+      "url": "http://38.211.118.56:50002/play/a0fa/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:38"
     }
   ]
 }
