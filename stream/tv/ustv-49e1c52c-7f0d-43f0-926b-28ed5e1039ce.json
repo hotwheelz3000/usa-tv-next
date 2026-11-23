@@ -95,6 +95,22 @@
       },
       "name": "FHD",
       "description": "HV:CDN-UW2-PROD"
+    },
+    {
+      "url": "https://amg01444-amg01444c5-vidaa-us-8213.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischanneldeutschland-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8701",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:AMG01444-AMG"
+    },
+    {
+      "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:MUMBAI-EDGE"
     }
   ]
 }
