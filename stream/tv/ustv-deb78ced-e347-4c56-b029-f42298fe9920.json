@@ -79,6 +79,46 @@
       },
       "name": "SD",
       "description": "HV:STREAMS2"
+    },
+    {
+      "url": "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:A-CDN"
+    },
+    {
+      "url": "https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8?checkedby:iptvcat.net",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "HD",
+      "description": "HV:A-CDN"
+    },
+    {
+      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8?checkedby:iptvcat.net",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:2-FSS-2"
+    },
+    {
+      "url": "https://awe-lg.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:AWE-LG"
+    },
+    {
+      "url": "https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887785&ads.xumo_streamId=88887785&ads.channelName=aweplus_us&ads.csid=vidaa_us_herringnewsnetworkaweplus_ssai&ads.caid=HerringNewsNetworkAwePlus&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads.xumo_contentId=4322&ads.xumo_contentName=HerringNewsNetworkAwePlus&ads.xumo_providerId=4322&ads.xumo_providerName=HerringNewsNetworkAwePlus&ads.client_section=HerringNewsNetwork_AwePlus&ads.vidaa_providername=HerringNewsNetworkAwePlus&ads.appName=%7BADS.APP_NAME%7D&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.appVersion=1&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9925",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "SD",
+      "description": "HV:DAPDWCO2FKCO"
     }
   ]
 }
