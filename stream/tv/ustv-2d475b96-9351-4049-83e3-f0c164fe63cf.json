@@ -9,14 +9,6 @@
       "description": "HV:200"
     },
     {
-      "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "FHD",
-      "description": "HV:168"
-    },
-    {
       "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -39,6 +31,14 @@
       },
       "name": "FHD",
       "description": "HV:45"
+    },
+    {
+      "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "FHD",
+      "description": "HV:168"
     }
   ]
 }
